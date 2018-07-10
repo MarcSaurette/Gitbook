@@ -1,12 +1,8 @@
----
-description: A How-to Guide for using Dublin Core with Medieval Content
----
-
 # Dublin Core
 
 | **Element** | **What to input** | **Example** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Title** | Title given to the artifact | Yorkshire Deed Certificate by William Bron, Collector of the King’s Rents |
+| **Title** | Title given to the artifact | Yorkshire Deed Charter by William Bron, Collector of the King’s Rents |
 | **Subject** | Keywords |  |
 | **Description** | Free-text description of the item. All additional research should go here. |  |
 | **Type** | Resource type | Charter, Deed |

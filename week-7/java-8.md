@@ -1,10 +1,3 @@
----
-description: >-
-  Some of the tools for this course require Java 8 or higher to work. Please
-  follow this guide if you are not meeting your Java dependencies. If everything
-  is working fine, skip this lesson.
----
-
 # Java 8
 
 ## Installing Java 8 on your machine

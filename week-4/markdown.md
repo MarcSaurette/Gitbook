@@ -1,7 +1,3 @@
----
-description: How to get started using Atom as your Markdown Editor
----
-
 # Markdown
 
 ![Markdown with Atom](../.gitbook/assets/68747470733a2f2f636c6f75642e67697468756275736572636f6e74656e742e636f6d2f6173736574732f3337383032332f.png)

@@ -1,7 +1,3 @@
----
-description: 'Congratulations, you''ve got Transkribus working! Now what?'
----
-
 # Getting Started with Transkribus
 
 Take a look at the panel on the left-hand side and click **Login**. Use your Transkribus credentials \(Email address and password\).

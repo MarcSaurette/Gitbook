@@ -1,9 +1,3 @@
----
-description: >-
-  "GitHub is a code hosting platform for version control and collaboration. It
-  lets you and others work together on projects from anywhere." -Github Guide
----
-
 # Github
 
 If you completed the previous lesson, your Markdown file is ready. The next step is to **Push** \(or contribute\) the file to the Repository \([/MedievalBook](https://github.com/MarcSaurette/medieval-book)\) you **Forked** in Week 2. If you have not done so yet, click the link above and do so now. 

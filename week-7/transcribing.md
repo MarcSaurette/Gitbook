@@ -1,10 +1,3 @@
----
-description: >-
-  Transcribing in Transkribus is relatively straight-forward but adhering to the
-  practices below is key to ensuring consistency among our digital
-  transcriptions.
----
-
 # Transcribing
 
 ### Metadata
