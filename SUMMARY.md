@@ -8,6 +8,7 @@
 * [Week 4](week-4/README.md)
   * [Markdown](week-4/atom.md)
   * [Github](week-4/github.md)
+* [Installing Medieval Unicode](installing-medieval-unicode.md)
 * [Week 7](lesson-transkribus/README.md)
   * [Getting Started with Transkribus](lesson-transkribus/getting-started-with-transkribus.md)
   * [Transcribing](lesson-transkribus/transcribing.md)
