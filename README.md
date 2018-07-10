@@ -2,7 +2,9 @@
 
 ### What you will learn
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in magna eget lacus bibendum sodales. Pellentesque blandit turpis tellus, in elementum tortor posuere a. Nullam ullamcorper mi at libero laoreet aliquet.
+In this class, we'll be engaging in some Digital Humanities lite. We'll start off gently, getting you used to writing in the online environment, before starting some hands-on book history, which we will then use to get deeper and deeper into the world of digital manuscript studies. Imagine this class as if a sampler pack, trying to do a few different things so that you get a sense of what is possible.
+
+In order to make the work we do here more accessible, much of what we will do 
 
 ### How to use this workbook
 
