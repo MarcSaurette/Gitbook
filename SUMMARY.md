@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Welcome to HIST 4006A](README.md)
-* [Overview of the Course](Schedule.md)
+* [Introduction](README.md)
+* [Welcome to HIST 4006A](welcome-to-hist-4006a.md)
+* [Overview of the Course](overview-of-the-course.md)
 * [Week 1 & 2](week-1-and-2/README.md)
   * [Signing Up](week-1-and-2/signing-up.md)
 * [Week 3](week-3/README.md)
