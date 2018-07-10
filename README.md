@@ -4,7 +4,9 @@
 
 In this class, we'll be engaging in some Digital Humanities lite. We'll start off gently, getting you used to writing in the online environment, before starting some hands-on book history, which we will then use to get deeper and deeper into the world of digital manuscript studies. Imagine this class as if a sampler pack, trying to do a few different things so that you get a sense of what is possible.
 
-In order to make the work we do here more accessible, much of what we will do 
+In order to make the work we do here more accessible, much of what we will do will be online letting others potential see what we do \(both good and bad\). The syllabus, reading lists, descriptions of assignments etc. will be available somewhere online \(usually on Github\) for others to use as they will. Your work hopefully will also contribute to a better understanding of the manuscript holdings of Carleton University in the future. 
+
+This workbook will help you work through many of the practical exercises necessary for the course.
 
 ### How to use this workbook
 
