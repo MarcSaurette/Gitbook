@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome to HIST 4006A](README.md)
+* [Schedule](schedule.md)
 * [Week 1 & 2](week-1-and-2/README.md)
-* [Schedule](Schedule.md)
   * [Signing Up](week-1-and-2/signing-up.md)
 * [Week 3](week-3/README.md)
   * [Dublin Core](week-3/dublin-core.md)
