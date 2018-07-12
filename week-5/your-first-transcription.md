@@ -18,7 +18,7 @@ The purpose of a transcription is to provide an accurate record of the manuscrip
 
 | **symbol** | **description** | **use** | **example** |
 | --- | --- | --- | --- |
-| \( \) | Parentheses | Expanded abbreviation | d\(omi\)ni |
+| \( \) | Parentheses | Expanded abbreviation | d\(omi\)ni  |
 | † † | obeli or daggers | problematic readings: text is corrupt, or transcriber is uncertain of the text | †domini† |
 | / \ | slashes | scribal insertion on the line | do/mi\ni |
 |  / | slashes | scribal insertion between lines | do\mi/ni |
