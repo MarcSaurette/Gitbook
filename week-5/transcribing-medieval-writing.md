@@ -1,4 +1,4 @@
-# Transcribing medieval writing
+# Your first transcription
 
 \(Lightly adapted from the rules suggested in Raymond Clemens and Timothy Graham. [_Introduction to Manuscript Studies_](http://www.cornellpress.cornell.edu/book/?GCOI=80140100177870). Ithaca: Cornell University Press, 2007.
 

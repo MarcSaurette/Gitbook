@@ -11,7 +11,7 @@
   * [Markdown](week-4/markdown.md)
   * [Github](week-4/github.md)
 * [Week 5](week-5/README.md)
-  * [Transcribing medieval writing](week-5/transcribing-medieval-writing.md)
+  * [Your first transcription](week-5/transcribing-medieval-writing.md)
 * [Week 6](week-6/README.md)
   * [Installing Medieval Unicode](week-6/InstallMUFI.md)
 * [Week 7](week-7/README.md)
