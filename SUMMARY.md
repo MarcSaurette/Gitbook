@@ -13,7 +13,7 @@
 * [Week 5](week-5/README.md)
   * [Transcribing medieval writing](week-5/transcribing-medieval-writing.md)
 * [Week 6](week-6/README.md)
-  * [Installing Medieval Unicode](week-6/installing-medieval-unicode.md)
+  * [Installing Medieval Unicode](week-6/InstallMUFI.md)
 * [Week 7](week-7/README.md)
   * [Getting Started with Transkribus](week-7/getting-started-with-transkribus.md)
   * [Transcribing](week-7/transcribing.md)
@@ -38,4 +38,3 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
-
