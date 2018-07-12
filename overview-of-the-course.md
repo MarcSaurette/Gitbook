@@ -31,7 +31,7 @@
 
 * how to use markdown and Remarkable/atom \(Kate will lookup various editor options\)
 
-  -Homework is finish.
+  -Homework is finish github/ homework is to try to identify parchment type.
 
   -use hypothes.is to comment
 
@@ -40,14 +40,16 @@
 * how does medium change the message
 * show and tell with tablets other possible medieval
 * Homework: describe the parchment, as much as possible, on Omeka
+* homework: start to transcribe folio by hand
+* homeowork: try to identify script of folio
 
 #### Week 6. Palaeography
 
 * get students to write with calligraphy pen
 * homework: describe palaeography of folio on Omeka
-* homework: start to transcribe folio by hand
 * homework: add list of abbreviations that they use commonly IRL to a markdown page through GitBook
 * create poll on slack to measure use of abbreviations \(chat/ twitter\)?
+* homework: install MUFI unicode and try it out. 
 
 #### Week 7. Abbreviations/ Punctuation
 
