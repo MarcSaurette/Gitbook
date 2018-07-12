@@ -13,7 +13,7 @@ One of our first steps is establishing an online public profile. This process wi
 To help with communication in this class, I want to try to avoid email or cuLearn, but instead will try to centralize communication through Slack. Slack is a group messenger application that can be installed on your phone and tablet, used on your browser or a desktop app.
 
 1. Download desktop apps [here](https://slack.com/downloads/) and other versions depending on the OS of your mobile device.
-2. Sign in to our slack group – following the link I will send out after our first class.
+2. Register yourself and sign in to our slack group – following the link I will send out after our first class.
 3. Click on the header "Channels" in the sidebar \(on desktop or browser versions\). It should say "Browse all channels" if you hover your cursor over it. Add yourself to all the public channels you can, by clicking on a channel and then pressing the "Join" button. These channels will now remain in your sidebar, updating you on contributions people make.
 
 ### Humanities Commons
@@ -34,7 +34,7 @@ As it notes on their website, "ORCID provides a persistent digital identifier th
 
 ### Twitter
 
-We want to get you on the Twitter to encourage you to get familiar with what digital medievalists are talking about, what they are reading and what they are writing about. Twitter operates like medieval _fama_ – an echo chamber of speech flitting about spreading rumours. With the immediacy of digital pseudo-presence, Twitter collapses distance and difference. It is rarely obvious who is a senior scholar and who is a student, who is simply an interested on-looker and who is a hyper-specialist. Our goal in engaging with Twitter is for each of you to use it as a way to do some superficial research, network with other likeminded scholars and put yourself \(and your work\) out there....
+We want to get you on the Twitter to encourage you to get familiar with what digital medievalists are talking about, what they are reading and what they are writing about. Twitter operates like medieval _fama_ – an echo chamber of speech flitting about and spreading rumours. With the immediacy of digital pseudo-presence, Twitter collapses distance and difference. It is rarely obvious who is a senior scholar and who is a student, who is simply an interested on-looker and who is a hyper-specialist. Our goal in engaging with Twitter is for each of you to use it as a way to do some superficial research, network with other likeminded scholars and put yourself \(and your work\) out there....
 
 1. Sign up for Twitter [here](https://twitter.com/i/flow/signup). If you are already on Twitter you may wish to create a new account for the class.
 2. Make sure to add your Twitter handle to your hcommons profile and, once you've joined our [slack group](https://digitalarchiving.slack.com), add your twitter to the channel, \#twitter.
@@ -52,7 +52,7 @@ We will talk more in a later week about how we will be using Omeka.
 
 ### Github
 
-You are currently reading this on Github. So you already know what it looks like. This file is written in "Markdown", a simple text formatting language. For a guide to writing .md \(markdown\) files, take a look [here](https://help.github.com/categories/writing-on-github/). But your first steps should be:
+You are currently reading this on Gitbook, derived from files hosted on Github. You can see the Github file for this page [here](https://github.com/MarcSaurette/Gitbook/blob/master/week-1-and-2/signing-up.md). That file is written in "Markdown", a simple text formatting language. For a guide to writing .md \(markdown\) files, take a look [here](https://help.github.com/categories/writing-on-github/). But your first steps should be:
 
 1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking [here](https://github.com/join?source=header-repo). Go to Slack and in the channel, "Github" [integrate your account](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack), as easy as typing "/github signin".
 2. Navigate to my [repository](https://github.com/MarcSaurette/medieval-book) and press on the button "Fork" at the top right hand corner of the page. "Forking" copies the contents of my repository to your own Github repository.
