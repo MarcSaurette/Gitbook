@@ -1,6 +1,6 @@
 # Twitter Strategies
 
-\[Taken from Jesse Strommel, "Promoting Open Access Publications and Academic Projects", [http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/](http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/).
+\[Taken from Jesse Strommel, "Promoting Open Access Publications and Academic Projects", [http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/](http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/).\]
 
 **How to Promote an Academic Project or Publication**
 
