@@ -6,7 +6,7 @@ There are two ways you can **Push** your content. Follow which ever tutorial mat
 
 ### Push via Github Desktop
 
-\(Marc?\)
+Check the documentation [here](https://help.github.com/desktop/guides/contributing-to-projects/) for help with the desktop app.
 
 ### Push via Terminal
 

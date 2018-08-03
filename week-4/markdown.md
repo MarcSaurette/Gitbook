@@ -38,7 +38,7 @@ last name_first name.md
 ```
 
 **Step 2:** Navigate to the **Packages** tab and select **Markdown Preview** &gt;&gt; **Toggle Preview** to see a live preview of your Markdown in action.   
-You should see the code about translated to a Markdown file.
+You should see the code translated to a Markdown file.
 
 **Step 3:** Replace the example text with your own, check to make sure you get the syntax correct by checking the Markdown Preview. Once you are satisfied with your work, learn how to contribute the file to our repository on Github in the [next lesson](github.md).
 
