@@ -5,7 +5,7 @@
 * [Overview of the Course](overview-of-the-course.md)
 * [Week 1 & 2](week-1-and-2/README.md)
   * [Signing Up](week-1-and-2/signing-up.md)
-  * [Twitter](week-1-and-2/twitter.md)
+  * [Using Twitter](week-1-and-2/twitter.md)
   * [Twitter Strategies](week-1-and-2/twitter-strategies.md)
 * [Week 3](week-3/README.md)
   * [Dublin Core](week-3/dublin-core.md)
