@@ -2,12 +2,12 @@
 
 | **Element** | **What to input** | **Example** |
 | :--- | :--- | :--- |
-| **Title** | Title given to the artifact | Yorkshire Deed Charter by William Bron, Collector of the King’s Rents |
-| **Subject** | Keywords |  |
+| **Title** | Title given to the artifact | Yorkshire Deed by William Bron, Collector of the King’s Rents |
+| **Subject** | Keywords | deed, rents, yorkshire, legal, judicial, chirograph |
 | **Description** | Free-text description of the item. All additional research should go here. |  |
-| **Type** | Resource type | Charter, Deed |
+| **Type** | Resource type | Envelope and Deed |
 | **Source** | Call Number | Ottawa, Carleton University, Carleton University Archives and Research Collections, Charter 2 |
-| **Relation** | Do we know which larger work this artifact came from? | Unknown |
+| **Relation** | Do we know which larger work this artifact came from? | Missing duplicate of the chirograph, whereabouts unknown. |
 | **Coverage** | Spatial location | Yorkshire, England |
 | **Creator** | Who made this piece? | William Bron |
 | **Publisher** | Who made this content available? | Carleton University Archives and Research Collections \(CUARC\) |
