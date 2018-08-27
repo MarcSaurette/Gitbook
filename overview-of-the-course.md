@@ -5,19 +5,20 @@
 #### Week 1. Meet the Class.
 
 * Choose Class hashtag
-* Choose your folios after learning about handling techniques
+* Students choose folio after learning about handling techniques
 * Homework: Signup Part One
 
 #### Week 2. Establishing an online presence.
 
-* Post picture of folio to Twitter and compose a pithy tweet to talk about it, sell others on it
+* Students post picture of their folio to Twitter and compose a pithy tweet\(s\) to talk about it, sell others on it.
 * Homework: Signup Part Two
 
 #### Week 3. Different Kinds of websites
 
-* In class demonstration, using model document - Charter \(Kate prepares blog post vs. Omeka\)
-* Talk about what Dublin Core
-* Post any picture on blog or OMEKA with "metadata" \(in class we place with OMEKA\)
+* Discuss the strengths and weaknesses of different kind of online presentations \(blogs vs. Omeka\)
+* Discuss what Dublin Core standards are
+* In class demonstration, using model document - Charter no. 2
+* * Post any picture on blog or OMEKA with "metadata" \(in class we place with OMEKA\)
 * end class with draft of OMEKA item description, ask them to finish it and compose a blog post about the same, taking into account how blog demands information to be described differently.
 * I need to create a new collection on OMEKA called "Student Exercises"
 * Homework: finish two entries, new tag for Blog - "student Exercises"
