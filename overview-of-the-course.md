@@ -4,16 +4,19 @@
 
 #### Week 1. Meet the Class.
 
-* Choose Class hashtag
-* Students choose folio after learning about handling techniques
+* Meet each other and the manuscripts
+* Choose a class hashtag
+* Students select folio for their work after learning about handling techniques
 * Homework: Signup Part One
 
 #### Week 2. Establishing an online presence.
 
-* Students post picture of their folio to Twitter and compose a pithy tweet\(s\) to talk about it, sell others on it.
+* Discuss why to have an online presences as an academic
+* Discuss the strengths and weakness of academic twitter/ blogging
+* In class, students will post a picture of their folio to Twitter and compose a pithy tweet\(s\) to talk about it, sell others on it.
 * Homework: Signup Part Two
 
-#### Week 3. Different Kinds of websites
+#### Week 3. Choose your own website
 
 * Discuss the strengths and weaknesses of different kind of online presentations \(blogs vs. Omeka\)
 * Discuss what Dublin Core standards are
