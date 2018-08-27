@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Overview of the Course](overview-of-the-course.md)
+* [Assignments] (assignments.md)
 * [Week 1 & 2](week-1-and-2/README.md)
   * [Signing Up](week-1-and-2/signing-up.md)
   * [Using Twitter](week-1-and-2/twitter.md)
@@ -42,4 +43,3 @@
 * [About](about.md)
 * [Assignments](assignments.md)
 * [Twitter Abbreviations](twitter-abbreviations.md)
-
