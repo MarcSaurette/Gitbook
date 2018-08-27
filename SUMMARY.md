@@ -41,4 +41,5 @@
 * [Week 25](week-25.md)
 * [About](about.md)
 * [Assignments](assignments.md)
+* [Twitter Abbreviations](twitter-abbreviations.md)
 
