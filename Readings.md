@@ -12,10 +12,13 @@ Ricoy. M. C., & Feliz, T., "Twitter as a Learning Community in Higher Education.
 
 Sarah Warner, "How to Destroy Special Collections with Social Media," (31 July 2015): http://sarahwerner.net/blog/2015/07/how-to-destroy-special-collections-with-social-media/
 
-British Library, *Medieval Manuscripts Blog*, http://blogs.bl.uk/digitisedmanuscripts/index.html 
+British Library, *Medieval Manuscripts Blog*, http://blogs.bl.uk/digitisedmanuscripts/index.html
+http://blogs.bl.uk/digitisedmanuscripts/2016/07/manuscript-the-tube.html
 
 ### 3. What Kind of Website Does Your Project Need?
 In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ (for better or worse) from their alternatives.
+
+
 
 ### 4. Keeping Track of Your Project with GitHub
 At the core of many DH projects is the belief that data wants to be free. But, most DH project require lots of labour and usually many people collaborating together (and using expertise/ tools developed in previous projects). Github is a platform built to allow collaboration on projects, but its ethos is grounded on the idea that users share their work and their experience. In this work, transparency about collaborative work (and the problems which arise) is key to moving forward. In this class we will talk about the issues of engaging in larger scale DH projects (i.e. more than one or two people) and will ask students to work some more with Github.
@@ -48,6 +51,8 @@ No readings. Debriefing the term; and maybe heading to LAC’s Preservation Lab.
 ### 13. Theory of the Digital Archive
 What is the difference between a manuscript and a digital version of it? This class welcomes students back and begins our focus on digitization in earnest.
 
+Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group, "Futures of the Book," in *Routledge Companion to Media Studies and Digital Humanities*, 336-344.
+
 ### 14. The Promise or the Possibilities of the Digital Humanities
 Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts.
 
@@ -68,6 +73,9 @@ In this class we will be looking at the guidelines for encoding medieval manuscr
 
 ### 20. Accessibility and Durability for DH Projects
 In this class, we will consider how to foreground accessibility in developing online exhibitions. Also we will be considering the issue of dead sites – what happens to your site after you stop maintaining it and how to ensure the information you have work so hard on does not disappear into the ether…
+
+Dene Grigar and Stuart Moulthrop, "TRAVERSALS: A Method of Preservation for Born-Digital Texts," in *Routledge Companion to Media Studies and the Digital Humanities*, 351-361.
+
 
 ### 21. One-on-one work with the professor I
 ### 22. One-on-one work with the professor II
