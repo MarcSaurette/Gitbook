@@ -8,6 +8,7 @@
 * Choose a class hashtag
 * Students select folio for their work after learning about handling techniques
 * Homework: Signup Part One
+* Evaluation: Humanities Common Profile
 
 #### Week 2. Establishing an online presence.
 

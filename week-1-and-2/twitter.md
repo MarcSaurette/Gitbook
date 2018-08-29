@@ -1,7 +1,3 @@
----
-description: How to use Twitter in this class.
----
-
 # Using Twitter
 
 After our first class, you should have signed up for a Twitter account and integrated it into our Slack, so that we will be able to find one another easily. When you tweet about the class, you should use a \#hashtag \(that we decide on together to represent the class\) to ensure we're in dialogue with one another.

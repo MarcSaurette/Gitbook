@@ -44,7 +44,7 @@ We want to get you on the Twitter to encourage you to get familiar with what dig
 
 ### Omeka
 
-The class will be working together on a Omeka site [here](https://medievalottawa.org). Once you navigate to this site, on the top right hand corner, there will be the option to "Register". Click on the link and fill out the form. The Omeka user names are private so please use the name by which I will know you. You will be sent an email with a link to confirm your email \(it will take a few minutes to arrive so be patient\). After you click you will be registered as a guest user, which I will update to "researcher" \(which gives you more access\) as soon I have a chance.
+The class will be working together on a Omeka site [here](https://medievalottawa.org). Once you navigate to this site, on the top right hand corner, there will be the option to "Register". Click on the link and fill out the form. The Omeka user names are private so please use a name by which I will know you. You will be sent an email with a link to confirm your email \(it will take a few minutes to arrive so be patient\). After you click you will be registered as a guest user, which I will update to "researcher" \(which gives you more access\) as soon I have a chance.
 
 We will talk more in a later week about how we will be using Omeka.
 
@@ -55,7 +55,7 @@ We will talk more in a later week about how we will be using Omeka.
 You are currently reading this on Gitbook, derived from files hosted on Github. You can see the Github file for this page [here](https://github.com/MarcSaurette/Gitbook/blob/master/week-1-and-2/signing-up.md). That file is written in "Markdown", a simple text formatting language. For a guide to writing .md \(markdown\) files, take a look [here](https://help.github.com/categories/writing-on-github/). But your first steps should be:
 
 1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking [here](https://github.com/join?source=header-repo). Go to Slack and in the channel, "Github" [integrate your account](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack), as easy as typing "/github signin".
-2. Navigate to my [repository](https://github.com/MarcSaurette/medieval-book) and press on the button "Fork" at the top right hand corner of the page. "Forking" copies the contents of my repository to your own Github repository.
+2. Navigate to my repository and press on the button "Fork" at the top right hand corner of the page. "Forking" copies the contents of my repository to your own Github repository.
 3. Complete the GitHub [starter guide](https://guides.github.com/activities/hello-world/) through the browser portal. Look through as many guides as interest you, [here](https://guides.github.com/).
 4. [Download](https://desktop.github.com/) the GitHub desktop which allows you to manage/work with your GitHub files offline. Install and set up the desktop version.
 5. Press the "Fetch" Button, to download your online files to your hard drive. Locate where these files are on your hard drive for future reference.
