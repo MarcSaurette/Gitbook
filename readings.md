@@ -1,10 +1,10 @@
 # Readings
 
-## 1. Meet the Class
+### 1. Meet the Class
 
 No readings. Come prepared to meet your classmates, talk about yourself, and look at some medieval manuscripts.
 
-## 2. Establishing an Online Presence: Blogs and Twitter
+### 2. Establishing an Online Presence: Blogs and Twitter
 
 This class is devoted to considering how and why you might want to develop an online presence as an individual, but also as heritage institution. We’ll dip out toes into the online world by signing up for an hcommons.org profile, preparing to write blog posts and beginning to Tweet.
 
@@ -16,15 +16,15 @@ Sarah Warner, "How to Destroy Special Collections with Social Media," \(31 July 
 
 British Library, _Medieval Manuscripts Blog_, [http://blogs.bl.uk/digitisedmanuscripts/index.html](http://blogs.bl.uk/digitisedmanuscripts/index.html) [http://blogs.bl.uk/digitisedmanuscripts/2016/07/manuscript-the-tube.html](http://blogs.bl.uk/digitisedmanuscripts/2016/07/manuscript-the-tube.html)
 
-## 3. What Kind of Website Does Your Project Need?
+### 3. What Kind of Website Does Your Project Need?
 
-In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ \(for better or worse\) from their alternatives.
+In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ \(for better or worse\) from their alternatives. Our work largely focusses on being descriptive/ analytical, but does not have 
 
-## 4. Keeping Track of Your Project with GitHub
+### 4. Keeping Track of Your Project with GitHub
 
 At the core of many DH projects is the belief that data wants to be free. But, most DH project require lots of labour and usually many people collaborating together \(and using expertise/ tools developed in previous projects\). Github is a platform built to allow collaboration on projects, but its ethos is grounded on the idea that users share their work and their experience. In this work, transparency about collaborative work \(and the problems which arise\) is key to moving forward. In this class we will talk about the issues of engaging in larger scale DH projects \(i.e. more than one or two people\) and will ask students to work some more with Github.
 
-## 5. Writing Supports
+### 5. Writing Supports
 
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
 
