@@ -38,7 +38,7 @@ Reading medieval manuscripts is difficult for modern readers due to a complex us
 
 ## 8. Codicology: Describing manuscript features
 
-Introduction to Codicology by Dr James Freeman, Cambridge University Library.
+[Introduction to Codicology](https://prezi.com/hjtg5f5p32y7/codicology-an-introduction-for-beginners/) by Dr James Freeman, Cambridge University Library.
 
 ## 9. Genre: Liturgical Manuscripts
 

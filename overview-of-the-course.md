@@ -87,6 +87,8 @@
 
 #### Week 11. Work on project
 
+Sign up for a time slot to work with the prof [here](https://docs.google.com/spreadsheets/d/14oSGKS_gNJ7uYbqBN2tGQWXJZVYkq9BozylFISGrgrc/edit?usp=sharing). 
+
 #### Week 12. Debrief/ Visit to Gatineau Preservation Centre.
 
 ### Winter Term
