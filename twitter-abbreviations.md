@@ -9,4 +9,3 @@ MT = Modified tweet. This means the tweet you're looking at is a paraphrase of a
 PRT = Partial retweet. The tweet you're looking at is the truncated version of someone else's tweet.  
 PRT = Please retweet, a plea to put at the end of a tweet  
 RT = Retweet. The tweet you're looking at was forwarded to you by another user
-

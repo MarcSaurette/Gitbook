@@ -5,9 +5,10 @@
 * [Assignments](assignments.md)
 * [Readings](readings.md)
 * [Week 1 & 2](week-1-and-2/README.md)
+  * [Lead a seminar]()
   * [Signing Up](week-1-and-2/signing-up.md)
   * [Using Twitter](week-1-and-2/twitter.md)
-  * [Twitter Strategies](week-1-and-2/twitter-strategies.md)
+  * [Twitter Abbreviations](twitter-abbreviations.md) Strategies](week-1-and-2/twitter-strategies.md)
 * [Week 3](week-3/README.md)
   * [Dublin Core](week-3/dublin-core.md)
 * [Week 4](week-4/README.md)
@@ -42,6 +43,3 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
-* [Assignments](assignments-1.md)
-* [Twitter Abbreviations](twitter-abbreviations.md)
-

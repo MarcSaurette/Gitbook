@@ -105,4 +105,3 @@ No readings. During class time for these two weeks, students will meet make form
 ## 25. Final Class
 
 No readings. Debriefing the term.
-
