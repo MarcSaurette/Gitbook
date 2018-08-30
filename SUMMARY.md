@@ -43,3 +43,10 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
+<<<<<<< HEAD
+=======
+* [Assignments](assignments-1.md)
+* [Twitter Abbreviations](twitter-abbreviations.md)
+* [Lead a seminar](lead-a-seminar.md)
+
+>>>>>>> 23c13adaadbab7f03544ee6fc49a355e80dec991
