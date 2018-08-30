@@ -44,4 +44,5 @@
 * [About](about.md)
 * [Assignments](assignments-1.md)
 * [Twitter Abbreviations](twitter-abbreviations.md)
+* [Lead a seminar](lead-a-seminar.md)
 
