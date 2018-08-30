@@ -12,7 +12,6 @@ A more detailed step-by-step guide to the projects will be distributed later in 
 * Project Updates:
   * Blogs                                                   500 words x 4
   * Tweets                                                \(≈200 characters x 4\) x 4 times
-  * Github                                                  Upload content from exercises x 5
 * Leading Seminar Preview Post                500 words x 2 \(one per term\)
 * Omeka Catalogue Entry                            ≈ 2000 words \(from exercises\)
 * Research Presentation                             15 mins ≈ 2,000 words
