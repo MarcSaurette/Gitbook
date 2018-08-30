@@ -1,4 +1,4 @@
-# Twitter Strategies
+# Twitter Abbreviations\]\(twitter-abbreviations.md\) Strategies
 
 \[Adapted from Jesse Strommel, "Promoting Open Access Publications and Academic Projects", [http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/](http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/).\]
 
