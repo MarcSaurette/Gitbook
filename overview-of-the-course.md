@@ -78,36 +78,43 @@
 
 #### Week 10. Cataloguing and Provenience
 
-* discussion: What is the connection between information, presentation and purpose
-* what is the nature of cataloguing in a born digital time?
-* Reading: compare De Ricci census, with Shailor/ Andristm, with ARC handlist/ CUAG inventory records and CUAG student research paper.
-* how to cite Twitter/ with zotero
+Discussion: What is the connection between information, presentation and purpose. What is the nature of cataloguing in a born-digital time?
 
-  -Homework: get your cataloguing on.
+Reading: Compare the De Ricci census and its Conway/Davis update with the catalogues by Shailor/ Andrist, with ARC handlist/ CUAG inventory records and CUAG student research paper.
+
+Classwork: How to cite Twitter/ How to use Zotero effectively
+
+Homework: get your Omeka cataloguing on.
 
 #### Week 11. Work on project
 
 Sign up for a time slot to work with the prof [here](https://docs.google.com/spreadsheets/d/14oSGKS_gNJ7uYbqBN2tGQWXJZVYkq9BozylFISGrgrc/edit?usp=sharing). 
 
-#### Week 12. Debrief/ Visit to Gatineau Preservation Centre.
+#### Week 12. Debrief/ Visit to Gatineau Preservation Centre
+
+We'll discuss what you have learned, what you still want to learn about handling, describing and transcribing medieval documents. 
 
 ### Winter Term
 
 #### Week 13. Digitizing Historical Materials
 
--discussion about what is different between real and image of folios -the theory of digitizing archival material
+Discussion about what is different between real folios and images of them. In essence, we will debate the theoretical questions raised about the project of digitizing archival material.
 
-#### Week 14. DH What is it?
+#### Week 14. DH? What are this?
 
--Shawn Graham might come tutor us? -interdisciplinary -goal is to get people thinking about different ideas of HOW to digitize something -get students to start thinking about how they want to "narrate" their folio as part of the larger exhibition -Shawn sets up a small exercise and readings?
+Discussion about how DH has many different paths and how "digitization" can mean many different things. This class is meant to be a brainstorming session for the project the class will develop for the end of term. 
 
 #### Week 15. Scanning/ Photography
 
--ask Lloyd/ ask Librarian to come in to talk about digital hub
+We will discuss the practical methodology of scanning manuscripts/ fragile media. What are the best practices? What can you easily DIY?
+
+We will look at how different institutions address this problem, and perhaps visit Carleton digital hub \(if it is up and running by now\). 
 
 #### Week 16. IIIF/ Mirador
 
--simple exercises playing with IIIF images -find address of image; play with image of their folio, change size, colour?, orientation, crop it -crop every image of a capital, make an alphabet with images -need to make template of exercise page \(on blog, in markdown? in gitbook\)
+Thanks to the digital librarians at MacOdrum, we already have photographs of our medieval material served to us from an IIIF server and incorporated into our Omeka site. We will explore the idea of IIIF and talk about its design.
+
+ Classwork: complete some simple exercises playing with IIIF images. How to find the address of image/manifest of a IIIF image and how to modify it for presentation purposes.
 
 #### Week 17. Annotations + IIIF.
 
@@ -122,15 +129,25 @@ Sign up for a time slot to work with the prof [here](https://docs.google.com/spr
 
 #### Week 19. TEI
 
--Shane Hawkins/ Shamus comes in to talk about project -exercise taken from DLL, modified to add Charter 2 Materials -get TEI visualized on Github as edition? -export from Transkribus and edit on Atom ...
+Shane Hawkins \(College of Humanities\) will join us to discuss his ongoing project - a transcription/ digital edition of a fifteenth-century commentary on the Roman poet Catullus. 
+
+Classwork/ Homework: Export transcription from Trankribus and convert Omeka folio description/ transcription into TEI format. Afterwards, combine them all into a single digital edition of the HIST4006 Folios.
 
 #### Week 20. How to ensure longevity/ accessibility
 
--Librarian visit?
+One problem with digital projects is longevity. Are we to imagine these as ephemera – meant to be fleeting instantiations of academic work – or do we treat them as permanent contributions. If the latter, how do we ensure that projects remain not just consultable, but also accessible to a diverse range of readers? We still use printed books from 4 centuries ago. Can we imagine the same will be said of digital editions? How do we make it so?
+
+A Librarian from MacOdrum Library will come talk about how libraries seek to ensure the viability of electronic resources. 
 
 #### Week 21 and 22. Free work/ Meeting with Professor
 
+During class time for these two weeks, students will meet with the professor one-on-one to get help with their final project.
+
 #### Weeks 23 and 24. Student Presentations.
 
+During class time for these two weeks, students will meet make formal 15 minute presentations of their work to the class.
+
 #### Week 25.
+
+Final debrief - class display of final digital exhibitions; hopes and dream for the future.
 
