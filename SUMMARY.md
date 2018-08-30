@@ -5,7 +5,7 @@
 * [Assignments](assignments.md)
 * [Readings](readings.md)
 * [Week 1 & 2](week-1-and-2/README.md)
-  * [Lead a seminar]()
+  * [Lead a seminar](lead-a-seminar.md)
   * [Signing Up](week-1-and-2/signing-up.md)
   * [Using Twitter](week-1-and-2/twitter.md)
   * [Twitter Abbreviations](twitter-abbreviations.md) Strategies](week-1-and-2/twitter-strategies.md)
@@ -43,10 +43,3 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
-<<<<<<< HEAD
-=======
-* [Assignments](assignments-1.md)
-* [Twitter Abbreviations](twitter-abbreviations.md)
-* [Lead a seminar](lead-a-seminar.md)
-
->>>>>>> 23c13adaadbab7f03544ee6fc49a355e80dec991
