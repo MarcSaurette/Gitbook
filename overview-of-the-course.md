@@ -19,33 +19,23 @@
 
 #### Week 3. Choose your own website
 
-* Discuss the strengths and weaknesses of different kind of online presentations \(blogs vs. Omeka\)
-* Discuss what Dublin Core standards are
-* In class demonstration, using model document - Charter no. 2
-* * Post any picture on blog or OMEKA with "metadata" \(in class we place with OMEKA\)
-* end class with draft of OMEKA item description, ask them to finish it and compose a blog post about the same, taking into account how blog demands information to be described differently.
-* I need to create a new collection on OMEKA called "Student Exercises"
-* Homework: finish two entries, new tag for Blog - "student Exercises"
+* Discuss the strengths and weaknesses of different kind of online presentations \(Wordpress vs. Omeka\)
+* Discuss what Dublin Core is and why cataloguing standards are important.
+* Look at ARC, charter no. 2 which will be the "model" folio that we will use to demonstrate different features of the tools/ sites we'll be using.
+* Classwork: edit information on Omeka \(using known "metadata"\) and post a picture of your folio to the Humanities Commons blog.
+* Homework: complete a draft of Omeka item description, ask them to finish it. Half the class will compose a blog post describing their work to date, half the class will write some tweets.
 
 #### Week 4. What is Github?
 
-* In class, we get them to sign in, fork a repository, create a repository and develop a readme file for their repository. They must name repository according to a normal convention "Last name, followed by medieval Book"
-* repository to fork contains list of links to other good and horrible github projects, link said repository to Github MEdieval BOok group hub
-
-  -then edit readme file using Atom or Remarkable on local file then Push to repository
-
-* how to use markdown and Remarkable/atom \(Kate will lookup various editor options\)
-
-  -Homework is finish github/ homework is to try to identify parchment type.
-
-  -use hypothes.is to comment
+* Discussion of what Github is, how it works and how collaboration is an important part of DH
+* In class, we sign in to Github, create a repository for storing research materials, write a Readme file for the repository. Practice using Markdown and the Atom text editor. Students will edit the Markdown file for their folio, add notes and sync with the repository located in the Digitizing Medieval Manuscripts.
+* Homework: finish any work on the markdown file; people who didn't write a blog post last week, use hypothes.is this week to comment on the blog posts.
 
 #### Week 5. Writing supports
 
-* how does medium change the message
-* show and tell with tablets other possible medieval
-* Homework: describe the parchment, as much as possible, on Omeka
-* homework: start to transcribe folio by hand
+* Discussion: how does medium change the message? Examine different kinds of "books" and consider how different writing surfaces determine the kind of writing, the longevity of the written word, and its potential dangers. 
+* Homework: describe the parchment of your folio, as much as possible on Github – use images if helpful. 
+* Homework: Complete a draft transcription of your folio on paper. 
 * homeowork: try to identify script of folio
 
 #### Week 6. Palaeography
