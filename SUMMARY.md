@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [Overview of the Course](overview-of-the-course.md)
 * [Assignments](assignments.md)
+* [Lead a seminar](lead-a-seminar.md)
 * [Readings](readings.md)
 * [Week 1 & 2](week-1-and-2/README.md)
-  * [Lead a seminar](week-1-and-2/lead-a-seminar.md)
   * [Signing Up](week-1-and-2/signing-up.md)
   * [Using Twitter](week-1-and-2/twitter.md)
   * [Twitter Strategies](week-1-and-2/twitter-strategies.md)
@@ -15,6 +15,7 @@
 * [Week 4](week-4/README.md)
   * [Markdown](week-4/markdown.md)
   * [Github](week-4/github.md)
+  * [Markdown II (Optional)](week-4/markdown2.md)
 * [Week 5](week-5/README.md)
   * [Your first transcription](week-5/your-first-transcription.md)
   * [Getting prepared for Transkribus](week-5/getting-started-with-transkribus.md)
@@ -45,4 +46,3 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
-
