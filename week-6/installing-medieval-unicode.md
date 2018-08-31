@@ -22,6 +22,7 @@ To use medieval characters in your transcriptions, download the two MUFI codeboo
 
 ## Working with MUFI Unicode
 
-1. By this class, you should already have completed a handwritten transcription of your folio. Your goal now is to write it out as an abbreviated text using the now available \(to you\) unicode characters. Go!
-2. Post the completed file in your personal Github repository as a pdf, named "LastName-MsX-UnicodeTranscription" \(where LastName is replaced by your last name, and X \[of MsX\] is replaced the number of your folio\).
+1. By this class, you should already have started a handwritten transcription of your folio. Your goal now is to write out at least 10 lines as an abbreviated text using the now available \(to you\) unicode characters. Go!
+2. Assign a number to each line of your text and transcribe the words/ characters line by line. It will take some time to find matching character in the unicode codebooks, but it will help you discern what is going on.
+3. Post the completed file in your personal Github repository as a Word document \(.docx\) or .pdf, named "LastName-MsX-UnicodeTranscription" \(where LastName is replaced by your last name, and MsX is replaced the name and number of your folio – e.g. Ottawa CU ARC ms. f. x\).
 
