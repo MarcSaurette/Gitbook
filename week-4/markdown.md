@@ -8,9 +8,7 @@ The benefit of using Atom as your Markdown editor is that it comes with pre-inst
 ‣ and Markdown-preview \(which allows you to view a real-time preview of your Markdown product\).
 {% endhint %}
 
-**Step 1:** Open Atom and locate your repository on your hard drive \(which you created this in week 2 and called it something like "\[username\]/HIST4006"\). In this repository there should be two folders: one entitled "Classwork" and the other "Folios." In the 
-
-**Step 2:** and copy + paste the following template:
+**Step 1:** Open Atom and locate your repository on your hard drive \(which you created this in week 2 and called it something like "\[username\]/HIST4006"\). In this repository there should be two folders: one entitled "Classwork" and the other "Folios." Open the HIST4006 repository, then the Classwork folder \(which should be visible in the sidebar\). In this folder, you will find a file called Sample.Kate.profile.md. Open it and you will see a file that looks like this:
 
 ```text
 # This is Kate's Markdown file
@@ -33,14 +31,13 @@ Here are four emoticons that represent me:
 4. :rainbow:
 ```
 
-And then **File** &gt;&gt; **Save As..**. and name the file like this:
+**Step 2:** In Atom,  click **File** &gt;&gt; **Save As..**. and save the renamed file in the Classwork folder using the following naming convention:
 
 ```text
-last name.first name.profile.md
+Your last name.your first name.profile.md
 ```
 
-**Step 3:** Navigate to the **Packages** tab and select **Markdown Preview** &gt;&gt; **Toggle Preview** to see a live preview of your Markdown in action.   
-You should see the code translated to a Markdown file.
+**Step 3:** Navigate to the **Packages** tab and select **Markdown Preview** &gt;&gt; **Toggle Preview** to see a live preview of your Markdown in action. In a new column, you should see the code translated to the visual appearance of the Markdown file.
 
 **Step 4:** Replace the example text with your own, check to make sure you get the syntax correct by checking the Markdown Preview. Once you are satisfied with your work, learn how to contribute the file to our repository on Github in the [next lesson](github.md).
 

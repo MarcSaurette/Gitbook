@@ -1,12 +1,18 @@
 # Github
 
-If you completed the previous lesson, your Markdown file is ready. The next step is to **Push** \(or contribute\) the file to the Repository \([/MedievalBook](https://github.com/MarcSaurette/medieval-book)\) you **Forked** in Week 2. If you have not done so yet, click the link above and do so now. 
+If you completed the previous lesson, your Markdown file should be ready. The next step is to **Push** \(or contribute\) the file to the original Repository \([/MedievalBook](https://github.com/MarcSaurette/medieval-book)\) you **Forked** in Week 2. 
 
 There are two ways you can **Push** your content. Follow which ever tutorial matches your needs, either with [Github Desktop](github.md#push-via-github-desktop) or via the [Terminal](github.md#push-via-terminal).
 
 ### Push via Github Desktop
 
 Check the documentation [here](https://help.github.com/desktop/guides/contributing-to-projects/) for help with the desktop app.
+
+**Step 1:** Open the Github desktop app. Ensure that HIST4006 is selected as the "Current repository" in the top left corner. Underneath this should be a tab "Changes". It should be highlighted already and underneath it will be a list of changes you have made, such as the new markdown file you have created. If it is there, type in the reason you are updating your repository in the text box contained the words "Summary" \(something like "created new profile file"\). 
+
+**Step 2**: Press the button "Commit to Master" at the bottom left corner. Then Press the "Push Origin" button in the top right corner. This "pushes" the files on your harddrive to the Github site.
+
+**Step 3**. In your web browser, navigate to your online Github \(something like [https://github.com](https://github.com)/\[Your Username\]/HIST4006\) and create a pull request \(following the same instructions as you did in week 2\), so that you can sync your new file back to the shared repository.
 
 ### Push via Terminal
 
