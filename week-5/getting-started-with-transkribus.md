@@ -1,4 +1,4 @@
-# Getting started with Transkribus
+# Getting prepared for Transkribus
 
 We won't be using [Transkribus](https://transkribus.eu) this week, but you need to register for an account in advance and the approval process can vary \(late time I checked they were still manually approving registrations\). Before you can download the software you need to register at [https://transkribus.eu](https://transkribus.eu). On the top right corner of the webpage, click on "Register" and fill in the information. Now wait for the email that says you've been registered.
 
