@@ -8,7 +8,9 @@ The benefit of using Atom as your Markdown editor is that it comes with pre-inst
 ‣ and Markdown-preview \(which allows you to view a real-time preview of your Markdown product\).
 {% endhint %}
 
-**Step 1:** Open Atom and copy + paste the following template:
+**Step 1:** Open Atom and locate your repository on your hard drive \(which you created this in week 2 and called it something like "\[username\]/HIST4006"\). In this repository there should be two folders: one entitled "Classwork" and the other "Folios." In the 
+
+**Step 2:** and copy + paste the following template:
 
 ```text
 # This is Kate's Markdown file
@@ -34,11 +36,11 @@ Here are four emoticons that represent me:
 And then **File** &gt;&gt; **Save As..**. and name the file like this:
 
 ```text
-last name_first name.md
+last name.first name.profile.md
 ```
 
-**Step 2:** Navigate to the **Packages** tab and select **Markdown Preview** &gt;&gt; **Toggle Preview** to see a live preview of your Markdown in action.   
+**Step 3:** Navigate to the **Packages** tab and select **Markdown Preview** &gt;&gt; **Toggle Preview** to see a live preview of your Markdown in action.   
 You should see the code translated to a Markdown file.
 
-**Step 3:** Replace the example text with your own, check to make sure you get the syntax correct by checking the Markdown Preview. Once you are satisfied with your work, learn how to contribute the file to our repository on Github in the [next lesson](github.md).
+**Step 4:** Replace the example text with your own, check to make sure you get the syntax correct by checking the Markdown Preview. Once you are satisfied with your work, learn how to contribute the file to our repository on Github in the [next lesson](github.md).
 
