@@ -1,5 +1,7 @@
 # Dublin Core
 
+Here is an basic example of what decription in Dublin Core looks like, using the example of Ottawa, CU ARC charter 2. 
+
 | **Element** | **What to input** | **Example** |
 | :--- | :--- | :--- |
 | **Title** | Title given to the artifact | Yorkshire Deed by William Bron, Collector of the King’s Rents |
@@ -12,7 +14,7 @@
 | **Creator** | Who made this piece? | William Bron |
 | **Publisher** | Who made this content available? | Carleton University Archives and Research Collections \(CUARC\) |
 | **Contributor** | People who have contributed research for this item | \[Your Name Here\] |
-| **Rights** | Who owns this? Are their restrictions? | CUARC**,** creative commons |
+| **Rights** | Who owns this? Are there restrictions? | CUARC**,** creative commons |
 | **Date** | The likely date for this item | May 24, 1405 |
 | **Format** | The file format, physical medium, and/or dimensions of a resource. | IIIF Image ****Parchment, Ink. |
 | **Identifier** | Unique DOI for this item | doi:10.1037/rmh0000008 |

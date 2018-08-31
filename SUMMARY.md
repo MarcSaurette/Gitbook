@@ -17,7 +17,7 @@
   * [Github](week-4/github.md)
 * [Week 5](week-5/README.md)
   * [Your first transcription](week-5/your-first-transcription.md)
-  * [Getting started with Transkribus](getting-started-with-transkribus.md)
+  * [Getting started with Transkribus](week-5/getting-started-with-transkribus.md)
 * [Week 6](week-6/README.md)
   * [Installing Medieval Unicode](week-6/installing-medieval-unicode.md)
 * [Week 7](week-7/README.md)
@@ -45,3 +45,4 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
+
