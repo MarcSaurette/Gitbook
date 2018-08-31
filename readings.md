@@ -34,7 +34,19 @@ Paleography is the study of “old” ways of writing. Scripts go in and out of 
 
 ## 7. Reading Abbreviations
 
-Reading medieval manuscripts is difficult for modern readers due to a complex use of abbreviations and codes
+Reading medieval manuscripts is difficult for modern readers due to a complex use of abbreviations and codes \(much like you use\). 
+
+_IMS_, chp. 6, p. 82-93.
+
+Adriano Capelli's now quite old text remains the reference work of record. Luckily it has been semi-translated, updated and made more accessible. 
+
+Read the intro to Capelli laying out a theory of medieval abbreviation, translated into English [here](https://kuscholarworks.ku.edu/bitstream/handle/1808/1821/47cappelli.pdf).
+
+Use Capelli on a smart phone [here](https://www.adfontes.uzh.ch/mobile/#CappelliSeite) \(unfortunately the interface is only in French or German at this point\). The searchable desktop version is [here](https://www.adfontes.uzh.ch). A digitized copy of the print version can be read on [Archive.org](https://archive.org/details/LexiconAbbreviaturarum).
+
+On the _Ad fontes_ website, attempt to transcribe [this document](https://www.adfontes.uzh.ch/en/3171/training/lateinische-transkriptionsuebungen/brevier/brevier-aufgabe1) written in Gothica textualis. Unlike your folio, if you click the "show transcription" box at the bottom of the page, whenever you hover the cursor over the word you are deciphering, it will show you the answer \(I suggest this as a first stage to lessen the initial frustration of decipering and unpacking medieval writing\). 
+
+
 
 ## 8. Codicology: Describing manuscript features
 
