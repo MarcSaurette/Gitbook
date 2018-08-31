@@ -44,4 +44,5 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
+* [Getting started with Transkribus](getting-started-with-transkribus.md)
 
