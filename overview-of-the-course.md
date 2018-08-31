@@ -34,13 +34,12 @@
 #### Week 5. Writing supports
 
 * Discussion: how does medium change the message? Examine different kinds of "books" and consider how different writing surfaces determine the kind of writing, the longevity of the written word, and its potential dangers. 
-* Homework: describe the parchment of your folio, as much as possible on Github – use images if helpful. 
-* Homework: Complete a draft transcription of your folio on paper. 
-* homeowork: try to identify script of folio
+* Classwork/ Homework: describe the parchment of your folio, as much as possible on Github – incorporate images if helpful. 
+* Classwork/Homework: Start a draft line-by-line transcription of your folio in Github \(at least 10 lines complete\).  
 
 #### Week 6. Palaeography
 
-* get students to write with calligraphy pen
+* Classwork: practice writing with reed/ calligraphy pen
 * homework: describe palaeography of folio on Omeka
 * homework: add list of abbreviations that they use commonly IRL to a markdown page through GitBook
 * create poll on slack to measure use of abbreviations \(chat/ twitter\)?
