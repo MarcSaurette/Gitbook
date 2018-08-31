@@ -12,7 +12,7 @@ Check the documentation [here](https://help.github.com/desktop/guides/contributi
 
 **Step 2**: Press the button "Commit to Master" at the bottom left corner. Then Press the "Push Origin" button in the top right corner. This "pushes" the files on your harddrive to the Github site.
 
-**Step 3**. In your web browser, navigate to your online Github \(something like [https://github.com](https://github.com)/\[Your Username\]/HIST4006\) and create a pull request \(following the same instructions as you did in week 2\), so that you can sync your new file back to the shared repository.
+**Step 3**. In your web browser, navigate to your online Github \(something like [https://github.com](https://github.com)/\[Your Username\]/HIST4006\) and create a pull request \(following the same instructions in steps 11-13 as you did in [week 2](https://medievalbook.gitbook.io/digitizing-medieval-archives/week-1-and-2/signing-up#github)\), so that you can sync your new file back to the shared repository.
 
 ### Push via Terminal
 
