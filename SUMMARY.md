@@ -15,7 +15,7 @@
 * [Week 4](week-4/README.md)
   * [Markdown](week-4/markdown.md)
   * [Github](week-4/github.md)
-  * [Markdown II (Optional)](week-4/markdown2.md)
+  * [Markdown II \(Optional\)](week-4/markdown2.md)
 * [Week 5](week-5/README.md)
   * [Your first transcription](week-5/your-first-transcription.md)
   * [Getting prepared for Transkribus](week-5/getting-started-with-transkribus.md)
@@ -46,3 +46,4 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
+
