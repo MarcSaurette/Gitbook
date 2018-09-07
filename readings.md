@@ -20,6 +20,10 @@ British Library, _Medieval Manuscripts Blog_, [http://blogs.bl.uk/digitisedmanus
 
 In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ \(for better or worse\) from their alternatives. Since our work largely focusses on being descriptive/ analytical, it is handcrafted, and our data is neither structured nor large, our work is not conducive to working with other platforms.
 
+
+
+{% embed data="{\"url\":\"https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/\",\"type\":\"link\",\"title\":\"Creating an online presence as a DH professional\",\"description\":\"What is the role of social media in the world of scholars? More and more historians – and scholars in every discipline – are contributing to Twitter feeds and blogs. I’ve used soc…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s1.wp.com/i/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s0.wp.com/i/blank.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
 ## 4. Keeping Track of Your Project with GitHub
 
 At the core of many DH projects is the belief that data wants to be free. But, most DH project require lots of labour and usually many people collaborating together \(and using expertise/ tools developed in previous projects\). Github is a platform built to allow collaboration on projects, but its ethos is grounded on the idea that users share their work and their experience. In this work, transparency about collaborative work \(and the problems which arise\) is key to moving forward. In this class we will talk about the issues of engaging in larger scale DH projects \(i.e. more than one or two people\) and will ask students to work some more with Github.
