@@ -20,6 +20,7 @@
   * [Your first transcription](week-5/your-first-transcription.md)
   * [Getting prepared for Transkribus](week-5/getting-started-with-transkribus.md)
 * [Week 6](week-6/README.md)
+  * [IRL Abbreviations](week-6/irl-abbreviations.md)
   * [Installing Medieval Unicode](week-6/installing-medieval-unicode.md)
 * [Week 7](week-7/README.md)
   * [Transcribing with Transkribus](week-7/getting-started-with-transkribus.md)
@@ -46,5 +47,4 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
-* [IRL Abbreviations](irl-abbreviations.md)
 
