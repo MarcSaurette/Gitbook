@@ -46,4 +46,5 @@
 * [Week 24](week-24.md)
 * [Week 25](week-25.md)
 * [About](about.md)
+* [IRL Abbreviations](irl-abbreviations.md)
 

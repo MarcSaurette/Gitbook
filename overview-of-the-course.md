@@ -12,37 +12,38 @@
 
 #### Week 2. Establishing an online presence.
 
-* Discuss why to have an online presences as an academic
+* Discuss why to have an online presence as an academic
 * Discuss the strengths and weakness of academic twitter/ blogging
 * In class, students will post a picture of their folio to Twitter and compose a pithy tweet\(s\) to talk about it, sell others on it.
-* Homework: Signup Part Two
+* **Classwork/ Homework**: Signup Part Two
 
 #### Week 3. Choose your own website
 
 * Discuss the strengths and weaknesses of different kind of online presentations \(Wordpress vs. Omeka\)
 * Discuss what Dublin Core is and why cataloguing standards are important.
-* Look at ARC, charter no. 2 which will be the "model" folio that we will use to demonstrate different features of the tools/ sites we'll be using.
-* Classwork: edit information on Omeka \(using known "metadata"\) and post a picture of your folio to the Humanities Commons blog.
-* Homework: complete a draft of Omeka item description, ask them to finish it. Half the class will compose a blog post describing their work to date, half the class will write some tweets.
+* Prof will  at ARC, charter no. 2 which will be the "model" folio that we will use to demonstrate different features of the tools/ sites we'll be using.
+* **Classwork**: edit information on Omeka \(using known "metadata"\) and post a picture of your folio to the Humanities Commons blog.
+* **Homework**: complete a draft of Omeka item description, ask them to finish it. 
+* Homework: Half the class will compose a blog post describing their work to date, half the class will write some tweets.
 
 #### Week 4. What is Github?
 
 * Discussion of what Github is, how it works and how collaboration is an important part of DH
-* In class, we sign in to Github, create a repository for storing research materials, write a Readme file for the repository. Practice using Markdown and the Atom text editor. Students will edit the Markdown file for their folio, add notes and sync with the repository located in the Digitizing Medieval Manuscripts.
-* Homework: finish any work on the markdown file; people who didn't write a blog post last week, use hypothes.is this week to comment on the blog posts.
+* **In class**, we will sign in to Github, create a repository for storing research materials, write a readme.md file for the repository. Practice using Markdown and the Atom text editor. Students will edit the Markdown file for their folio, add notes and sync with the repository located in the Digitizing Medieval Manuscripts organizational github.
+* **Homework**: finish any work on the markdown file. People who didn't write a blog post last week use hypothes.is this week to comment on the blog posts. Last week's bloggers become this week's tweeters.
 
 #### Week 5. Writing supports
 
-* Discussion: how does medium change the message? Examine different kinds of "books" and consider how different writing surfaces determine the kind of writing, the longevity of the written word, and its potential dangers. 
-* Classwork/ Homework: describe the parchment of your folio, as much as possible on Github – incorporate images if helpful. 
-* Classwork/Homework: Start a draft line-by-line transcription of your folio in Github \(at least 10 lines complete\).  
+* Discussion: how does medium change the message? Examine different kinds of "books" and writing materials. We should consider how different writing surfaces determine the kind of writing, the longevity of the written word, and its potential problems. Try to extrapolate to modern \(i.e. your current\) experience - what are the different writing "surfaces" we use, and how does the medium effect longevity, usability etc.
+* **Classwork/ Homework**: describe the parchment of your folio, as much as possible on Github – incorporate images if helpful. 
+* **Classwork/Homework**: Start a draft line-by-line transcription of your folio in Github \(at least 10 lines complete by next class\).  
 
 #### Week 6. Palaeography
 
-* Classwork: practice writing with reed/ calligraphy pen
-* homework: describe palaeography of folio on Omeka
-* homework: add list of abbreviations that they use commonly IRL to a markdown page through GitBook
-* create poll on slack to measure use of abbreviations \(chat/ twitter\)?
+* Discussion about the development of medieval bookhands - from Carolingian miniscule to Gothic textualis. And why scripts matter. 
+* **Classwork**: practice writing with reed/ calligraphy pen
+* **Homework**: describe script of your folio on Omeka
+* Create abbreviation.md that students need to edit to create list of abbreviations that you students commonly use IRL
 * homework: install MUFI unicode and try it out. 
 
 #### Week 7. Abbreviations/ Punctuation

@@ -8,6 +8,8 @@ No readings. Come prepared to meet your classmates, talk about yourself, and loo
 
 This class is devoted to considering how and why you might want to develop an online presence as an individual, but also as heritage institution. We’ll dip out toes into the online world by signing up for an hcommons.org profile, preparing to write blog posts and beginning to Tweet.
 
+Anonymous \(@MedievalIndonesia\), "My Twitter Account," [https://medium.com/@siwaratrikalpa/my-twitter-account-5f766a71c812](https://medium.com/@siwaratrikalpa/my-twitter-account-5f766a71c812)"
+
 Jesse Stommel, "Promoting Open Access Publications and Academic Projects" [http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/](http://hybridpedagogy.org/promoting-open-access-publications-and-academic-projects/)
 
 Ricoy. M. C., & Feliz, T., "Twitter as a Learning Community in Higher Education." _Educational Technology & Society_, 19.1 \(2016\), 237–248. \(posted on cuLearn\)
