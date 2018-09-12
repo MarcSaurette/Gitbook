@@ -18,6 +18,9 @@ Sarah Warner, "How to Destroy Special Collections with Social Media," \(31 July 
 
 British Library, _Medieval Manuscripts Blog_, [http://blogs.bl.uk/digitisedmanuscripts/index.html](http://blogs.bl.uk/digitisedmanuscripts/index.html) [http://blogs.bl.uk/digitisedmanuscripts/2016/07/manuscript-the-tube.html](http://blogs.bl.uk/digitisedmanuscripts/2016/07/manuscript-the-tube.html)
 
+Pearson, Erika. “All the World Wide Web’s a Stage: The Performance of Identity in Online Social Networks.” First Monday 14, no. 3 \(February 25, 2009\). [http://journals.uic.edu/ojs/index.php/fm/article/view/2162](http://journals.uic.edu/ojs/index.php/fm/article/view/2162).  
+
+
 ## 3. What Kind of Website Does Your Project Need?
 
 In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ \(for better or worse\) from their alternatives. Since our work largely focusses on being descriptive/ analytical, it is handcrafted, and our data is neither structured nor large, our work is not conducive to working with other platforms.
