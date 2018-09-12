@@ -25,7 +25,7 @@ Pearson, Erika. “All the World Wide Web’s a Stage: The Performance of Identi
 
 In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ \(for better or worse\) from their alternatives. Since our work largely focusses on being descriptive/ analytical, it is handcrafted, and our data is neither structured nor large, our work is not conducive to working with other platforms.
 
-
+David R. Brake; Are We All Online Content Creators Now? Web 2.0 and Digital Divides, Journal of Computer-Mediated Communication, Volume 19, Issue 3, 1 April 2014, Pages 591– 609, [https://doi.org/10.1111/jcc4.12042](https://doi.org/10.1111/jcc4.12042)
 
 {% embed data="{\"url\":\"https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/\",\"type\":\"link\",\"title\":\"Creating an online presence as a DH professional\",\"description\":\"What is the role of social media in the world of scholars? More and more historians – and scholars in every discipline – are contributing to Twitter feeds and blogs. I’ve used soc…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s1.wp.com/i/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s0.wp.com/i/blank.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
 
