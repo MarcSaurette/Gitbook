@@ -44,7 +44,9 @@ We want to get you on the Twitter to encourage you to get familiar with what dig
 
 ### Omeka
 
-The class will be working together on a Omeka site [here](https://medievalottawa.org). Once you navigate to this site, on the top right hand corner, there will be the option to "Register". Click on the link and fill out the form. The Omeka user names are private so please use a name by which I will know you. You will be sent an email with a link to confirm your email \(it will take a few minutes to arrive so be patient\). After you click you will be registered as a guest user, which I will update to "researcher" \(which gives you more access\) as soon I have a chance.
+The class will be working together on a Omeka site [here](https://medievalottawa.org). Once you navigate to this site, on the top right hand corner, there will be the option to "Register". Click on the link and fill out the form. The Omeka user names are private so please use a name by which I will know you. You will be sent an email with a link to confirm your email \(it will take a few minutes to arrive so be patient\). After you click you will be registered as a guest user, which I will update to "Admin" \(which gives you more access\) as soon I have a chance.
+
+Once I've approved your registration, try to login to the Omeka site. Try to locate your folio and in its catalogue record \(of the **collection** corresponding to your folio, not an item\) and attempt to add your name as the "Contributor".
 
 We will talk more in a later week about how we will be using Omeka.
 

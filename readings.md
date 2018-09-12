@@ -27,6 +27,8 @@ In recent years, there have arisen so many platforms for hosting DH projects tha
 
 David R. Brake; Are We All Online Content Creators Now? Web 2.0 and Digital Divides, Journal of Computer-Mediated Communication, Volume 19, Issue 3, 1 April 2014, Pages 591– 609, [https://doi.org/10.1111/jcc4.12042](https://doi.org/10.1111/jcc4.12042)
 
+Terras, M.M and Boyle E.A. \(2015\). Digital media production and identity: Insights from a psychological perspective. E-Learning and Digital Media. Vol 12, Issue 2, pp. 128 – 146 [https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179](https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179)
+
 {% embed data="{\"url\":\"https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/\",\"type\":\"link\",\"title\":\"Creating an online presence as a DH professional\",\"description\":\"What is the role of social media in the world of scholars? More and more historians – and scholars in every discipline – are contributing to Twitter feeds and blogs. I’ve used soc…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s1.wp.com/i/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s0.wp.com/i/blank.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
 
 ## 4. Keeping Track of Your Project with GitHub
