@@ -63,13 +63,14 @@ You are currently reading this on Gitbook, derived from files hosted on Github. 
 5. Navigate to our organizational [repository](https://github.com/MedievalBook/HIST4006) and press on the button "Fork" at the top right hand corner of the page. "Forking" copies the contents of this repository to your own Github repository so you can edit it.
 6. On your forked repository \(which automatically will be given the name `[Your username]/HIST4006`\), edit the Readme.md file by clicking the file name and then on the pencil icon at the top right corner of the text box. You should add you name and link to your Github profile in the following fashion: `- [Name that you want to appear](url of your Github profile)` `- [Marc Saurette](https://github.com/MarcSaurette)`
 7. Press the "Commit Changes" button to save the file. 
-8. Now return to the Folios folder of your repository \(something like Username/HIST4006/Folios\) and create a new file by clicking on the "Create New File" button that should be middle to top right corner of the page. You will be prompted to give it a name. 
-9. Use the following convention: "Your last name, Code for text." E.g. `Saurette, Ottawa CU ARC charter 2`. Here CU = Carleton University and ARC = Archives and Research Collection. Your texts will usually either be "ARC ms. fol. X" or "CUAG ms. fol. Y" if it is one of the manuscript \(ms.\) folios \(fol.\) on loan to ARC from the Carleton University Art Gallery. 
-10. Press the "Commit Changes" button to save the file.
-11. Now look for the tab "Pull Requests" on the top left corner of the page. Click on it. Then click on the green button on the top right corner "New Pull Request". This will load a page entitled "Comparing changes" and if all is well, then you can press the green button "Create new pull request".
-12. You will be prompted to type a title, which can be something as simple as "\[Your name here\] is updating the readme.md file and adding their folio page". You don't need to add any description. You can choose to be more whimsical in your prose.
-13. Then press the green button "Create Pull Request". And you are done. 
-14. I need to approve your "Pull Request", which updates your changes to the master copy at [https://github.com/MedievalBook](https://github.com/MedievalBook). You should get a notification when I have approved your request.
+8. There are several readme.md files in the various folders - so be sure you edited only the Readme.md in the /HIST4006 folder. 
+9. Now return to the Folios folder of your repository \(something like Username/HIST4006/Folios\) and create a new file by clicking on the "Create New File" button that should be middle to top right corner of the page. You will be prompted to give it a name. 
+10. Use the following convention: "Your last name, Code for text." E.g. `Saurette, Ottawa CU ARC charter 2`. Here CU = Carleton University and ARC = Archives and Research Collection. Your texts will usually either be "ARC ms. fol. X" or "CUAG ms. fol. Y" if it is one of the manuscript \(ms.\) folios \(fol.\) on loan to ARC from the Carleton University Art Gallery. 
+11. Press the "Commit Changes" button to save the file.
+12. Now look for the tab "Pull Requests" on the top left corner of the page. Click on it. Then click on the green button on the top right corner "New Pull Request". This will load a page entitled "Comparing changes" and if all is well, then you can press the green button "Create new pull request".
+13. You will be prompted to type a title, which can be something as simple as "\[Your name here\] is updating the readme.md file and adding their folio page". You don't need to add any description. You can choose to be more whimsical in your prose.
+14. Then press the green button "Create Pull Request". And you are done. 
+15. I need to approve your "Pull Request", which updates your changes to the master copy at [https://github.com/MedievalBook](https://github.com/MedievalBook). You should get a notification when I have approved your request.
 
 **Next Steps:** 
 
