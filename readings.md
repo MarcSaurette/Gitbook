@@ -25,9 +25,9 @@ Pearson, Erika. “All the World Wide Web’s a Stage: The Performance of Identi
 
 In recent years, there have arisen so many platforms for hosting DH projects that it is difficult to know which to choose. We will be looking at how WordPress and Omeka function –the two main platforms we will be using this term- and how they differ \(for better or worse\) from their alternatives. Since our work largely focusses on being descriptive/ analytical, it is handcrafted, and our data is neither structured nor large, our work is not conducive to working with other platforms.
 
-David R. Brake; Are We All Online Content Creators Now? Web 2.0 and Digital Divides, Journal of Computer-Mediated Communication, Volume 19, Issue 3, 1 April 2014, Pages 591– 609, [https://doi.org/10.1111/jcc4.12042](https://doi.org/10.1111/jcc4.12042)
+David R. Brake, "Are We All Online Content Creators Now? Web 2.0 and Digital Divides," _Journal of Computer-Mediated Communication_, Volume 19, Issue 3, 1 April 2014, Pages 591– 609, [https://doi.org/10.1111/jcc4.12042](https://doi.org/10.1111/jcc4.12042)
 
-Terras, M.M and Boyle E.A. \(2015\). Digital media production and identity: Insights from a psychological perspective. E-Learning and Digital Media. Vol 12, Issue 2, pp. 128 – 146 [https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179](https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179)
+Terras, M.M and Boyle E.A, "Digital media production and identity: Insights from a psychological perspective," _E-Learning and Digital Media_. Vol 12, Issue 2, pp. 128 – 146, [https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179](https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179)
 
 {% embed data="{\"url\":\"https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/\",\"type\":\"link\",\"title\":\"Creating an online presence as a DH professional\",\"description\":\"What is the role of social media in the world of scholars? More and more historians – and scholars in every discipline – are contributing to Twitter feeds and blogs. I’ve used soc…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s1.wp.com/i/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s0.wp.com/i/blank.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
 
@@ -39,9 +39,13 @@ At the core of many DH projects is the belief that data wants to be free. But, m
 
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
 
+
+
 ## 6. Paleography: How to differentiate historical fonts, type, hands, and scripts
 
 Paleography is the study of “old” ways of writing. Scripts go in and out of fashion, and thus how something is written allows us to date it with some certainty and often identify its origin. In this class, we will briefly explore the history of medieval Western European writing to get you thinking about distinctive features that help identify scripts of the folios we have in our collection.
+
+\(optional, in French\) Conseils en paléographie, [https://paleo-en-ligne.fr/course/view.php?id=138](https://paleo-en-ligne.fr/course/view.php?id=138)
 
 ## 7. Reading Abbreviations
 
@@ -62,6 +66,8 @@ On the _Ad fontes_ website, attempt to transcribe [this document](https://www.ad
 ## 8. Codicology: Describing manuscript features
 
 [Introduction to Codicology](https://prezi.com/hjtg5f5p32y7/codicology-an-introduction-for-beginners/) by Dr James Freeman, Cambridge University Library.
+
+Erik Kwakkel, "The Architecture of the Medieval Page," [https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
 
 ## 9. Genre: Liturgical Manuscripts
 
