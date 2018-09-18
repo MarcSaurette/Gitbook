@@ -95,6 +95,8 @@ Scanning or photographing manuscripts is one thing, but manuscripts can be repre
 
 How to capture medieval manuscripts? This class asks students to consider how people go about imaging, reproducing and creating facsimiles \(both physical and digital\) of medieval manuscripts.
 
+Read about the National Library of Scotland's ongoing digitization effort. Their team has put together this description of all the tasks they must complete in this process: [pdf](https://www.nls.uk/media/1624630/project-digitise-leaflet.pdf) or [web](https://www.nls.uk/about-us/publications/project-digitise).
+
 ## 16. Using IIIF and Mirador
 
 On Omeka, we’ve already been using IIIF Images. This class we will look at how we can use IIIF to present images, but also how IIIF and its linked software allows scholars to productively study/ interact with medieval manuscripts.
