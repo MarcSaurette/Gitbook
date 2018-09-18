@@ -104,8 +104,8 @@ Zotero is a research tool, free to use, which allows users to "collect, organize
 Hypothes.is is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central We will use hypothes.is _via_ a plug-in on your Chrome Browser.
 
 1. If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install.
-2. Get started with hypothes.is [here](https://hypothes.is/start).
-3. Following the links provided on the Start page, sign up for an account and download/install the plugin.
+2. Navigate to the hypothes.is website \([https://web.hypothes.is](https://web.hypothes.is/)\) and press the "Get Started" button. 
+3. Following the instructions there, sign up for an account and download/install the plugin.
 4. Go to Slack, look in the \#resources channel and follow the posted link to join the class group, "Digital Archiving". This will allow your classmates to see your comments \(but not outsiders\).
 5. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself \(or for each research project you are working on this year...\). For a sense of what hypothes.is can do, take a look at their [tutorials](https://web.hypothes.is/help-categories/tutorials/).
 
