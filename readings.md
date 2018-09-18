@@ -74,11 +74,11 @@ Reading medieval manuscripts is difficult for modern readers due to a complex us
 
 ## 9. Genre: Liturgical Manuscripts
 
-- 
+- Introduction to Liturgical Manuscripts
 
 ## 10. Cataloguing & Provenience
 
-- 
+- Barbara Shailor.
 
 ## 11. Working it Out
 
@@ -108,25 +108,25 @@ How to capture medieval manuscripts? This class asks students to consider how pe
 
 On Omeka, we’ve already been using IIIF Images. This class we will look at how we can use IIIF to present images, but also how IIIF and its linked software allows scholars to productively study/ interact with medieval manuscripts.
 
-- 
+- sss
 
 ## 17. Online Annotations
 
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
 
-- 
+- sss
 
 ## 18. Online Exhibitions
 
 What are the best practices for creating online exhibitions of archival/ medieval material? How does the digital environment offer new ways of exhibiting material? What are the strengths and weaknesses of online exhibits?
 
-- 
+- sss
 
 ## 19. Encoding Medieval Texts
 
 In this class we will be looking at the guidelines for encoding medieval manuscripts developed by the TEI \(Text Encoding Initiative\). Shawn Hawkins \(College of the Humanities\) will be coming to talk to us about his ongoing collaboration to develop a digital edition of a fifteenth-century commentary on the Roman poet Catullus.
 
-- 
+- sss
 
 ## 20. Accessibility and Durability for DH Projects
 
