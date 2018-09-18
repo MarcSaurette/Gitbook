@@ -35,19 +35,18 @@ In recent years, there have arisen so many platforms for hosting DH projects tha
 
 At the core of many DH projects is the belief that data wants to be free. But, most DH project require lots of labour and usually many people collaborating together \(and using expertise/ tools developed in previous projects\). Github is a platform built to allow collaboration on projects, but its ethos is grounded on the idea that users share their work and their experience. In this work, transparency about collaborative work \(and the problems which arise\) is key to moving forward. In this class we will talk about the issues of engaging in larger scale DH projects \(i.e. more than one or two people\) and will ask students to work some more with Github.
 
-- 
+- sss
 
 ## 5. Writing Supports
 
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
 
-- 
+- sss
 
 ## 6. Paleography: How to differentiate historical fonts, type, hands, and scripts
 
 Paleography is the study of “old” ways of writing. Scripts go in and out of fashion, and thus how something is written allows us to date it with some certainty and often identify its origin. In this class, we will briefly explore the history of medieval Western European writing to get you thinking about distinctive features that help identify scripts of the folios we have in our collection.
 
-- 
 - \(optional, in French\) Conseils en paléographie, [https://paleo-en-ligne.fr/course/view.php?id=138](https://paleo-en-ligne.fr/course/view.php?id=138)
 
 ## 7. Reading Abbreviations
