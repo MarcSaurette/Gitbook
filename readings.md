@@ -63,8 +63,8 @@ Reading medieval manuscripts is difficult for modern readers due to a complex us
 
 ## 10. Cataloguing & Provenience
 
-* Barbara Shailor.
-
+* Jeffrey Pomerantz, "Introduction," ​_Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18. 
+* 
 ## 11. Working it Out
 
 No readings. During class time, students can meet with the professor one-on-one to get help with their final project.
