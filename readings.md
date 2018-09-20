@@ -59,7 +59,12 @@ Reading medieval manuscripts is difficult for modern readers due to a complex us
 
 ## 9. Genre: Liturgical Manuscripts
 
-* Introduction to Liturgical Manuscripts
+* Barbara Swanson, Jennifer Bain, and Debra Lacoste, [Quick Guide to Manuscripts \(Antiphonals\) and Liturgy](http://cantus.uwaterloo.ca/sites/default/files/documents/1.%20Quick%20Guide%20to%20Liturgy.pdf) \(supporting documentation for [Cantus Manuscript Database](http://cantus.uwaterloo.ca)\) 2014. 
+
+For reference:
+
+* Andrew Hughes, [Late Medieval Liturgical Offices: Resources for Electronic Research](https://books-scholarsportal-info.proxy.library.carleton.ca/uri/ebooks/ebooks0/gibson_crkn/2009-12-01/7/420585), \(Toronto: PIMS, 1996\).
+* Andrew Hughes, [Medieval Manuscripts for Mass and Office. A Guide to their Organization and Terminology](https://books-scholarsportal-info.proxy.library.carleton.ca/uri/ebooks/ebooks0/gibson_crkn/2009-12-01/6/417594) \(Toronto: University of Toronto Press, 1982\). 
 
 ## 10. Cataloguing & Provenience
 
@@ -78,10 +83,13 @@ No readings. Debriefing the term; and maybe heading to LAC’s Preservation Lab.
 What is the difference between a manuscript and a digital version of it? This class welcomes students back and begins our focus on digitization in earnest.
 
 * Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group, "Futures of the Book," in _Routledge Companion to Media Studies and Digital Humanities_, 336-344.
+* Ted Underwood, "Seven ways humanists are using computers to understand texts," Blog post 2015, [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 
 ## 14. The Promise or the Possibilities of the Digital Humanities
 
 Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts.
+
+* [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
 
 ## 15. Capturing Medieval Manuscripts
 
