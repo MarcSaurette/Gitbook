@@ -28,8 +28,10 @@ In recent years, there have arisen so many platforms for hosting DH projects tha
 
 At the core of many DH projects is the belief that data wants to be free. But, most DH project require lots of labour and usually many people collaborating together \(and using expertise/ tools developed in previous projects\). Github is a platform built to allow collaboration on projects, but its ethos is grounded on the idea that users share their work and their experience. In this work, transparency about collaborative work \(and the problems which arise\) is key to moving forward. In this class we will talk about the issues of engaging in larger scale DH projects \(i.e. more than one or two people\) and will ask students to work some more with Github.
 
-* sss
-
+* Robert McMillan, "The Meta-Story: How Wired Published its Github Story on Github" \(02.24.12\) [https://www.wired.com/2012/02/github-revisited/](https://www.wired.com/2012/02/github-revisited/). Also a few more Wired articles on Github: [https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/) and [https://www.wired.com/story/microsoft-github-code-moderation/](https://www.wired.com/story/microsoft-github-code-moderation/).
+* Kris Shaffer, "Push, Pull, Fork: GitHub for Academics" [_Hybrid Pedagogy_](http://hybridpedagogy.org/push-pull-fork-github-for-academics/) \(May, 2013\)
+* Alexey Zagalsky, Joseph Feliciano, Margaret-Anne Storey, Yiyun Zhao, Weiliang Wang, "The Emergence of GitHub as a Collaborative Platform for Education" [Paper delivered at the 18th Annual Conference on Computer-Supported Cooperative Work and Social Computing](https://alexeyza.com/pdf/cscw15.pdf).
+* 
 ## 5. Writing Supports
 
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
