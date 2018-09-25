@@ -53,7 +53,9 @@ And try to make sense of what these githubs are doing:
 
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
 
-* sss
+* [Introduction to Manuscript Studies, chp. 1](https://digitalarchiving.slack.com/files/UB732TGP8/FD0HUTQ2F/clemens_r.__graham_t._introduction_to_manuscript_studies._2007.djvu).
+* Saenger, "Silent Reading and its impact on Late Medieval Reading"
+* Shady Characters, "[Miscellany № 73: per Churchill et commata](https://shadycharacters.co.uk/2016/05/micellany-73-churchill/)"
 
 ## 6. Paleography: How to differentiate historical fonts, type, hands, and scripts
 
@@ -66,11 +68,12 @@ Paleography is the study of “old” ways of writing. Scripts go in and out of 
 Reading medieval manuscripts is difficult for modern readers due to a complex use of abbreviations and codes \(much like you use\).
 
 * _IMS_, chp. 6, p. 82-93.
+* More [Shady Characters](https://shadycharacters.co.uk), read about emojiis, [https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/](https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/) and [https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/](https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/)
 * Adriano Capelli's now quite old text remains the reference work of record. Luckily it has been semi-translated, updated and made more accessible.
 * Read the intro to Capelli laying out a theory of medieval abbreviation, translated into English [here](https://kuscholarworks.ku.edu/bitstream/handle/1808/1821/47cappelli.pdf).
 * Use Capelli on a smart phone [here](https://www.adfontes.uzh.ch/mobile/#CappelliSeite) \(unfortunately the interface is only in French or German at this point\). The searchable desktop version is [here](https://www.adfontes.uzh.ch). A digitized copy of the print version can be read on [Archive.org](https://archive.org/details/LexiconAbbreviaturarum).
 * On the _Ad fontes_ website, attempt to transcribe [this document](https://www.adfontes.uzh.ch/en/3171/training/lateinische-transkriptionsuebungen/brevier/brevier-aufgabe1) written in Gothica textualis. Unlike your folio, if you click the "show transcription" box at the bottom of the page, whenever you hover the cursor over the word you are deciphering, it will show you the answer \(I suggest this as a first stage to lessen the initial frustration of decipering and unpacking medieval writing\).
-
+* 
 ## 8. Codicology: Describing manuscript features
 
 * [Introduction to Codicology](https://prezi.com/hjtg5f5p32y7/codicology-an-introduction-for-beginners/) by Dr James Freeman, Cambridge University Library.
