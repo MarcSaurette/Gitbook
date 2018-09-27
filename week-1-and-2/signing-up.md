@@ -99,6 +99,9 @@ Zotero is a research tool, free to use, which allows users to "collect, organize
 2. You will need to download the free software [here](https://www.zotero.org/download/) and install the software on your computer. Zotero works best if you also install the plugin on your internet browser, to enable you to add content to your repository with a single click.
 3. You also need to join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/2168566/digital_archiving_medieval_manuscripts).
 
+For help adding resources to Zotero, see [here](https://www.zotero.org/support/getting_stuff_into_your_library).
+Carleton has a short userguide [here (pdf)](https://library.carleton.ca/sites/default/files/help/zotero%20guide.pdf).
+
 ### Hypothes.is
 
 Hypothes.is is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central We will use hypothes.is _via_ a plug-in on your Chrome Browser.
