@@ -1,6 +1,10 @@
 # Dublin Core
 
-Here is an basic example of what decription in Dublin Core looks like, using the example of Ottawa, CU ARC charter 2. 
+Here is a basic example of what decription of a medieval document in Dublin Core looks like, using the example of Ottawa, CU ARC charter 2. 
+
+For more exhaustive explanation of Dublin Core, see: [http://dublincore.org/documents/dces/](http://dublincore.org/documents/dces/). 
+
+For the application of Dublin Core to medieval manuscripts/ folios, see Sheila A. Bair & Susan M. B. Steuer, "Developing a Premodern Manuscript Application Profile Using Dublin Core," _Journal of Library Metadata_, 13:1 \(2013\): 1-16. [http://dx.doi.org/10.1080/19386389.2013.778725](http://dx.doi.org/10.1080/19386389.2013.778725)
 
 | **Element** | **What to input** | **Example** |
 | :--- | :--- | :--- |
