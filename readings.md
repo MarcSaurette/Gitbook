@@ -56,6 +56,17 @@ This week marks a transition in the class away from our brief introduction to so
 * [Introduction to Manuscript Studies, chp. 1](https://digitalarchiving.slack.com/files/UB732TGP8/FD0HUTQ2F/clemens_r.__graham_t._introduction_to_manuscript_studies._2007.djvu).
 * Saenger, "Silent Reading and its impact on Late Medieval Reading"
 * Shady Characters, "[Miscellany № 73: per Churchill et commata](https://shadycharacters.co.uk/2016/05/micellany-73-churchill/)"
+* "Why Europe’s Oldest Intact Book Was Found in a Saint’s Coffin," [https://daily.jstor.org/why-europes-oldest-intact-book-was-found-in-a-saints-coffin/](https://daily.jstor.org/why-europes-oldest-intact-book-was-found-in-a-saints-coffin/)
+
+**Digitized Examples**:
+
+* St. Cuthbert's Gospel: [http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=add\_ms\_89000](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=add_ms_89000)
+* Harley MS 3244, [http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley\_ms\_3244\_f001v](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_3244_f001v)
+* Fragments of birch bark manuscript in Kharoṣṭi, [https://www.bl.uk/collection-items/gandharan-scrolls](https://www.bl.uk/collection-items/gandharan-scrolls)
+* Carbonized scroll from Herculaneum, introduction here [http://emilyshauser.weebly.com/hocw100/hocw74-herculaneum-papyrus-phercparis-4-herculaneum-italy-1st-century-ce](http://emilyshauser.weebly.com/hocw100/hocw74-herculaneum-papyrus-phercparis-4-herculaneum-italy-1st-century-ce) and imaging project discussed here: [https://www.nature.com/articles/srep27227](https://www.nature.com/articles/srep27227)
+* Book of wax tablets, [http://www.e-codices.unifr.ch/en/list/one/csg/1091](http://www.e-codices.unifr.ch/en/list/one/csg/1091)
+* Signed terracotta roof tiles: [http://emilyshauser.weebly.com/hocw100/hocw73-terracotta-tile-with-the-footprints-of-the-slaves-amica-and-detfri-circa-100-bce-pietrabbondante-italy](http://emilyshauser.weebly.com/hocw100/hocw73-terracotta-tile-with-the-footprints-of-the-slaves-amica-and-detfri-circa-100-bce-pietrabbondante-italy)
+* Sarah Bond has a blog post about teaching Classical Epigraphy \(study of inscriptions\). Read through her comments and look at the sketchfab examples she provides. [https://sarahemilybond.com/2018/01/29/replacing-the-squeeze-teaching-classical-epigraphy-with-3d-models/](https://sarahemilybond.com/2018/01/29/replacing-the-squeeze-teaching-classical-epigraphy-with-3d-models/)
 
 ## 6. Paleography: How to differentiate historical fonts, type, hands, and scripts
 

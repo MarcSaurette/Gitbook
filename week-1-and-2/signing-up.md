@@ -58,7 +58,7 @@ You are currently reading this on Gitbook, derived from files hosted on Github. 
 
 1. Sign up for a GitHub account - either by going to the top right hand corner of this page and click on the Sign Up link or by clicking [here](https://github.com/join?source=header-repo). Try to make it possible for me to identify you from your username \(such as using your real name\). 
 2. Go to Slack and in the channel, "Github" and post your profile address. My personal Github profile is [https://github.com/MarcSaurette](https://github.com/MarcSaurette) and our shared organizational account is [https://github.com/MedievalBook](https://github.com/MedievalBook).
-3.  Try to [integrate your account](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack) on Slack. I think it should be as easy as typing "/github signin" under the Slack app channel and then following the instructions they provide, It might not. If not, let me know on Slack.
+3. Try to [integrate your account](https://get.slack.help/hc/en-us/articles/232289568-GitHub-for-Slack) on Slack. I think it should be as easy as typing "/github signin" under the Slack app channel and then following the instructions they provide, It might not. If not, let me know on Slack.
 4. The reason why you need to let me know you're profile is so that I can invite you to join the organizational Github [MedievalBook](https://github.com/MedievalBook). This might take a day or so for me to do, but you can keep going before that happens.
 5. Navigate to our organizational [repository](https://github.com/MedievalBook/HIST4006) and press on the button "Fork" at the top right hand corner of the page. "Forking" copies the contents of this repository to your own Github repository so you can edit it.
 6. On your forked repository \(which automatically will be given the name `[Your username]/HIST4006`\), edit the Readme.md file by clicking the file name and then on the pencil icon at the top right corner of the text box. You should add you name and link to your Github profile in the following fashion: `- [Name that you want to appear](url of your Github profile)` `- [Marc Saurette](https://github.com/MarcSaurette)`
@@ -72,7 +72,7 @@ You are currently reading this on Gitbook, derived from files hosted on Github. 
 14. Then press the green button "Create Pull Request". And you are done. 
 15. I need to approve your "Pull Request", which updates your changes to the master copy at [https://github.com/MedievalBook](https://github.com/MedievalBook). You should get a notification when I have approved your request.
 
-**Next Steps:** 
+**Next Steps:**
 
 1. Complete the GitHub [starter guide](https://guides.github.com/activities/hello-world/) through the browser portal. Optional: look through as many guides as interest you, [here](https://guides.github.com/).
 2. [Download](https://desktop.github.com/) the GitHub desktop which allows you to manage/work with your GitHub files offline. Install and set up the desktop version.
@@ -99,8 +99,7 @@ Zotero is a research tool, free to use, which allows users to "collect, organize
 2. You will need to download the free software [here](https://www.zotero.org/download/) and install the software on your computer. Zotero works best if you also install the plugin on your internet browser, to enable you to add content to your repository with a single click.
 3. You also need to join the Zotero group for the class, which allows us to organize content as a group. The group can be found [here](https://www.zotero.org/groups/2168566/digital_archiving_medieval_manuscripts).
 
-For help adding resources to Zotero, see [here](https://www.zotero.org/support/getting_stuff_into_your_library).
-Carleton has a short userguide [here (pdf)](https://library.carleton.ca/sites/default/files/help/zotero%20guide.pdf).
+For help adding resources to Zotero, see [here](https://www.zotero.org/support/getting_stuff_into_your_library). Carleton has a short userguide [here \(pdf\)](https://library.carleton.ca/sites/default/files/help/zotero%20guide.pdf).
 
 ### Hypothes.is
 
