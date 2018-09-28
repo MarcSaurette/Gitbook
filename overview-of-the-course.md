@@ -30,7 +30,7 @@
 
 * Discussion of what Github is, how it works and how collaboration is an important part of DH
 * **In class**, we will sign in to Github, create a repository for storing research materials, write a readme.md file for the repository. Practice using Markdown and the Atom text editor. Students will edit the Markdown file for their folio, add notes and sync with the repository located in the Digitizing Medieval Manuscripts organizational github.
-* **Homework**: finish any work on the markdown file. People who didn't write a blog post last week use hypothes.is this week to comment on the blog posts. Last week's bloggers become this week's tweeters.
+* **Homework**: finish any work on the markdown file.
 
 #### Week 5. Writing supports
 
