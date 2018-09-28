@@ -54,7 +54,7 @@ And try to make sense of what these githubs are doing:
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
 
 * [Introduction to Manuscript Studies, chp. 1](https://digitalarchiving.slack.com/files/UB732TGP8/FD0HUTQ2F/clemens_r.__graham_t._introduction_to_manuscript_studies._2007.djvu).
-* Saenger, "Silent Reading and its impact on Late Medieval Reading"
+* Saenger, "Silent Reading and its impact on Late Medieval Reading" \(on slack\)
 * Shady Characters, "[Miscellany № 73: per Churchill et commata](https://shadycharacters.co.uk/2016/05/micellany-73-churchill/)"
 * "Why Europe’s Oldest Intact Book Was Found in a Saint’s Coffin," [https://daily.jstor.org/why-europes-oldest-intact-book-was-found-in-a-saints-coffin/](https://daily.jstor.org/why-europes-oldest-intact-book-was-found-in-a-saints-coffin/)
 
