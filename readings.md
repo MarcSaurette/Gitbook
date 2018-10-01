@@ -162,6 +162,7 @@ In this class we will be looking at the guidelines for encoding medieval manuscr
 In this class, we will consider how to foreground accessibility in developing online exhibitions. Also we will be considering the issue of dead sites – what happens to your site after you stop maintaining it and how to ensure the information you have work so hard on does not disappear into the ether…
 
 * Dene Grigar and Stuart Moulthrop, "TRAVERSALS: A Method of Preservation for Born-Digital Texts," in _Routledge Companion to Media Studies and the Digital Humanities_, 351-361.
+* Creative Commons vs. GNU Information Licence: Read selection from _Free Software, Free Society: Selected Essays of Richard M. Stallman,_ Second Edition: [http://www.gnu.org/doc/fsfs-ii-2.pdf](http://www.gnu.org/doc/fsfs-ii-2.pdf)
 
 ## 21. One-on-one work with the professor I
 
