@@ -49,6 +49,8 @@ And try to make sense of what these githubs are doing:
 * [https://github.com/scta/scta-projectfiles](https://github.com/scta/scta-projectfiles) vs. [https://scta.info](https://scta.info)
 * [https://github.com/DigitalLatin](https://github.com/DigitalLatin) vs. [https://digitallatin.org](https://digitallatin.org)
 
+Last minute addition for future reading \(completely optional\): [https://www.chronicle.com/blogs/profhacker/tag/github101](https://www.chronicle.com/blogs/profhacker/tag/github101)
+
 ## 5. Writing Supports
 
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
