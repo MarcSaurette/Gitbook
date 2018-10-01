@@ -49,7 +49,7 @@ And try to make sense of what these githubs are doing:
 * [https://github.com/scta/scta-projectfiles](https://github.com/scta/scta-projectfiles) vs. [https://scta.info](https://scta.info)
 * [https://github.com/DigitalLatin](https://github.com/DigitalLatin) vs. [https://digitallatin.org](https://digitallatin.org)
 
-Last minute addition for future reading \(completely optional\): [https://www.chronicle.com/blogs/profhacker/tag/github101](https://www.chronicle.com/blogs/profhacker/tag/github101)
+Last minute addition for future reading \(completely optional\): [https://www.chronicle.com/blogs/profhacker/tag/github101](https://www.chronicle.com/blogs/profhacker/tag/github101). In particular: [https://www.chronicle.com/blogs/profhacker/fork-the-academy/48935](https://www.chronicle.com/blogs/profhacker/fork-the-academy/48935)
 
 ## 5. Writing Supports
 
