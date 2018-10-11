@@ -23,7 +23,7 @@ In recent years, there have arisen so many platforms for hosting DH projects tha
 * Terras, M.M and Boyle E.A, "Digital media production and identity: Insights from a psychological perspective," _E-Learning and Digital Media_. Vol 12, Issue 2, pp. 128 – 146, [https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179](https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179)
 * Miriam Posner, [Up and Running with Omeka.ne](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)t
 
-{% embed data="{\"url\":\"https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/\",\"type\":\"link\",\"title\":\"Creating an online presence as a DH professional\",\"description\":\"What is the role of social media in the world of scholars? More and more historians – and scholars in every discipline – are contributing to Twitter feeds and blogs. I’ve used soc…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s1.wp.com/i/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s0.wp.com/i/blank.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/" %}
 
 Examples of Blogs to peruse:
 

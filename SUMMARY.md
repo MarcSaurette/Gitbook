@@ -15,6 +15,7 @@
 * [Week 4](week-4/README.md)
   * [Markdown](week-4/markdown.md)
   * [Github](week-4/github.md)
+  * [Turning Github into a website](week-4/turning-github-into-a-website.md)
   * [Markdown II \(Optional\)](week-4/markdown2.md)
 * [Week 5](week-5/README.md)
   * [Your first transcription](week-5/your-first-transcription.md)
