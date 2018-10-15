@@ -74,6 +74,12 @@ This week marks a transition in the class away from our brief introduction to so
 
 Paleography is the study of “old” ways of writing. Scripts go in and out of fashion, and thus how something is written allows us to date it with some certainty and often identify its origin. In this class, we will briefly explore the history of medieval Western European writing to get you thinking about distinctive features that help identify scripts of the folios we have in our collection.
 
+* _IMS_, chp. 2-3, p. 18-48, chp. 10, 135-178.
+* Erik Kwakkel, "Biting, Kissing and the Treatment of Feet: The Transitional Script of the Long Twelfth Century," in [_Turning over a New Leaf_](http://www.oapen.org/search?identifier=606213) __\(Open Access book\). 
+* Daniel Wakelin, "Writing the Words," In _The Production of Books in England 1350–1500_ \(available on slack\).
+
+Complete exercises here: 
+
 * Hill Monastic Manuscript Library, "[Paleography School](https://www.vhmml.org/school)". 
 * \(optional, in French\) Conseils en paléographie, [https://paleo-en-ligne.fr/course/view.php?id=138](https://paleo-en-ligne.fr/course/view.php?id=138)
 
