@@ -34,27 +34,24 @@
 
 #### Week 5. Writing supports
 
-* Discussion: how does medium change the message? Examine different kinds of "books" and writing materials. We should consider how different writing surfaces determine the kind of writing, the longevity of the written word, and its potential problems. Try to extrapolate to modern \(i.e. your current\) experience - what are the different writing "surfaces" we use, and how does the medium effect longevity, usability etc.
+* **Discussion**: how does medium change the message? Examine different kinds of "books" and writing materials. We should consider how different writing surfaces determine the kind of writing, the longevity of the written word, and its potential problems. Try to extrapolate to modern \(i.e. your current\) experience - what are the different writing "surfaces" we use, and how does the medium effect longevity, usability etc.
 * **Classwork/ Homework**: describe the parchment of your folio, as much as possible on Github – incorporate images if helpful. Consult this [resource](http://www.conservation-wiki.com/wiki/Parchment_%28PCC%29) for help describing the parchment of your folio. 
 * **Classwork/Homework**: Start a draft line-by-line transcription of your folio in Github \(at least 10 lines complete by next class\).  
 
 #### Week 6. Palaeography
 
-* Discussion about the development of medieval bookhands - from Carolingian miniscule to Gothic textualis. And why scripts matter. 
-* **Classwork**: practice writing with reed/ calligraphy pen
+* **Discussion** about the development of medieval bookhands. How does  Carolingian miniscule lead to Gothica textualis? We need to think about why scripts matter? 
+* **Classwork**: practice writing with different kinds of pens
 * **Homework**: describe script of your folio on your github folio page
 * **Homework**: List your most commonly used abbreviations from your day-to-day life on the [Abbreviations](https://github.com/MedievalBook/HIST4006/wiki/Abbreviations) page of our Github wiki. 
-* **Homework**: install MUFI unicode and try it out. 
+* **Homework**: install [MUFI unicode](https://medievalbook.gitbook.io/digitizing-medieval-archives/week-6/installing-medieval-unicode) and try it out. 
 
 #### Week 7. Abbreviations/ Punctuation
 
--Discussion: how you use abbreviations/ punctuation/capitalization in your life, how does meaning change with use of punctuation in text messages, for example.
-
-* In class: intro to Transkribus,
-
-  -in advance of class we need to identify major unicode characters we want to use in making transcriptions
-
-  -Homework: using transkribus to continue transcription
+* **Discussion**: How do we \(as a society\) and you \(in particular\) use abbreviations/ punctuation/ capitalization to convey meaning? How does meaning change with use of punctuation, emojii or \(in the case of medieval writers\) marginalia?
+* **Classwork**: Introduction to Transkribus,
+* in advance of class we need to identify major unicode characters we want to use in making transcriptions
+* Homework: using transkribus to continue transcription
 
 #### Week 8. Codicology
 
