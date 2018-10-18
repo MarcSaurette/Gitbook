@@ -1,6 +1,8 @@
 # Transcribing with Transkribus
 
+[Transkribus](https://transkribus.eu/Transkribus/) is a means \(still in development\) of automating the transcription process that is typical for medievalists and historians of more recent periods. Anything that is a manuscript or is handwritten remains difficult for computer-assisted reading software, but images of handwriting are being used \(by Transkribus and other projects\) to train computers to assist in this process. Whether you're a historian or an archivist seeking to crowd-source transcriptions, Transkribus can help you. 
 
+To get a sense of the first steps in using Transkribus follow their [How to Use Transkribus](https://transkribus.eu/wiki/images/7/77/How_to_use_TRANSKRIBUS_-_10_steps.pdf) guide. 
 
 Take a look at the panel on the left-hand side and click **Login**. Use your Transkribus credentials \(Email address and password\).
 
