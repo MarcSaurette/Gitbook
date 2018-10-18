@@ -35,16 +35,16 @@
 #### Week 5. Writing supports
 
 * Discussion: how does medium change the message? Examine different kinds of "books" and writing materials. We should consider how different writing surfaces determine the kind of writing, the longevity of the written word, and its potential problems. Try to extrapolate to modern \(i.e. your current\) experience - what are the different writing "surfaces" we use, and how does the medium effect longevity, usability etc.
-* **Classwork/ Homework**: describe the parchment of your folio, as much as possible on Github – incorporate images if helpful. 
+* **Classwork/ Homework**: describe the parchment of your folio, as much as possible on Github – incorporate images if helpful. Consult this [resource](http://www.conservation-wiki.com/wiki/Parchment_%28PCC%29) for help describing the parchment of your folio. 
 * **Classwork/Homework**: Start a draft line-by-line transcription of your folio in Github \(at least 10 lines complete by next class\).  
 
 #### Week 6. Palaeography
 
 * Discussion about the development of medieval bookhands - from Carolingian miniscule to Gothic textualis. And why scripts matter. 
 * **Classwork**: practice writing with reed/ calligraphy pen
-* **Homework**: describe script of your folio on Omeka
-* Create abbreviation.md that students need to edit to create list of abbreviations that you students commonly use IRL
-* homework: install MUFI unicode and try it out. 
+* **Homework**: describe script of your folio on your github folio page
+* **Homework**: List your most commonly used abbreviations from your day-to-day life on the [Abbreviations](https://github.com/MedievalBook/HIST4006/wiki/Abbreviations) page of our Github wiki. 
+* **Homework**: install MUFI unicode and try it out. 
 
 #### Week 7. Abbreviations/ Punctuation
 
