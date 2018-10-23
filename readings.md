@@ -132,6 +132,7 @@ What is the difference between a manuscript and a digital version of it? This cl
 
 Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts.
 
+* Andrew Prescott, Lorna Hughes, "Why do we Digitize?" [http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/)
 * [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
 
 ## 15. Capturing Medieval Manuscripts
