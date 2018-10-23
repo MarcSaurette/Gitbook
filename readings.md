@@ -76,33 +76,45 @@ This week marks a transition in the class away from our brief introduction to so
 Paleography is the study of “old” ways of writing. Scripts go in and out of fashion, and thus how something is written allows us to date it with some certainty and often identify its origin. In this class, we will briefly explore the history of medieval Western European writing to get you thinking about distinctive features that help identify scripts of the folios we have in our collection.
 
 * _IMS_, chp. 2-3, p. 18-48, chp. 10, 135-178.
-* Erik Kwakkel, "Biting, Kissing and the Treatment of Feet: The Transitional Script of the Long Twelfth Century," in [_Turning over a New Leaf_](http://www.oapen.org/search?identifier=606213) __\(Open Access book\). 
+* Erik Kwakkel, "Biting, Kissing and the Treatment of Feet: The Transitional Script of the Long Twelfth Century," in [_Turning over a New Leaf_](http://www.oapen.org/search?identifier=606213) __\(Open Access book\).
+* And codicologists in action: see how to collaborate in Lisa Fagin Davis blog post: [https://manuscriptroadtrip.wordpress.com/2018/10/09/manuscript-road-trip-ege-and-phillipps-in-saskatchewan/](https://manuscriptroadtrip.wordpress.com/2018/10/09/manuscript-road-trip-ege-and-phillipps-in-saskatchewan/) and accompanying twitter thread: [https://twitter.com/lisafdavis/status/1045884565611515904](https://twitter.com/lisafdavis/status/1045884565611515904)
 * Daniel Wakelin, "Writing the Words," In _The Production of Books in England 1350–1500_ \(available on slack\).
 
 Complete exercises here: 
 
-* Hill Monastic Manuscript Library, "[Paleography School](https://www.vhmml.org/school)". 
+* Hill Monastic Manuscript Library, "[Paleography School](https://www.vhmml.org/school)". Start by reading their [introduction to transcription](https://www.vhmml.org/school/lesson/basics-transcription/purposes) and transcription [principles](https://www.vhmml.org/school/lesson/basics-transcription/principles-conventions) and then the rest of the transcription "Basics" section. Then read the historical overviews of [Gothic textualis](https://www.vhmml.org/school/lesson/gothic-textualis-paleography/historical-overview), [Gothic cursiva](https://www.vhmml.org/school/lesson/gothic-cursiva-paleography/cursiva-overview) and [Humanist scripts](https://www.vhmml.org/school/lesson/humanist-paleography/historical-overview), which will be the main types you will encounter.  
 * \(optional, in French\) Conseils en paléographie, [https://paleo-en-ligne.fr/course/view.php?id=138](https://paleo-en-ligne.fr/course/view.php?id=138)
 
 ## 7. Reading Abbreviations
 
-Reading medieval manuscripts is difficult for modern readers due to a complex use of abbreviations and codes \(much like you use\).
+Reading medieval manuscripts is difficult for modern readers due to a complex use of abbreviations and codes \(much like you yourself use\).
 
 * _IMS_, chp. 6, p. 82-93.
 * More [Shady Characters](https://shadycharacters.co.uk), read about emojiis, [https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/](https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/) and [https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/](https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/)
-* Adriano Capelli's now quite old text remains the reference work of record. Luckily it has been semi-translated, updated and made more accessible.
-* Read the intro to Capelli laying out a theory of medieval abbreviation, translated into English [here](https://kuscholarworks.ku.edu/bitstream/handle/1808/1821/47cappelli.pdf).
-* Use Capelli on a smart phone [here](https://www.adfontes.uzh.ch/mobile/#CappelliSeite) \(unfortunately the interface is only in French or German at this point\). The searchable desktop version is [here](https://www.adfontes.uzh.ch). A digitized copy of the print version can be read on [Archive.org](https://archive.org/details/LexiconAbbreviaturarum).
+* Adriano Capelli's now quite old text on _Abbreviations_ remains the reference work of record. Luckily it has been semi-translated, updated and made more accessible. Read the intro to Capelli laying out a theory of medieval abbreviation, translated into English [here](https://kuscholarworks.ku.edu/bitstream/handle/1808/1821/47cappelli.pdf).
+* Use Capelli on a smart phone [here](https://www.adfontes.uzh.ch/mobile/#CappelliSeite) \(unfortunately the interface is only in French or German at this point\). The searchable version for a browser on a computer is [here](https://www.adfontes.uzh.ch). A digitized copy of the print version can be read on [Archive.org](https://archive.org/details/LexiconAbbreviaturarum).
 * On the _Ad fontes_ website, attempt to transcribe [this document](https://www.adfontes.uzh.ch/en/3171/training/lateinische-transkriptionsuebungen/brevier/brevier-aufgabe1) written in Gothica textualis. Unlike your folio, if you click the "show transcription" box at the bottom of the page, whenever you hover the cursor over the word you are deciphering, it will show you the answer \(I suggest this as a first stage to lessen the initial frustration of decipering and unpacking medieval writing\).
-* 
-## 8. Codicology: Describing manuscript features
 
-* [Introduction to Codicology](https://prezi.com/hjtg5f5p32y7/codicology-an-introduction-for-beginners/) by Dr James Freeman, Cambridge University Library.
+## 8. Codicology: Understanding and Describing manuscript features
+
+* IMS, chp. 4 and 5 p. 49-81.
+* A gentle Introduction to [Codicology](https://prezi.com/j-ryx0x9u7kf/codicology-an-introduction-for-beginners/) by Dr James Freeman, Cambridge University Library.
 * Erik Kwakkel, "The Architecture of the Medieval Page," [https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
+* Sandra Hindman and Ariane Bergeron-Foote, _Binding and the Archeology of the Medieval and Renaissance Book_ \(available on slack\).
+* _Medieval & Early Modern Manuscripts Bookbinding Terms, Materials, Methods, And Models_ \(available on slack\).
+
+And try to understand the codicological description of Saint Cuthbert's Gospel \(shelfmarkL "Add MS 89000"; i.e. the 89000 manuscript added to the general collection after its initial catalogue was created. It became part of the British Library collection only in 2012\):
+
+* look at the catalogue here: [http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add\_MS\_89000](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_89000)
+* look at the manuscript here: [http://www.bl.uk/manuscripts/Viewer.aspx?ref=add\_ms\_89000\_fs001r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_89000_fs001r)
+* Alternate catalogue description: [https://elmss.nuigalway.ie/catalogue/222](https://elmss.nuigalway.ie/catalogue/222)
+* Search for other manuscripts at the British Library here: [https://www.bl.uk/catalogues/illuminatedmanuscripts/searchMSNo.asp](https://www.bl.uk/catalogues/illuminatedmanuscripts/searchMSNo.asp)
 
 ## 9. Genre: Liturgical Manuscripts
 
+* IMS, chp. 11-13; pp. 181-221.
 * Barbara Swanson, Jennifer Bain, and Debra Lacoste, [Quick Guide to Manuscripts \(Antiphonals\) and Liturgy](http://cantus.uwaterloo.ca/sites/default/files/documents/1.%20Quick%20Guide%20to%20Liturgy.pdf) \(supporting documentation for [Cantus Manuscript Database](http://cantus.uwaterloo.ca)\) 2014. 
+* Using liturgical features to localize text: posted by Lisa Fagin Davis, [https://twitter.com/lisafdavis/status/1052611674925092864](https://twitter.com/lisafdavis/status/1052611674925092864) linking to this document [https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view](https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view)
 
 For reference:
 
@@ -111,6 +123,7 @@ For reference:
 
 ## 10. Cataloguing & Provenience
 
+* IMS, chps 8 and 9; pp. 117-134.
 * Jeffrey Pomerantz, "Introduction," ​_Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18. 
 * 
 ## 11. Working it Out
