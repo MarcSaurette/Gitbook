@@ -61,7 +61,19 @@
 
 #### Week 9. Genre
 
--use CANTUS? -in class, transcribe music? if Luko can help? -music. Get them to download Cantus music font \(Volpiano\) and try to search by music and text -Get Gregorio up and running? To reproduce music? -can we TEI encode music?
+This week we will be trying to understand the genre of the things we are working with. They are for the most part liturgical books, so we will be trying to understand what the liturgy is, what it is for and how to work on it. We will be visited by our colleague in the Music department and specialist of Early Music, Alexis Luko. She will lead us through a basic introduction of how to transcribe medieval music and how to turn the instructions given on the page into something suitable. 
+
+**Classwork**: transcription exercise of our two medieval manuscripts which have music
+
+Classwork: Using the Cantus database to help transcribe and understand liturgical manuscripts. 
+
+Homework: Brief exercise using the Cantus database. 
+
+
+
+
+
+use CANTUS? -in class, transcribe music? if Luko can help? -music. Get them to download Cantus music font \(Volpiano\) and try to search by music and text -Get Gregorio up and running? To reproduce music? -can we TEI encode music?
 
 #### Week 10. Cataloguing and Provenience
 
