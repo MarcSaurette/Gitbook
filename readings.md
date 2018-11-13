@@ -156,8 +156,15 @@ For reference:
 ## 10. Cataloguing & Provenience
 
 * IMS, chps 8 and 9; pp. 117-134.
-* Jeffrey Pomerantz, "Introduction," ​_Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18. 
-* 
+* Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18.
+* Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts (on slack)
+* Take a quick look at Ottawa in Conway and Fagin-David, _Directory of Collections in the United States and Canada with Pre-1600 Manuscript Holdings_ (on slack).
+
+Working with Fragments:
+* Scott Gwara, _Otto Ege's Manuscripts_ (on slack)
+* Lost Manuscripts: pilot project to build catalogue for fragments. [About](http://www.lostmss.org.uk/project), [Terminology](http://www.lostmss.org.uk/project/how-use-site/terminology-fragments), [Sample Fragment](http://www.lostmss.org.uk/highlights/letters-law)
+* [Fragmentarium](https://fragmentarium.ms): another pilot project. [Case Studies](https://fragmentarium.ms/about/case_studies), [Timeline](https://fragmentarium.ms/about/digital-library)
+
 ## 11. Working it Out
 
 No readings. During class time, students can meet with the professor one-on-one to get help with their final project.
