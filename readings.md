@@ -116,19 +116,37 @@ And try to understand the codicological description of Saint Cuthbert's Gospel \
 * Barbara Swanson, Jennifer Bain, and Debra Lacoste, [Quick Guide to Manuscripts \(Antiphonals\) and Liturgy](http://cantus.uwaterloo.ca/sites/default/files/documents/1.%20Quick%20Guide%20to%20Liturgy.pdf) \(supporting documentation for [Cantus Manuscript Database](http://cantus.uwaterloo.ca)\) 2014. 
 * Using liturgical features to localize text: posted by Lisa Fagin Davis, [https://twitter.com/lisafdavis/status/1052611674925092864](https://twitter.com/lisafdavis/status/1052611674925092864) linking to this document [https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view](https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view)
 
-Gentle introduction to medieval liturgical books and liturgy from Thomas Kelly's EdX course:
+Gentle introduction to medieval liturgical books and liturgy from Thomas Kelly's [EdX course](https://courses.edx.org/courses/course-v1:HarvardX+HUM1.9x+3T2015/course/):
 
-* Thomas Kelly, 
+* Thomas Kelly, Books in the Medieval Liturgy (Online EdX course - videos total about one hour)
 
-1. [https://youtu.be/DGaHl2\_NdmU](https://youtu.be/DGaHl2_NdmU)
-2. [https://youtu.be/A7loXd-ou8M](https://youtu.be/A7loXd-ou8M)
-3. [https://youtu.be/he8ebn8V7\_4](https://youtu.be/he8ebn8V7_4)
+1. Introduction to the Medieval Liturgy [https://youtu.be/DGaHl2\_NdmU](https://youtu.be/DGaHl2_NdmU)
+2. The Early Meaning of the Word Liturgy[https://youtu.be/A7loXd-ou8M](https://youtu.be/A7loXd-ou8M)
+3. The Proper of the Saints[https://youtu.be/he8ebn8V7\_4](https://youtu.be/he8ebn8V7_4)
+4. Liturgical Space [https://youtu.be/x42jnBl10v8](https://youtu.be/x42jnBl10v8)
+5. The Sacramentary [https://youtu.be/WDbBzFQkNCA](https://youtu.be/WDbBzFQkNCA)
+6. The Epistle [https://youtu.be/6UJhHuLNcmo](https://youtu.be/6UJhHuLNcmo)
+7. The Gospel [https://youtu.be/kiKaax-m6H0](https://youtu.be/kiKaax-m6H0)
+8. The Gradual [https://youtu.be/HYHK6Btn9xw](https://youtu.be/HYHK6Btn9xw)
+9. The Missel - part 1 [https://youtu.be/xTX5qk8lKAU](https://youtu.be/xTX5qk8lKAU)
+10. The Missel - part 2 [https://youtu.be/C1Qa8oKwkhk](https://youtu.be/C1Qa8oKwkhk)
+11. The Noyon Missal [https://youtu.be/6VnxQxv36W4](https://youtu.be/6VnxQxv36W4)
+12. Discussing The Daily Office [https://youtu.be/g5MtxWjFsJA](https://youtu.be/g5MtxWjFsJA)
+13. Lectionary and Sermons [https://youtu.be/flla7vLzWRQ](https://youtu.be/flla7vLzWRQ)
+14. Collectar and Hymnary [https://youtu.be/cWS3ESI-6rI](https://youtu.be/cWS3ESI-6rI)
+15. The Psalter [https://youtu.be/g8Q8bqkAg4Q](https://youtu.be/g8Q8bqkAg4Q)
+16. The Antiphoner - part I [https://youtu.be/uC929LPaov4](https://youtu.be/uC929LPaov4)
+17. The Antiphoner - part II [https://youtu.be/Fi6S296Agqk](https://youtu.be/Fi6S296Agqk)
+18. The Antiphoner - part III [https://www.youtube.com/watch?v=VQV5WDdVraY](https://www.youtube.com/watch?v=VQV5WDdVraY)
+19. The Breviary - part I [https://www.youtube.com/watch?v=ltpRSZFt_gI](https://www.youtube.com/watch?v=ltpRSZFt_gI)
+20. The Breviary - part II [https://www.youtube.com/watch?v=rYb8JshzJF0](https://www.youtube.com/watch?v=rYb8JshzJF0)
+21. Musical Notation - part I [https://www.youtube.com/watch?v=xDvE4o8Jfbo](https://www.youtube.com/watch?v=xDvE4o8Jfbo)
+22. Musical Notation - part II [https://www.youtube.com/watch?v=fKV7LKGF5uw](https://www.youtube.com/watch?v=fKV7LKGF5uw)
+23. Musical Notation - part III [https://www.youtube.com/watch?v=eCoegiuyvtk](https://www.youtube.com/watch?v=eCoegiuyvtk)
+24. Introduction to Performing the Liturgy [https://www.youtube.com/watch?v=GxYNUTZw9to](https://www.youtube.com/watch?v=GxYNUTZw9to)
+25/ Performing the Liturgy [https://www.youtube.com/watch?v=EOzzu84d-Eg](https://www.youtube.com/watch?v=EOzzu84d-Eg)
 
 * Thomas Kelly, _Identifying medieval liturgical manuscripts: A rough guide_ \(On slack and available here: [https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying\_medieval\_liturgical.pdf](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying_medieval_liturgical.pdf)
-
-
-
-
 
 For reference:
 
