@@ -156,7 +156,7 @@ For reference:
 ## 10. Cataloguing & Provenience
 
 * IMS, chps 8 and 9; pp. 117-134.
-* Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18.
+* Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18 (on slack)
 * Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts (on slack)
 * Take a quick look at Ottawa in Conway and Fagin-David, _Directory of Collections in the United States and Canada with Pre-1600 Manuscript Holdings_ (on slack).
 
