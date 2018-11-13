@@ -116,6 +116,20 @@ And try to understand the codicological description of Saint Cuthbert's Gospel \
 * Barbara Swanson, Jennifer Bain, and Debra Lacoste, [Quick Guide to Manuscripts \(Antiphonals\) and Liturgy](http://cantus.uwaterloo.ca/sites/default/files/documents/1.%20Quick%20Guide%20to%20Liturgy.pdf) \(supporting documentation for [Cantus Manuscript Database](http://cantus.uwaterloo.ca)\) 2014. 
 * Using liturgical features to localize text: posted by Lisa Fagin Davis, [https://twitter.com/lisafdavis/status/1052611674925092864](https://twitter.com/lisafdavis/status/1052611674925092864) linking to this document [https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view](https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view)
 
+Gentle introduction to medieval liturgical books and liturgy from Thomas Kelly's EdX course:
+
+* Thomas Kelly, 
+
+1. [https://youtu.be/DGaHl2\_NdmU](https://youtu.be/DGaHl2_NdmU)
+2. [https://youtu.be/A7loXd-ou8M](https://youtu.be/A7loXd-ou8M)
+3. [https://youtu.be/he8ebn8V7\_4](https://youtu.be/he8ebn8V7_4)
+
+* Thomas Kelly, _Identifying medieval liturgical manuscripts: A rough guide_ \(On slack and available here: [https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying\_medieval\_liturgical.pdf](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying_medieval_liturgical.pdf)
+
+
+
+
+
 For reference:
 
 * Andrew Hughes, [Late Medieval Liturgical Offices: Resources for Electronic Research](https://books-scholarsportal-info.proxy.library.carleton.ca/uri/ebooks/ebooks0/gibson_crkn/2009-12-01/7/420585), \(Toronto: PIMS, 1996\).
