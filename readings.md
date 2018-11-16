@@ -23,7 +23,7 @@ In recent years, there have arisen so many platforms for hosting DH projects tha
 * Terras, M.M and Boyle E.A, "Digital media production and identity: Insights from a psychological perspective," _E-Learning and Digital Media_. Vol 12, Issue 2, pp. 128 – 146, [https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179](https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179)
 * Miriam Posner, [Up and Running with Omeka.ne](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)t
 
-{% embed url="https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/" %}
+{% embed url="https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/" caption="" %}
 
 Examples of Blogs to peruse:
 
@@ -39,7 +39,7 @@ Examples of Omeka Sites to peruse:
 At the core of many DH projects is the belief that data wants to be free. But, most DH project require lots of labour and usually many people collaborating together \(and using expertise/ tools developed in previous projects\). Github is a platform built to allow collaboration on projects, but its ethos is grounded on the idea that users share their work and their experience. In this work, transparency about collaborative work \(and the problems which arise\) is key to moving forward. In this class we will talk about the issues of engaging in larger scale DH projects \(i.e. more than one or two people\) and will ask students to work some more with Github.
 
 * W. Caleb McDaniel, "Open Notebook History" [http://wcm1.web.rice.edu/open-notebook-history.html](http://wcm1.web.rice.edu/open-notebook-history.html)
-*  Robert McMillan, "The Meta-Story: How Wired Published its Github Story on Github" \(02.24.12\) [https://www.wired.com/2012/02/github-revisited/](https://www.wired.com/2012/02/github-revisited/). Also a few more Wired articles on Github: [https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/) and [https://www.wired.com/story/microsoft-github-code-moderation/](https://www.wired.com/story/microsoft-github-code-moderation/).
+* Robert McMillan, "The Meta-Story: How Wired Published its Github Story on Github" \(02.24.12\) [https://www.wired.com/2012/02/github-revisited/](https://www.wired.com/2012/02/github-revisited/). Also a few more Wired articles on Github: [https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/) and [https://www.wired.com/story/microsoft-github-code-moderation/](https://www.wired.com/story/microsoft-github-code-moderation/).
 * Kris Shaffer, "Push, Pull, Fork: GitHub for Academics" [_Hybrid Pedagogy_](http://hybridpedagogy.org/push-pull-fork-github-for-academics/) \(May, 2013\)
 * Alexey Zagalsky, Joseph Feliciano, Margaret-Anne Storey, Yiyun Zhao, Weiliang Wang, "The Emergence of GitHub as a Collaborative Platform for Education" [Paper delivered at the 18th Annual Conference on Computer-Supported Cooperative Work and Social Computing](https://alexeyza.com/pdf/cscw15.pdf).
 * Ian Milligan, "Why Canada's Open Data Initiative Matters to Historians," [https://ianmilligan.ca/2014/01/27/why-canadas-open-data-initiative-matters-to-historians/](https://ianmilligan.ca/2014/01/27/why-canadas-open-data-initiative-matters-to-historians/) and [https://ianmilligan.ca/2014/10/23/sshrcs-research-data-archiving-policy-and-historians/](https://ianmilligan.ca/2014/10/23/sshrcs-research-data-archiving-policy-and-historians/).
@@ -76,11 +76,11 @@ This week marks a transition in the class away from our brief introduction to so
 Paleography is the study of “old” ways of writing. Scripts go in and out of fashion, and thus how something is written allows us to date it with some certainty and often identify its origin. In this class, we will briefly explore the history of medieval Western European writing to get you thinking about distinctive features that help identify scripts of the folios we have in our collection.
 
 * _IMS_, chp. 2-3, p. 18-48, chp. 10, 135-178.
-* Erik Kwakkel, "Biting, Kissing and the Treatment of Feet: The Transitional Script of the Long Twelfth Century," in [_Turning over a New Leaf_](http://www.oapen.org/search?identifier=606213) __\(Open Access book\).
+* Erik Kwakkel, "Biting, Kissing and the Treatment of Feet: The Transitional Script of the Long Twelfth Century," in [_Turning over a New Leaf_](http://www.oapen.org/search?identifier=606213) \_\_\(Open Access book\).
 * And codicologists in action: see how to collaborate in Lisa Fagin Davis blog post: [https://manuscriptroadtrip.wordpress.com/2018/10/09/manuscript-road-trip-ege-and-phillipps-in-saskatchewan/](https://manuscriptroadtrip.wordpress.com/2018/10/09/manuscript-road-trip-ege-and-phillipps-in-saskatchewan/) and accompanying twitter thread: [https://twitter.com/lisafdavis/status/1045884565611515904](https://twitter.com/lisafdavis/status/1045884565611515904)
 * Daniel Wakelin, "Writing the Words," In _The Production of Books in England 1350–1500_ \(available on slack\).
 
-Complete exercises here: 
+Complete exercises here:
 
 * Hill Monastic Manuscript Library, "[Paleography School](https://www.vhmml.org/school)". Start by reading their [introduction to transcription](https://www.vhmml.org/school/lesson/basics-transcription/purposes) and transcription [principles](https://www.vhmml.org/school/lesson/basics-transcription/principles-conventions) and then the rest of the transcription "Basics" section. Then read the historical overviews of [Gothic textualis](https://www.vhmml.org/school/lesson/gothic-textualis-paleography/historical-overview), [Gothic cursiva](https://www.vhmml.org/school/lesson/gothic-cursiva-paleography/cursiva-overview) and [Humanist scripts](https://www.vhmml.org/school/lesson/humanist-paleography/historical-overview), which will be the main types you will encounter.  
 * \(optional, in French\) Conseils en paléographie, [https://paleo-en-ligne.fr/course/view.php?id=138](https://paleo-en-ligne.fr/course/view.php?id=138)
@@ -90,7 +90,7 @@ Complete exercises here:
 Reading medieval manuscripts is difficult for modern readers due to a complex use of abbreviations and codes \(much like you yourself use\).
 
 * _IMS_, chp. 6, p. 82-93.
-* More [Shady Characters](https://shadycharacters.co.uk), read about emojiis, [https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/](https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/) and [https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/](https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/) and [ https://shadycharacters.co.uk/2018/10/emoji-part-3-go-west/](%20https://shadycharacters.co.uk/2018/10/emoji-part-3-go-west/)
+* More [Shady Characters](https://shadycharacters.co.uk), read about emojiis, [https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/](https://shadycharacters.co.uk/2018/08/emoji-part-1-in-the-beginning/) and [https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/](https://shadycharacters.co.uk/2018/09/emoji-part-2-emoticons/) and [ https://shadycharacters.co.uk/2018/10/emoji-part-3-go-west/](https://github.com/MarcSaurette/Gitbook/tree/b936e46eec070f35c7f80d2392c2e775837350c5/2018/10/emoji-part-3-go-west/README.md)
 * Adriano Capelli's now quite old text on _Abbreviations_ remains the reference work of record. Luckily it has been semi-translated, updated and made more accessible. Read the intro to Capelli laying out a theory of medieval abbreviation, translated into English [here](https://kuscholarworks.ku.edu/bitstream/handle/1808/1821/47cappelli.pdf).
 * Use Capelli on a smart phone [here](https://www.adfontes.uzh.ch/mobile/#CappelliSeite) \(unfortunately the interface is only in French or German at this point\). The searchable version for a browser on a computer is [here](https://www.adfontes.uzh.ch). A digitized copy of the print version can be read on [Archive.org](https://archive.org/details/LexiconAbbreviaturarum).
 * On the _Ad fontes_ website, attempt to transcribe [this document](https://www.adfontes.uzh.ch/en/3171/training/lateinische-transkriptionsuebungen/brevier/brevier-aufgabe1) written in Gothica textualis. Unlike your folio, if you click the "show transcription" box at the bottom of the page, whenever you hover the cursor over the word you are deciphering, it will show you the answer \(I suggest this as a first stage to lessen the initial frustration of decipering and unpacking medieval writing\).
@@ -118,35 +118,36 @@ And try to understand the codicological description of Saint Cuthbert's Gospel \
 
 Gentle introduction to medieval liturgical books and liturgy from Thomas Kelly's [EdX course](https://courses.edx.org/courses/course-v1:HarvardX+HUM1.9x+3T2015/course/):
 
-* Thomas Kelly, Books in the Medieval Liturgy (Online EdX course - videos total about one hour)
+* Thomas Kelly, Books in the Medieval Liturgy \(Online EdX course - videos total about one hour\)
+* Introduction to the Medieval Liturgy [https://youtu.be/DGaHl2\_NdmU](https://youtu.be/DGaHl2_NdmU)
+* The Early Meaning of the Word Liturgy[https://youtu.be/A7loXd-ou8M](https://youtu.be/A7loXd-ou8M)
+* The Proper of the Saints[https://youtu.be/he8ebn8V7\_4](https://youtu.be/he8ebn8V7_4)
+* Liturgical Space [https://youtu.be/x42jnBl10v8](https://youtu.be/x42jnBl10v8)
+* The Sacramentary [https://youtu.be/WDbBzFQkNCA](https://youtu.be/WDbBzFQkNCA)
+* The Epistle [https://youtu.be/6UJhHuLNcmo](https://youtu.be/6UJhHuLNcmo)
+* The Gospel [https://youtu.be/kiKaax-m6H0](https://youtu.be/kiKaax-m6H0)
+* The Gradual [https://youtu.be/HYHK6Btn9xw](https://youtu.be/HYHK6Btn9xw)
+* The Missel - part 1 [https://youtu.be/xTX5qk8lKAU](https://youtu.be/xTX5qk8lKAU)
+* The Missel - part 2 [https://youtu.be/C1Qa8oKwkhk](https://youtu.be/C1Qa8oKwkhk)
+* The Noyon Missal [https://youtu.be/6VnxQxv36W4](https://youtu.be/6VnxQxv36W4)
+* Discussing The Daily Office [https://youtu.be/g5MtxWjFsJA](https://youtu.be/g5MtxWjFsJA)
+* Lectionary and Sermons [https://youtu.be/flla7vLzWRQ](https://youtu.be/flla7vLzWRQ)
+* Collectar and Hymnary [https://youtu.be/cWS3ESI-6rI](https://youtu.be/cWS3ESI-6rI)
+* The Psalter [https://youtu.be/g8Q8bqkAg4Q](https://youtu.be/g8Q8bqkAg4Q)
+* The Antiphoner - part I [https://youtu.be/uC929LPaov4](https://youtu.be/uC929LPaov4)
+* The Antiphoner - part II [https://youtu.be/Fi6S296Agqk](https://youtu.be/Fi6S296Agqk)
+* The Antiphoner - part III [https://www.youtube.com/watch?v=VQV5WDdVraY](https://www.youtube.com/watch?v=VQV5WDdVraY)
+* The Breviary - part I [https://www.youtube.com/watch?v=ltpRSZFt\_gI](https://www.youtube.com/watch?v=ltpRSZFt_gI)
+* The Breviary - part II [https://www.youtube.com/watch?v=rYb8JshzJF0](https://www.youtube.com/watch?v=rYb8JshzJF0)
+* Musical Notation - part I [https://www.youtube.com/watch?v=xDvE4o8Jfbo](https://www.youtube.com/watch?v=xDvE4o8Jfbo)
+* Musical Notation - part II [https://www.youtube.com/watch?v=fKV7LKGF5uw](https://www.youtube.com/watch?v=fKV7LKGF5uw)
+* Musical Notation - part III [https://www.youtube.com/watch?v=eCoegiuyvtk](https://www.youtube.com/watch?v=eCoegiuyvtk)
+* Introduction to Performing the Liturgy [https://www.youtube.com/watch?v=GxYNUTZw9to](https://www.youtube.com/watch?v=GxYNUTZw9to)
+* Performing the Liturgy [https://www.youtube.com/watch?v=EOzzu84d-Eg](https://www.youtube.com/watch?v=EOzzu84d-Eg)
 
-1. Introduction to the Medieval Liturgy [https://youtu.be/DGaHl2\_NdmU](https://youtu.be/DGaHl2_NdmU)
-2. The Early Meaning of the Word Liturgy[https://youtu.be/A7loXd-ou8M](https://youtu.be/A7loXd-ou8M)
-3. The Proper of the Saints[https://youtu.be/he8ebn8V7\_4](https://youtu.be/he8ebn8V7_4)
-4. Liturgical Space [https://youtu.be/x42jnBl10v8](https://youtu.be/x42jnBl10v8)
-5. The Sacramentary [https://youtu.be/WDbBzFQkNCA](https://youtu.be/WDbBzFQkNCA)
-6. The Epistle [https://youtu.be/6UJhHuLNcmo](https://youtu.be/6UJhHuLNcmo)
-7. The Gospel [https://youtu.be/kiKaax-m6H0](https://youtu.be/kiKaax-m6H0)
-8. The Gradual [https://youtu.be/HYHK6Btn9xw](https://youtu.be/HYHK6Btn9xw)
-9. The Missel - part 1 [https://youtu.be/xTX5qk8lKAU](https://youtu.be/xTX5qk8lKAU)
-10. The Missel - part 2 [https://youtu.be/C1Qa8oKwkhk](https://youtu.be/C1Qa8oKwkhk)
-11. The Noyon Missal [https://youtu.be/6VnxQxv36W4](https://youtu.be/6VnxQxv36W4)
-12. Discussing The Daily Office [https://youtu.be/g5MtxWjFsJA](https://youtu.be/g5MtxWjFsJA)
-13. Lectionary and Sermons [https://youtu.be/flla7vLzWRQ](https://youtu.be/flla7vLzWRQ)
-14. Collectar and Hymnary [https://youtu.be/cWS3ESI-6rI](https://youtu.be/cWS3ESI-6rI)
-15. The Psalter [https://youtu.be/g8Q8bqkAg4Q](https://youtu.be/g8Q8bqkAg4Q)
-16. The Antiphoner - part I [https://youtu.be/uC929LPaov4](https://youtu.be/uC929LPaov4)
-17. The Antiphoner - part II [https://youtu.be/Fi6S296Agqk](https://youtu.be/Fi6S296Agqk)
-18. The Antiphoner - part III [https://www.youtube.com/watch?v=VQV5WDdVraY](https://www.youtube.com/watch?v=VQV5WDdVraY)
-19. The Breviary - part I [https://www.youtube.com/watch?v=ltpRSZFt_gI](https://www.youtube.com/watch?v=ltpRSZFt_gI)
-20. The Breviary - part II [https://www.youtube.com/watch?v=rYb8JshzJF0](https://www.youtube.com/watch?v=rYb8JshzJF0)
-21. Musical Notation - part I [https://www.youtube.com/watch?v=xDvE4o8Jfbo](https://www.youtube.com/watch?v=xDvE4o8Jfbo)
-22. Musical Notation - part II [https://www.youtube.com/watch?v=fKV7LKGF5uw](https://www.youtube.com/watch?v=fKV7LKGF5uw)
-23. Musical Notation - part III [https://www.youtube.com/watch?v=eCoegiuyvtk](https://www.youtube.com/watch?v=eCoegiuyvtk)
-24. Introduction to Performing the Liturgy [https://www.youtube.com/watch?v=GxYNUTZw9to](https://www.youtube.com/watch?v=GxYNUTZw9to)
-25. Performing the Liturgy [https://www.youtube.com/watch?v=EOzzu84d-Eg](https://www.youtube.com/watch?v=EOzzu84d-Eg)
 
-* Thomas Kelly, _Identifying medieval liturgical manuscripts: A rough guide_ \(On slack and available here: [https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying\_medieval\_liturgical.pdf](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying_medieval_liturgical.pdf) 
+
+* Thomas Kelly, _Identifying medieval liturgical manuscripts: A rough guide_ \(On slack and available here: [https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying\_medieval\_liturgical.pdf](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying_medieval_liturgical.pdf)
 
 For reference:
 
@@ -156,12 +157,13 @@ For reference:
 ## 10. Cataloguing & Provenience
 
 * IMS, chps 8 and 9; pp. 117-134.
-* Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18 (on slack)
-* Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts (on slack)
-* Take a quick look at Ottawa in Conway and Fagin-David, _Directory of Collections in the United States and Canada with Pre-1600 Manuscript Holdings_ (on slack).
+* Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18 \(on slack\)
+* Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts \(on slack\)
+* Take a quick look at Ottawa in Conway and Fagin-David, _Directory of Collections in the United States and Canada with Pre-1600 Manuscript Holdings_ \(on slack\).
 
 Working with Fragments:
-* Scott Gwara, _Otto Ege's Manuscripts_ (on slack)
+
+* Scott Gwara, _Otto Ege's Manuscripts_ \(on slack\)
 * Lost Manuscripts: pilot project to build catalogue for fragments. [About](http://www.lostmss.org.uk/project), [Terminology](http://www.lostmss.org.uk/project/how-use-site/terminology-fragments), [Sample Fragment](http://www.lostmss.org.uk/highlights/letters-law)
 * [Fragmentarium](https://fragmentarium.ms): another pilot project. [Case Studies](https://fragmentarium.ms/about/case_studies), [Timeline](https://fragmentarium.ms/about/digital-library)
 
