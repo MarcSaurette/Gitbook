@@ -145,8 +145,6 @@ Gentle introduction to medieval liturgical books and liturgy from Thomas Kelly's
 * Introduction to Performing the Liturgy [https://www.youtube.com/watch?v=GxYNUTZw9to](https://www.youtube.com/watch?v=GxYNUTZw9to)
 * Performing the Liturgy [https://www.youtube.com/watch?v=EOzzu84d-Eg](https://www.youtube.com/watch?v=EOzzu84d-Eg)
 
-
-
 * Thomas Kelly, _Identifying medieval liturgical manuscripts: A rough guide_ \(On slack and available here: [https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying\_medieval\_liturgical.pdf](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying_medieval_liturgical.pdf)
 
 For reference:
