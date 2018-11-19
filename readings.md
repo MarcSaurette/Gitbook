@@ -144,7 +144,6 @@ Gentle introduction to medieval liturgical books and liturgy from Thomas Kelly's
 * Musical Notation - part III [https://www.youtube.com/watch?v=eCoegiuyvtk](https://www.youtube.com/watch?v=eCoegiuyvtk)
 * Introduction to Performing the Liturgy [https://www.youtube.com/watch?v=GxYNUTZw9to](https://www.youtube.com/watch?v=GxYNUTZw9to)
 * Performing the Liturgy [https://www.youtube.com/watch?v=EOzzu84d-Eg](https://www.youtube.com/watch?v=EOzzu84d-Eg)
-
 * Thomas Kelly, _Identifying medieval liturgical manuscripts: A rough guide_ \(On slack and available here: [https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying\_medieval\_liturgical.pdf](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e1787c0f5b6e125b54e968f5ccadab63/asset-v1:HarvardX+HUM1.9x+3T2015+type@asset+block/Identifying_medieval_liturgical.pdf)
 
 For reference:
@@ -158,6 +157,10 @@ For reference:
 * Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18 \(on slack\)
 * Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts \(on slack\)
 * Take a quick look at Ottawa in Conway and Fagin-David, _Directory of Collections in the United States and Canada with Pre-1600 Manuscript Holdings_ \(on slack\).
+
+Digitized Manuscript Project \(with well developed prose description\)
+
+* Look at the Codex Gigas itself, but pay more attention to the codicological description offered \(palaeography, illustration....\). Start here: [http://www.kb.se/codex-gigas/eng/short/](http://www.kb.se/codex-gigas/eng/short/) 
 
 Working with Fragments:
 
