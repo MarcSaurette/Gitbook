@@ -114,6 +114,7 @@ And try to understand the codicological description of Saint Cuthbert's Gospel \
 
 * IMS, chp. 11-13; pp. 181-221.
 * Barbara Swanson, Jennifer Bain, and Debra Lacoste, [Quick Guide to Manuscripts \(Antiphonals\) and Liturgy](http://cantus.uwaterloo.ca/sites/default/files/documents/1.%20Quick%20Guide%20to%20Liturgy.pdf) \(supporting documentation for [Cantus Manuscript Database](http://cantus.uwaterloo.ca)\) 2014. 
+* Read a description of what the Cantus database seeks to do. Debra LaCoste, "The Cantus Database: Mining for Medieval Chant Traditions" [https://journal.digitalmedievalist.org/articles/10.16995/dm.42/](https://journal.digitalmedievalist.org/articles/10.16995/dm.42/)
 * Using liturgical features to localize text: posted by Lisa Fagin Davis, [https://twitter.com/lisafdavis/status/1052611674925092864](https://twitter.com/lisafdavis/status/1052611674925092864) linking to this document [https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view](https://drive.google.com/file/d/146PzN6vpjuI7qbRGbc4gWRnofw-D4esc/view)
 
 Gentle introduction to medieval liturgical books and liturgy from Thomas Kelly's [EdX course](https://courses.edx.org/courses/course-v1:HarvardX+HUM1.9x+3T2015/course/):

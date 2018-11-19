@@ -55,41 +55,35 @@
 
 #### Week 8. Codicology
 
-* Discussion: nature of fragmentology/ EGE/ book breaking
-* Class exercise/Homework: Describe your folio on OMEKA, take measurements etc.
-* classwork: collating ms. 1/ ms. 2 and integrate with viscoll \(on Omeka??\)
+* **Discussion**: What is the codex form and how do we go about describing it. 
+* **Class exercise**: Try to discern codicological details for our two medieval manuscripts. Practice taking measurements, collating quires in class. 
+* **Homework**: Sort out all the information needed to adequately describe your folio. Consider the template for folio description posted on slack. 
 
 #### Week 9. Genre
 
-This week we will be trying to understand the genre of the things we are working with. They are for the most part liturgical books, so we will be trying to understand what the liturgy is, what it is for and how to work on it. We will be visited by our colleague in the Music department and specialist of Early Music, Alexis Luko. She will lead us through a basic introduction of how to transcribe medieval music and how to turn the instructions given on the page into something suitable. 
+This week we will be trying to understand the genre of the things we are working with. They are for the most part liturgical books, so we will be trying to understand what the liturgy is, what it is for and how to work on it. We will be visited by our colleague in the Music department and specialist of early Music, Alexis Luko. She will lead us through a basic introduction of how to transcribe medieval music and how to turn the instructions given on the page into something comprehensible as "stage directions" for liturgical performance. 
 
-**Classwork**: transcription exercise of our two medieval manuscripts which have music
+**Classwork**: led by Alexis Luko, we will be introduced to a basic terminology for the liturgy and its components, and she will give a brief demonstration of how to use the Cantus database \([cantusindex.org](http://cantusindex.org/) and [cantus.uwaterloo.ca](http://cantus.uwaterloo.ca/) - the first is for searching for chant, the latter is for describing manuscripts\).
 
-Classwork: Using the Cantus database to help transcribe and understand liturgical manuscripts. 
+**Homework**: Search for text from your manuscript on [cantusindex.org](http://cantusindex.org/). Find a corresponding Cantus Index number if successful. 
 
-Homework: Brief exercise using the Cantus database. 
-
-
-
-
-
-use CANTUS? -in class, transcribe music? if Luko can help? -music. Get them to download Cantus music font \(Volpiano\) and try to search by music and text -Get Gregorio up and running? To reproduce music? -can we TEI encode music?
+**Extra Credit**: Download [Volpiano font](http://www.fawe.de/volpiano/volpiano51_ttf.zip) for transcribing music in text editors \(such as Word\) and using this [Cantus guide](http://cantus.uwaterloo.ca/sites/default/files/documents/2.%20Volpiano%20Protocols.pdf), transcribe some medieval music. The history of the Cantus Database is described [here](https://journal.digitalmedievalist.org/articles/10.16995/dm.42/).
 
 #### Week 10. Cataloguing and Provenience
 
-Discussion: What is the connection between information, presentation and purpose. What is the nature of cataloguing in a born-digital time?
+**Discussion**: What is the connection between information, presentation and purpose? What is the nature of cataloguing in a born-digital time?
 
-Reading: Compare the De Ricci census and its Conway/Davis update with the catalogues by Shailor/ Andrist, with ARC handlist/ CUAG inventory records and CUAG student research paper.
+**Reading**: Compare the De Ricci census and its Conway/Davis update with the catalogues by Shailor/ Andrist, with ARC handlist.
 
-Classwork: How to cite Twitter/ How to use Zotero effectively
+**Classwork**: How to cite Twitter/ How to use Zotero effectively
 
-Homework: get your Omeka cataloguing on.
+**Homework**: get your Omeka cataloguing on.
 
 #### Week 11. Work on project
 
 Sign up for a time slot to work with the prof [here](https://docs.google.com/spreadsheets/d/14oSGKS_gNJ7uYbqBN2tGQWXJZVYkq9BozylFISGrgrc/edit?usp=sharing). 
 
-#### Week 12. Debrief/ Visit to Gatineau Preservation Centre
+#### Week 12. Debrief
 
 We'll discuss what you have learned, what you still want to learn about handling, describing and transcribing medieval documents. 
 
