@@ -61,7 +61,7 @@
 
 #### Week 9. Genre
 
-This week we will be trying to understand the genre of the things we are working with. They are for the most part liturgical books, so we will be trying to understand what the liturgy is, what it is for and how to work on it. We will be visited by our colleague in the Music department and specialist of early Music, Alexis Luko. She will lead us through a basic introduction of how to transcribe medieval music and how to turn the instructions given on the page into something comprehensible as "stage directions" for liturgical performance. 
+**Discussion**: This week we will be trying to understand the genre of the things we are working with. They are for the most part liturgical books, so we will be trying to understand what the liturgy is, what it is for and how to work on it.
 
 **Classwork**: led by Alexis Luko, we will be introduced to a basic terminology for the liturgy and its components, and she will give a brief demonstration of how to use the Cantus database \([cantusindex.org](http://cantusindex.org/) and [cantus.uwaterloo.ca](http://cantus.uwaterloo.ca/) - the first is for searching for chant, the latter is for describing manuscripts\).
 
@@ -71,11 +71,11 @@ This week we will be trying to understand the genre of the things we are working
 
 #### Week 10. Cataloguing and Provenience
 
-**Discussion**: What is the connection between information, presentation and purpose? What is the nature of cataloguing in a born-digital time?
+**Discussion**: What is the connection between information, presentation and purpose? What is the purpose of a catalogue and what is the nature of cataloguing in a born-digital time? How do catalogue entries and manuscript descriptions differ?
 
 **Reading**: Compare the De Ricci census and its Conway/Davis update with the catalogues by Shailor/ Andrist, with ARC handlist.
 
-**Classwork**: How to cite Twitter/ How to use Zotero effectively
+**Classwork**: How to use Zotero effectively
 
 **Homework**: get your Omeka cataloguing on.
 
@@ -85,7 +85,7 @@ Sign up for a time slot to work with the prof [here](https://docs.google.com/spr
 
 #### Week 12. Debrief
 
-We'll discuss what you have learned, what you still want to learn about handling, describing and transcribing medieval documents. 
+We'll discuss what you have learned, what you still want to learn about handling, describing and transcribing medieval documents. And what to think about during Winter break.
 
 ### Winter Term
 
