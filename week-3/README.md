@@ -1,4 +1,4 @@
-# Week 3
+# Week 3 - Omeka
 
 This week's exercises involves using Omeka. Sign in to our project website at [http://medievalottawa.org/admin/](http://medievalottawa.org/admin/) with the username and password you set up in week 1. From the **Omeka Dashboard**, click on the tab "Collections" in the sidebar, and find the collection associated with your folio \(collection here is used to describe the folios since they possess at least two images which are collected together - i.e. front and back\). Scroll through the list until you find yours. 
 

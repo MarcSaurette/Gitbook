@@ -43,20 +43,23 @@ II. **Physical Description**:
    5. Marginalia?
 6. **Imperfections**. Stains, tears, holes, cuts, water damage, wearing away, cropping leading to removal of text, removal of text from binding, pages which
 
-III. Provenance/ Provenience
+III. **Provenance/ Provenience**
 
 1. Is there a colophon \(i.e. does the scribe sign his work\)? Has someone identified the scribe elsewhere?
 2. Evidence from ex libris, paleography etc. which indicates ownership. Was the book expensive or cheap? Who was the reader, owner, patron? 
 3. Any indications of institutional ownership – like library codes predating Carleton’s ownership? 
 4. Does the folio have a description \(from a bookseller, catalogue, library inventory\) about it? Transcribe it here and any codes associated with it. 
 5. If the folio is described in the ARC/ CUAG inventory list. Transcribe it here.
+6. Summarize any conclusions you can draw from this or from evidence identified in other sections about how the folio came to Carleton.
 
-IV. Bibliography. 
+IV. **Bibliography**. 
 
 1.  are the contents edited in modern critical editions?
 2.  is the manuscript/ the content cited in scholarship? 
 3. what are useful secondary sources helpful for understanding aspects of the manuscript? 
 4. are there photographs of the folio online. Provide URL?
 
-V. Transcription. 1. after numbering lines and columns of the two sides of the folio, if possible, provide a transcription of the text.
+V. **Transcription**. 
+
+* note recto or verso, number lines, columns of the two sides of the folio, and provide a complete transcription of the text.
 

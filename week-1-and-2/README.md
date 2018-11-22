@@ -1,4 +1,4 @@
-# Week 1 & 2
+# Week 1 & 2 - Setting Up
 
 We're getting started right away to get online. After the first class, you should get started signing up for the various accounts you will need to complete the work in this class. But we've broken up the work of sorting out these accounts over two weeks. 
 
