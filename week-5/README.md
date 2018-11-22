@@ -1,4 +1,4 @@
-# Week 5
+# Week 5 - Writing Supports
 
 This week we will be talking about "writing supports", i.e. what writing is put on. This includes everything from lead sheets for Roman curses, stone monuments to commemorate the dead, birchbark for medieval doodling or parchment which is the most common writing support for the medieval period in Western Europe and Byzantium. 
 

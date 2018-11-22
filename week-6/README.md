@@ -1,4 +1,4 @@
-# Week 6
+# Week 6 - Palæography
 
 In class this week we will discuss medieval scripts, how they developed and some ideas about why they developed the way they did. The key idea to take away is that the standardized scripts that come to be used for books \(also called bookhands\) have a history and this history is useful for both understanding the history of communication, but also for dating manuscripts \(because scripts go in and out of fashion\). 
 
