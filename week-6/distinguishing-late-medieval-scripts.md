@@ -4,7 +4,8 @@ At Carleton we have a number of late medieval folios and manuscripts - all datin
 
 ## Checklist for identifying late medieval scripts
 
-[-] is the script up and down or slanted
+- is the script up and down or slanted?
+- ETC NEED TO WRITE THIS UP!!!
 
 
 
