@@ -61,6 +61,10 @@ This week marks a transition in the class away from our brief introduction to so
 * Shady Characters, "[Miscellany № 73: per Churchill et commata](https://shadycharacters.co.uk/2016/05/micellany-73-churchill/)"
 * "Why Europe’s Oldest Intact Book Was Found in a Saint’s Coffin," [https://daily.jstor.org/why-europes-oldest-intact-book-was-found-in-a-saints-coffin/](https://daily.jstor.org/why-europes-oldest-intact-book-was-found-in-a-saints-coffin/)
 
+**Videos:**
+
+There are lots of videos online about paper and parchment making. Check out this one about [Japanese paper making](http://www.openculture.com/2016/05/the-making-of-japanese-handmade-paper.html). The British Library's _Medieval England and France, 700-1200_ online exhibition has a number of[ high quality videos](https://www.bl.uk/medieval-english-french-manuscripts/videos) about the making of quills, ink, pigments, vellum and more. 
+
 **Digitized Examples**:
 
 * St. Cuthbert's Gospel: [http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=add\_ms\_89000](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=add_ms_89000)
@@ -208,6 +212,7 @@ Case studies:
 
 * Project to digitize palaeographical analysis. [https://www.manuscript-cultures.uni-hamburg.de/hat\_e.html](https://www.manuscript-cultures.uni-hamburg.de/hat_e.html)
 * Sketchfab 3D models, repository, [Musée de Cluny](https://sketchfab.com/francecollections/collections/musee-de-cluny) \(Museum of the Middle Ages\).
+* [The Soundscapes of the York Mystery Plays](http://soundscapesyorkmysteryplays.com/interface/)
 
 ## 15. Capturing Medieval Manuscripts
 
@@ -262,6 +267,7 @@ In this class we will be looking at the guidelines for encoding medieval manuscr
 
 In this class, we will consider how to foreground accessibility in developing online exhibitions. Also we will be considering the issue of dead sites – what happens to your site after you stop maintaining it and how to ensure the information you have work so hard on does not disappear into the ether…
 
+* [https://kristamurchison.com/medieval-guide-dogs/](https://kristamurchison.com/medieval-guide-dogs/)
 * Dene Grigar and Stuart Moulthrop, "TRAVERSALS: A Method of Preservation for Born-Digital Texts," in _Routledge Companion to Media Studies and the Digital Humanities_, 351-361.
 * Creative Commons vs. GNU Information Licence: Read selection from _Free Software, Free Society: Selected Essays of Richard M. Stallman,_ Second Edition: [http://www.gnu.org/doc/fsfs-ii-2.pdf](http://www.gnu.org/doc/fsfs-ii-2.pdf)
 
