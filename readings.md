@@ -217,7 +217,7 @@ What is IIIF and how uses it?
 Reviews
 
 * Sarah Ann Long, “Review: International Image Interoperability Framework \(IIIF\); Gallica; e-Codices: Virtual Manuscript Library of Switzerland,” Journal of the American Musicological Society 71, no. 2 \(August 1, 2018\): 561–72, [https://doi.org/10.1525/jams.2018.71.2.561](https://doi.org/10.1525/jams.2018.71.2.561).
-* * Using IIIF with Biblissima \(slides to accompany a talk\)
+* * [Using IIIF with Biblissima](https://projet.biblissima.fr/fr/browse-and-visualize-manuscripts-illuminations-iiif) \(slides to accompany a talk\)
 * * Schematic: LISA MCAULAY, “Benefits of the International Image Interoperability Framework \(IIIF\) Featuring Medieval Palimpsest Manuscripts,” Digital Initiatives Symposium, May 2, 2017, [https://digital.sandiego.edu/symposium/2017/2017/34](https://digital.sandiego.edu/symposium/2017/2017/34) which draws on work being done for [http://www.sinaipalimpsests.org/](http://www.sinaipalimpsests.org/)
 
 ## 17. Online Annotations
