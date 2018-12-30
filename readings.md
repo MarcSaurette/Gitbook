@@ -94,6 +94,7 @@ Reading medieval manuscripts is difficult for modern readers due to a complex us
 * Adriano Capelli's now quite old text on _Abbreviations_ remains the reference work of record. Luckily it has been semi-translated, updated and made more accessible. Read the intro to Capelli laying out a theory of medieval abbreviation, translated into English [here](https://kuscholarworks.ku.edu/bitstream/handle/1808/1821/47cappelli.pdf).
 * Use Capelli on a smart phone [here](https://www.adfontes.uzh.ch/mobile/#CappelliSeite) \(unfortunately the interface is only in French or German at this point\). The searchable version for a browser on a computer is [here](https://www.adfontes.uzh.ch). A digitized copy of the print version can be read on [Archive.org](https://archive.org/details/LexiconAbbreviaturarum).
 * On the _Ad fontes_ website, attempt to transcribe [this document](https://www.adfontes.uzh.ch/en/3171/training/lateinische-transkriptionsuebungen/brevier/brevier-aufgabe1) written in Gothica textualis. Unlike your folio, if you click the "show transcription" box at the bottom of the page, whenever you hover the cursor over the word you are deciphering, it will show you the answer \(I suggest this as a first stage to lessen the initial frustration of decipering and unpacking medieval writing\).
+* [Hypertext lexicon](http://martinellus.de/snt2/n/incipit.htm) for Tironian notes by Martin Hellman
 
 ## 8. Codicology: Understanding and Describing manuscript features
 
@@ -102,6 +103,8 @@ Reading medieval manuscripts is difficult for modern readers due to a complex us
 * Erik Kwakkel, "The Architecture of the Medieval Page," [https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/](https://medievalbooks.nl/2018/09/07/the-architecture-of-the-medieval-page/)
 * Sandra Hindman and Ariane Bergeron-Foote, _Binding and the Archeology of the Medieval and Renaissance Book_ \(available on slack\).
 * _Medieval & Early Modern Manuscripts Bookbinding Terms, Materials, Methods, And Models_ \(available on slack\).
+
+To get a sense of how the printed page needs multiple orientations on a single side before being cut into folios, check out [this blog post](https://graphicarts.princeton.edu/2018/12/20/diy-be-the-first-to-own-this-1673-book/) from the Firestone Library at Princeton. [Recto side](https://graphicarts.princeton.edu/wp-content/uploads/sites/158/2018/12/book1.jpg) can be printed out, as can [verso](https://graphicarts.princeton.edu/wp-content/uploads/sites/158/2018/12/book2.jpg). Put the two together and you have a signature/ quire.
 
 And try to understand the codicological description of Saint Cuthbert's Gospel \(shelfmarkL "Add MS 89000"; i.e. the 89000 manuscript added to the general collection after its initial catalogue was created. It became part of the British Library collection only in 2012\):
 
@@ -168,6 +171,7 @@ Working with Fragments:
 * Scott Gwara, _Otto Ege's Manuscripts_ \(on slack\)
 * Lost Manuscripts: pilot project to build catalogue for fragments. [About](http://www.lostmss.org.uk/project), [Terminology](http://www.lostmss.org.uk/project/how-use-site/terminology-fragments), [Sample Fragment](http://www.lostmss.org.uk/highlights/letters-law)
 * [Fragmentarium](https://fragmentarium.ms): another pilot project. [Case Studies](https://fragmentarium.ms/about/case_studies), [Timeline](https://fragmentarium.ms/about/digital-library)
+* First issue of the [Fragmentarium journal](http://fragmentology.ms/issues/1-2018/). Read one article to see how scholars use fragments as part of a larger historical question. 
 
 ## 11. Working it Out
 
@@ -196,19 +200,31 @@ Scanning or photographing manuscripts is one thing, but manuscripts can be repre
 How to capture medieval manuscripts? This class asks students to consider how people go about imaging, reproducing and creating facsimiles \(both physical and digital\) of medieval manuscripts.
 
 * Read about the National Library of Scotland's ongoing digitization effort. Their team has put together this description of all the tasks they must complete in this process: [pdf](https://www.nls.uk/media/1624630/project-digitise-leaflet.pdf) or [web](https://www.nls.uk/about-us/publications/project-digitise).
+* View [automatic digitization](http://www.k2.t.u-tokyo.ac.jp/vision/BFS-Auto/) at the University of Tokyo.
+* Digitization at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
+* An "un-digitization" at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
 
 ## 16. Using IIIF and Mirador
 
 On Omeka, we’ve already been using IIIF Images. This class we will look at how we can use IIIF to present images, but also how IIIF and its linked software allows scholars to productively study/ interact with medieval manuscripts.
 
-* sss
+What is IIIF and how uses it?
+
+* Check out their [github](https://github.com/IIIF-Commons) \(also [here](https://github.com/IIIF)\) and see participating institutional members of the [IIIF Community](https://iiif.io/community/#community-groups-committees) \(i.e. what libraries and museums use IIIF\)
+* For an introduction to IIIF, see their training manual. Read this [introductory section](https://iiif.github.io/training/iiif-5-day-workshop/day-one/iiif-introduction.html). Reads parts 2.2-2.4, so that you understand the difference between an Image API and a Presentation API. This is a 5-day training session - feel free to make your way through the, at times, very detailed exercises, but know we will only be asking you to interact with images, not figure out how to present and serve them...
+
+Reviews
+
+* Sarah Ann Long, “Review: International Image Interoperability Framework \(IIIF\); Gallica; e-Codices: Virtual Manuscript Library of Switzerland,” Journal of the American Musicological Society 71, no. 2 \(August 1, 2018\): 561–72, [https://doi.org/10.1525/jams.2018.71.2.561](https://doi.org/10.1525/jams.2018.71.2.561).
+* * Using IIIF with Biblissima \(slides to accompany a talk\)
+* * Schematic: LISA MCAULAY, “Benefits of the International Image Interoperability Framework \(IIIF\) Featuring Medieval Palimpsest Manuscripts,” Digital Initiatives Symposium, May 2, 2017, [https://digital.sandiego.edu/symposium/2017/2017/34](https://digital.sandiego.edu/symposium/2017/2017/34) which draws on work being done for [http://www.sinaipalimpsests.org/](http://www.sinaipalimpsests.org/)
 
 ## 17. Online Annotations
 
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
 
-* sss
-
+* Using IIIF Annotations and Crowdsourcing. [British Library Digital Scholarship Blog](https://blogs.bl.uk/digital-scholarship/2017/11/crowdsourcing-using-iiif-and-web-annotations.html)
+* 
 ## 18. Online Exhibitions
 
 What are the best practices for creating online exhibitions of archival/ medieval material? How does the digital environment offer new ways of exhibiting material? What are the strengths and weaknesses of online exhibits?
@@ -227,6 +243,10 @@ In this class, we will consider how to foreground accessibility in developing on
 
 * Dene Grigar and Stuart Moulthrop, "TRAVERSALS: A Method of Preservation for Born-Digital Texts," in _Routledge Companion to Media Studies and the Digital Humanities_, 351-361.
 * Creative Commons vs. GNU Information Licence: Read selection from _Free Software, Free Society: Selected Essays of Richard M. Stallman,_ Second Edition: [http://www.gnu.org/doc/fsfs-ii-2.pdf](http://www.gnu.org/doc/fsfs-ii-2.pdf)
+
+
+
+* Last ditch conservation strategy: [for physical items](https://twitter.com/FelbriggHallNT/status/1075351120212570112) 
 
 ## 21. One-on-one work with the professor I
 
