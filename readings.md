@@ -187,6 +187,7 @@ What is the difference between a manuscript and a digital version of it? This cl
 
 * Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group, "Futures of the Book," in _Routledge Companion to Media Studies and Digital Humanities_, 336-344.
 * Ted Underwood, "Seven ways humanists are using computers to understand texts," Blog post 2015, [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+* Patrick Sahle, “What is a Scholarly Digital Edition?” in _Digital Scholarly Editing: Theories and Practices_ - Open Book Publishers,” accessed December 30, 2018, [https://doi.org/10.11647/OBP.0095](https://doi.org/10.11647/OBP.0095) \(on slack\)
 
 ## 14. The Promise or the Possibilities of the Digital Humanities
 

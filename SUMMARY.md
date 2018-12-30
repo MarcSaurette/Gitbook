@@ -36,7 +36,7 @@
   * [Template for Folio Cataloguing](week-10/template-for-folio-cataloguing.md)
 * [Week 11 - Workday](week-11.md)
 * [Week 12 - Whetting your Digital Appetite](week-12.md)
-* [Week 13 -](week-13.md)
+* [Week 13 - Theory of the Digital Archive](week-13.md)
 * [Week 14](week-14.md)
 * [Week 15](week-15.md)
 * [Week 16](week-16/README.md)
