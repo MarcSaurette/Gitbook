@@ -188,6 +188,7 @@ What is the difference between a manuscript and a digital version of it? This cl
 * Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group, "Futures of the Book," in _Routledge Companion to Media Studies and Digital Humanities_, 336-344.
 * Ted Underwood, "Seven ways humanists are using computers to understand texts," Blog post 2015, [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 * Patrick Sahle, “What is a Scholarly Digital Edition?” in _Digital Scholarly Editing: Theories and Practices_ - Open Book Publishers,” accessed December 30, 2018, [https://doi.org/10.11647/OBP.0095](https://doi.org/10.11647/OBP.0095) \(on slack\)
+* [http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/](http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/)
 
 ## 14. The Promise or the Possibilities of the Digital Humanities
 
@@ -216,6 +217,7 @@ How to capture medieval manuscripts? This class asks students to consider how pe
 * View [automatic digitization](http://www.k2.t.u-tokyo.ac.jp/vision/BFS-Auto/) at the University of Tokyo.
 * Digitization at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
 * An "un-digitization" at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
+* Digitizing Big Items at the [British Library](https://twitter.com/BL_Digitisation/status/1070709407904923653)
 
 ## 16. Using IIIF and Mirador
 
@@ -231,11 +233,13 @@ Reviews
 
 * Sarah Ann Long, “Review: International Image Interoperability Framework \(IIIF\); Gallica; e-Codices: Virtual Manuscript Library of Switzerland,” Journal of the American Musicological Society 71, no. 2 \(August 1, 2018\): 561–72, [https://doi.org/10.1525/jams.2018.71.2.561](https://doi.org/10.1525/jams.2018.71.2.561).
 
-Examples of IIIF Implimentation
+Examples of IIIF Implementation
 
 * Bibliotheca Vaticana \(still in development, [announced and explained here](https://spotlight.vatlib.it/test-exhibit-for-demonstration) with preliminary scaffolding of the future website\)
 * [Using IIIF with Biblissima](https://projet.biblissima.fr/fr/browse-and-visualize-manuscripts-illuminations-iiif) \(these are slides to accompany a talk about the project\)
-* * 
+* [France and England Project: the Medieval Manuscripts between 700 and 1200](https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en) \(the manuscripts\)
+* [Medieval England and France, 700–1200](https://www.bl.uk/medieval-english-french-manuscripts) \(the exhibitions\)
+
 ## 17. Online Annotations
 
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
