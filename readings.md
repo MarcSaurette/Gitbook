@@ -179,11 +179,11 @@ No readings. During class time, students can meet with the professor one-on-one 
 
 ## 12. Putting it Together
 
-No readings. Debriefing the term; and maybe heading to LAC’s Preservation Lab.
+No readings. Debriefing the term/ teleconference with Tuija Ainonen, of the British Library. 
 
 ## 13. Theory of the Digital Archive
 
-What is the difference between a manuscript and a digital version of it? This class welcomes students back and begins our focus on digitization in earnest.
+What is the difference between a manuscript and a digital version of it? This class welcomes students back and begins our focus on digitization in earnest. Our first question should be, what makes a digital project, digital?
 
 * Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group, "Futures of the Book," in _Routledge Companion to Media Studies and Digital Humanities_, 336-344.
 * Ted Underwood, "Seven ways humanists are using computers to understand texts," Blog post 2015, [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
@@ -191,10 +191,22 @@ What is the difference between a manuscript and a digital version of it? This cl
 
 ## 14. The Promise or the Possibilities of the Digital Humanities
 
-Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts.
+Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts. Our goal in class is to come up with a set of criteria of what makes for  good DH project, related of course, to medieval manuscript studies...
+
+Think pieces: 
 
 * Andrew Prescott, Lorna Hughes, "Why do we Digitize?" [http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/)
-* [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
+* Appleford, Simon, and Jennifer Guiliano. “Best Practice Principles Of Designing Your First Project.” DevDH.org, 2013. \(recorded talk\) [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
+
+Databases
+
+* [Medieval Digital Resources](http://mdr-maa.org) curated by the Medieval Academy of America. 
+  * A searchable database of current digital projects
+
+Case studies: 
+
+* Project to digitize palaeographical analysis. [https://www.manuscript-cultures.uni-hamburg.de/hat\_e.html](https://www.manuscript-cultures.uni-hamburg.de/hat_e.html)
+* Sketchfab 3D models, repository, [Musée de Cluny](https://sketchfab.com/francecollections/collections/musee-de-cluny) \(Museum of the Middle Ages\).
 
 ## 15. Capturing Medieval Manuscripts
 
@@ -213,13 +225,17 @@ What is IIIF and how uses it?
 
 * Check out their [github](https://github.com/IIIF-Commons) \(also [here](https://github.com/IIIF)\) and see participating institutional members of the [IIIF Community](https://iiif.io/community/#community-groups-committees) \(i.e. what libraries and museums use IIIF\)
 * For an introduction to IIIF, see their training manual. Read this [introductory section](https://iiif.github.io/training/iiif-5-day-workshop/day-one/iiif-introduction.html). Reads parts 2.2-2.4, so that you understand the difference between an Image API and a Presentation API. This is a 5-day training session - feel free to make your way through the, at times, very detailed exercises, but know we will only be asking you to interact with images, not figure out how to present and serve them...
+* Poster: Lisa McAuley, “Benefits of the International Image Interoperability Framework \(IIIF\) Featuring Medieval Palimpsest Manuscripts,” Digital Initiatives Symposium, May 2, 2017, [https://digital.sandiego.edu/symposium/2017/2017/34](https://digital.sandiego.edu/symposium/2017/2017/34) which draws on work being done for [http://www.sinaipalimpsests.org/](http://www.sinaipalimpsests.org/)
 
 Reviews
 
 * Sarah Ann Long, “Review: International Image Interoperability Framework \(IIIF\); Gallica; e-Codices: Virtual Manuscript Library of Switzerland,” Journal of the American Musicological Society 71, no. 2 \(August 1, 2018\): 561–72, [https://doi.org/10.1525/jams.2018.71.2.561](https://doi.org/10.1525/jams.2018.71.2.561).
-* * [Using IIIF with Biblissima](https://projet.biblissima.fr/fr/browse-and-visualize-manuscripts-illuminations-iiif) \(slides to accompany a talk\)
-* * Schematic: LISA MCAULAY, “Benefits of the International Image Interoperability Framework \(IIIF\) Featuring Medieval Palimpsest Manuscripts,” Digital Initiatives Symposium, May 2, 2017, [https://digital.sandiego.edu/symposium/2017/2017/34](https://digital.sandiego.edu/symposium/2017/2017/34) which draws on work being done for [http://www.sinaipalimpsests.org/](http://www.sinaipalimpsests.org/)
 
+Examples of IIIF Implimentation
+
+* Bibliotheca Vaticana \(still in development, [announced and explained here](https://spotlight.vatlib.it/test-exhibit-for-demonstration) with preliminary scaffolding of the future website\)
+* [Using IIIF with Biblissima](https://projet.biblissima.fr/fr/browse-and-visualize-manuscripts-illuminations-iiif) \(these are slides to accompany a talk about the project\)
+* * 
 ## 17. Online Annotations
 
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
