@@ -189,11 +189,11 @@ No readings. Debriefing the term/ teleconference with Tuija Ainonen, of the Brit
 
 What is the difference between a manuscript and a digital version of it? This class welcomes students back and begins our focus on digitization in earnest. Our first question should be, what makes a digital project, digital? When we turn a manuscript into 1's and 0's, what do we do to it? What do we gain, or lose?
 
-* Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group, "Futures of the Book," in _Routledge Companion to Media Studies and Digital Humanities_, 336-344.
+* Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group, "Futures of the Book," in _Routledge Companion to Media Studies and Digital Humanities_, 336-344 \(on slack\)
 * David McKitterick, Old Books, _New Technologies The Representation, Conservation and Transformation of Books since 1700_, chp. 1, "The past in pixels", p. 1-26 \(on slack\).
 * Ted Underwood, "Seven ways humanists are using computers to understand texts," Blog post 2015, [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 * Patrick Sahle, “What is a Scholarly Digital Edition?” in _Digital Scholarly Editing: Theories and Practices_ - Open Book Publishers,” accessed December 30, 2018, [https://doi.org/10.11647/OBP.0095](https://doi.org/10.11647/OBP.0095) \(on slack\)
-* [http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/](http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/)
+* Jessie Wei-Hsuan Chen, "A Picture of a Picture of a Flower: On the Limitation of Working with Digitized Images", Blog Entry \(November 25, 2018\) [http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/](http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/)
 
 ## 14. The Promise or the Possibilities of the Digital Humanities
 
