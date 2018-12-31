@@ -37,7 +37,7 @@
   * [Template for Folio Cataloguing](week-10/template-for-folio-cataloguing.md)
 * [Week 11 - Workday](week-11.md)
 * [Week 12 - Whetting your Digital Appetite](week-12.md)
-* [Week 13 - Theory of the Digital Archive](week-13.md)
+* [Week 13 - The Theory of the Digital](week-13.md)
 * [Week 14 - The Promise of DH](week-14/README.md)
   * [Criteria for Evaluating DH Projects](week-14/criteria-for-evaluating-dh-projects.md)
 * [Week 15](week-15.md)

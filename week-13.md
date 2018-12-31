@@ -1,4 +1,4 @@
-# Week 13 - Theory of the Digital Archive
+# Week 13 - The Theory of the Digital
 
 
 
