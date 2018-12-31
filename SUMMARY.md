@@ -22,7 +22,7 @@
   * [Getting prepared for Transkribus](week-5/getting-started-with-transkribus.md)
 * [Week 6 - Palæography](week-6/README.md)
   * [Distinguishing Late Medieval Scripts](week-6/distinguishing-late-medieval-scripts.md)
-  * [Handwriting Analysis Tool \(HAT\)](week-6/handwriting-analysis-tool-hat.md)
+  * [Handwriting Analysis Tools](week-6/handwriting-analysis-tool-hat.md)
   * [Installing Medieval Unicode](week-6/installing-medieval-unicode.md)
   * [IRL Abbreviations](week-6/irl-abbreviations.md)
 * [Week 7 - Abbreviations](week-7/README.md)
