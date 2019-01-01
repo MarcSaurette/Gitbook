@@ -195,6 +195,11 @@ What is the difference between a manuscript and a digital version of it? This cl
 * Patrick Sahle, “What is a Scholarly Digital Edition?” in _Digital Scholarly Editing: Theories and Practices_ - Open Book Publishers,” accessed December 30, 2018, [https://doi.org/10.11647/OBP.0095](https://doi.org/10.11647/OBP.0095) \(on slack\)
 * Jessie Wei-Hsuan Chen, "A Picture of a Picture of a Flower: On the Limitation of Working with Digitized Images", Blog Entry \(November 25, 2018\) [http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/](http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/)
 
+Example of a well-funded and successful digitization effort \(links are to both sites of the same project\). This project will be object of continuing discussion this term. 
+
+* [France and England Project: the Medieval Manuscripts between 700 and 1200](https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en) \(the manuscripts\)
+* [Medieval England and France, 700–1200](https://www.bl.uk/medieval-english-french-manuscripts) \(the exhibitions\)
+
 ## 14. The Promise or the Possibilities of the Digital Humanities
 
 Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts. Our goal in class is to come up with a set of criteria of what makes for  good DH project, related of course, to medieval manuscript studies...
@@ -220,6 +225,7 @@ Case studies:
 How to capture medieval manuscripts? This class asks students to consider how people go about imaging, reproducing and creating facsimiles \(both physical and digital\) of medieval manuscripts.
 
 * Read about the National Library of Scotland's ongoing digitization effort. Their team has put together this description of all the tasks they must complete in this process: [pdf](https://www.nls.uk/media/1624630/project-digitise-leaflet.pdf) or [web](https://www.nls.uk/about-us/publications/project-digitise).
+* [Short article](https://penntoday.upenn.edu/news/penn-brings-philadelphias-rare-manuscripts-world) on digitization at UPenn. 
 * View [automatic digitization](http://www.k2.t.u-tokyo.ac.jp/vision/BFS-Auto/) at the University of Tokyo.
 * Digitization at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
 * An "un-digitization" at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
@@ -243,9 +249,7 @@ Examples of IIIF Implementation
 
 * Bibliotheca Vaticana \(still in development, [announced and explained here](https://spotlight.vatlib.it/test-exhibit-for-demonstration) with preliminary scaffolding of the future website\)
 * [Using IIIF with Biblissima](https://projet.biblissima.fr/fr/browse-and-visualize-manuscripts-illuminations-iiif) \(these are slides to accompany a talk about the project\)
-* [France and England Project: the Medieval Manuscripts between 700 and 1200](https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en) \(the manuscripts\)
-* [Medieval England and France, 700–1200](https://www.bl.uk/medieval-english-french-manuscripts) \(the exhibitions\)
-
+* 
 ## 17. Online Annotations
 
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
@@ -270,6 +274,7 @@ In this class, we will consider how to foreground accessibility in developing on
 
 * [https://kristamurchison.com/medieval-guide-dogs/](https://kristamurchison.com/medieval-guide-dogs/)
 * Dene Grigar and Stuart Moulthrop, "TRAVERSALS: A Method of Preservation for Born-Digital Texts," in _Routledge Companion to Media Studies and the Digital Humanities_, 351-361.
+* Elizabeth Ellcessor, "A Glitch in the Tower: Academia, Disability, and Digital Humanities" in  _Routledge Companion to Media Studies and the Digital Humanities_
 * Creative Commons vs. GNU Information Licence: Read selection from _Free Software, Free Society: Selected Essays of Richard M. Stallman,_ Second Edition: [http://www.gnu.org/doc/fsfs-ii-2.pdf](http://www.gnu.org/doc/fsfs-ii-2.pdf)
 
 
