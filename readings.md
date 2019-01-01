@@ -207,7 +207,7 @@ Scanning or photographing manuscripts is one thing, but manuscripts can be repre
 Think pieces: 
 
 * Andrew Prescott, Lorna Hughes, "Why do we Digitize?" [http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/)
-* Appleford, Simon, and Jennifer Guiliano. “Best Practice Principles Of Designing Your First Project.” DevDH.org, 2013. \(recorded talk\) [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
+* Appleford, Simon, and Jennifer Guiliano. “Best Practice Principles Of Designing Your First Project.” DevDH.org, 2013. \(recorded talk with powerpoint\) [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
 
 Databases
 
@@ -249,7 +249,8 @@ Examples of IIIF Implementation
 
 * Bibliotheca Vaticana \(still in development, [announced and explained here](https://spotlight.vatlib.it/test-exhibit-for-demonstration) with preliminary scaffolding of the future website\)
 * [Using IIIF with Biblissima](https://projet.biblissima.fr/fr/browse-and-visualize-manuscripts-illuminations-iiif) \(these are slides to accompany a talk about the project\)
-* 
+* [Demo search site](https://iiif.biblissima.fr/collections/) for IIIF images via Biblisimma
+
 ## 17. Online Annotations
 
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
