@@ -43,6 +43,7 @@
   * [Criteria for Evaluating DH Projects](week-14/criteria-for-evaluating-dh-projects.md)
 * [Week 15 - Capturing Manuscripts](week-15/README.md)
   * [How to take photos of documents](week-15/how-to-take-photos-of-documents.md)
+  * [Image File Formats](week-15/image-file-formats.md)
 * [Week 16](week-16/README.md)
   * [Our IIIF Images](week-16/our-iiif-images.md)
 * [Week 17](week-17/README.md)
