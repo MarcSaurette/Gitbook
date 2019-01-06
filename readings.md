@@ -164,7 +164,11 @@ For reference:
 * IMS, chps 8 and 9; pp. 117-134.
 * Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18 \(on slack\)
 * Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts \(on slack\)
-* Take a quick look at Ottawa in Conway and Fagin-David, _Directory of Collections in the United States and Canada with Pre-1600 Manuscript Holdings_ \(on slack\).
+* A [Handlist](https://schoenberginstitute.files.wordpress.com/2013/10/schoenbergmscollection.pdf) of Manuscripts in the Schoenberg Collection \(UPenn\)
+* Eric Johnson and Scott Gwara. ["The Butcher’s Bill”: Using the Schoenberg Database to Reverse-Engineer Medieval and Renaissance Manuscript Books from Constituent Fragments](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1012&context=mss_sims)
+  * The Schoenberg Database can be consulted online [here](https://sdbm.library.upenn.edu). 
+* Take a quick look at Ottawa in Conway and Fagin-Davis, _Directory of Collections in the United States and Canada with Pre-1600 Manuscript Holdings_ \(on slack\);
+  * The Conway and Fagin-Davis work is a supplement to the DeRicci census – an excellent description of whose process of development is described in Nigel Ramsay's article "Towards a Universal Catalogue of Early Manuscripts: Seymour de Ricci’s Census of Medieval and Renaissance Manuscripts in the United States and Canada." In [_Manuscript Studies_](https://repository.upenn.edu/mss_sims/vol1/iss1/5/) 1.1.
 
 Digitized Manuscript Project \(with well developed prose description\)
 
@@ -206,6 +210,7 @@ Scanning or photographing manuscripts is one thing, but manuscripts can be repre
 
 Think pieces: 
 
+* Evyn C. Kropf, "[Will that Surrogate Do?: Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1003&context=mss_sims)" In Manuscript Studies 1.1
 * Andrew Prescott, Lorna Hughes, "Why do we Digitize?" [http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/)
 * Appleford, Simon, and Jennifer Guiliano. “Best Practice Principles Of Designing Your First Project.” DevDH.org, 2013. \(recorded talk with powerpoint\) [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
 
@@ -225,11 +230,14 @@ Case studies:
 How to capture medieval manuscripts? This class asks students to consider how people go about imaging, reproducing and creating facsimiles \(both physical and digital\) of medieval manuscripts.
 
 * Read about the National Library of Scotland's ongoing digitization effort. Their team has put together this description of all the tasks they must complete in this process: [pdf](https://www.nls.uk/media/1624630/project-digitise-leaflet.pdf) or [web](https://www.nls.uk/about-us/publications/project-digitise).
-* [Short article](https://penntoday.upenn.edu/news/penn-brings-philadelphias-rare-manuscripts-world) on digitization at UPenn. 
+* [Short article](https://penntoday.upenn.edu/news/penn-brings-philadelphias-rare-manuscripts-world) on digitization at UPenn \(video not available in Canada! ARGHHH!\)
+  * A "[video orientation](https://schoenberginstitute.org/2018/12/10/manuscript-monday-ms-codex-236-latin-vulgate-bible/)" to Penn Library's MS Codex 236
+* An interview with Christina Duffy \(British Library\) on [multispectral imaging](https://youtu.be/lli3KiTy_-4)
+* [Short TedTalk](https://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=en) about the Multi-spectral imaging "Lazarus Project"
 * View [automatic digitization](http://www.k2.t.u-tokyo.ac.jp/vision/BFS-Auto/) at the University of Tokyo.
-* Digitization at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
-* An "un-digitization" at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
-* Digitizing Big Items at the [British Library](https://twitter.com/BL_Digitisation/status/1070709407904923653)
+* Photos of Digitization rig at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
+* A short "un-digitization" video at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
+* Photos of digitizing Big Items at the [British Library](https://twitter.com/BL_Digitisation/status/1070709407904923653)
 
 ## 16. Using IIIF and Mirador
 
