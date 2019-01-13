@@ -245,10 +245,8 @@ For more narrative/visual depictions of the digitization process, please see the
 * Photos of Digitization rig at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
 * A short "un-digitization" video at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
 * Photos of digitizing Big Items at the [British Library](https://twitter.com/BL_Digitisation/status/1070709407904923653)
-
-
-
-* \(Optional\) The debate about image standards continues. Here is one detailed study evaluating using RAW image files as an archival standard. Michael Bennett and Barry Wheeler, "Raw as Archival Still Image Format: A Consideration"
+* * Quick overview of image file types [here](http://users.wfu.edu/matthews/misc/graphics/formats/formats.html).
+* \(Optional\) The debate about image standards continues. Here is one detailed [study](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1027&context=libr_pubs) evaluating using RAW image files as an archival standard. Michael Bennett and Barry Wheeler, "Raw as Archival Still Image Format: A Consideration"
 
 ## 16. Using IIIF and Mirador
 
