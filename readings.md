@@ -63,7 +63,7 @@ This week marks a transition in the class away from our brief introduction to so
 
 **Videos:**
 
-There are lots of videos online about paper and parchment making. Check out this one about [Japanese paper making](http://www.openculture.com/2016/05/the-making-of-japanese-handmade-paper.html). The British Library's _Medieval England and France, 700-1200_ online exhibition has a number of[ high quality videos](https://www.bl.uk/medieval-english-french-manuscripts/videos) about the making of quills, ink, pigments, vellum and more. 
+There are lots of videos online about paper and parchment making. Check out this one about [Japanese paper making](http://www.openculture.com/2016/05/the-making-of-japanese-handmade-paper.html). The British Library's _Medieval England and France, 700-1200_ online exhibition has a number of[ high quality videos](https://www.bl.uk/medieval-english-french-manuscripts/videos) about the making of quills, ink, pigments, vellum and more.
 
 **Digitized Examples**:
 
@@ -187,7 +187,7 @@ No readings. During class time, students can meet with the professor one-on-one 
 
 ## 12. Putting it Together
 
-No readings. Debriefing the term/ teleconference with Tuija Ainonen, of the British Library. 
+No readings. Debriefing the term/ teleconference with Tuija Ainonen, of the British Library.
 
 ## 13. The Theory of the Digital
 
@@ -199,16 +199,16 @@ What is the difference between a manuscript and a digital version of it? This cl
 * Patrick Sahle, “What is a Scholarly Digital Edition?” in _Digital Scholarly Editing: Theories and Practices_ - Open Book Publishers,” accessed December 30, 2018, [https://doi.org/10.11647/OBP.0095](https://doi.org/10.11647/OBP.0095) \(on slack\)
 * Jessie Wei-Hsuan Chen, "A Picture of a Picture of a Flower: On the Limitation of Working with Digitized Images", Blog Entry \(November 25, 2018\) [http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/](http://jessieweihsuanchen.com/a-picture-of-a-picture-of-a-flower-on-the-limitation-of-working-with-digitized-images/)
 
-Example of a well-funded and successful digitization effort \(links are to both sites of the same project\). This project will be object of continuing discussion this term. 
+Example of a well-funded and successful digitization effort \(links are to both sites of the same project\). This project will be object of continuing discussion this term.
 
 * [France and England Project: the Medieval Manuscripts between 700 and 1200](https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en) \(the manuscripts\)
 * [Medieval England and France, 700–1200](https://www.bl.uk/medieval-english-french-manuscripts) \(the exhibitions\)
 
 ## 14. The Promise or the Possibilities of the Digital Humanities
 
-Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts. Our goal in class is to come up with a set of criteria of what makes for  good DH project, related of course, to medieval manuscript studies...
+Scanning or photographing manuscripts is one thing, but manuscripts can be represented or reproduced digitally in a myriad of ways. This class is intended as a brainstorming session for potential exhibitions people might want to develop and to explore the idea of the digital humanities as a gateway into diverse intellectual and creative interactions with texts. Our goal in class is to come up with a set of criteria of what makes for good DH project, related of course, to medieval manuscript studies...
 
-Think pieces: 
+Think pieces:
 
 * Evyn C. Kropf, "[Will that Surrogate Do?: Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1003&context=mss_sims)" In Manuscript Studies 1.1
 * Andrew Prescott, Lorna Hughes, "Why do we Digitize?" [http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/)
@@ -219,7 +219,7 @@ Databases
 * [Medieval Digital Resources](http://mdr-maa.org) curated by the Medieval Academy of America. 
   * A searchable database of current digital projects
 
-Case studies: 
+Case studies:
 
 * Project to digitize palaeographical analysis. [https://www.manuscript-cultures.uni-hamburg.de/hat\_e.html](https://www.manuscript-cultures.uni-hamburg.de/hat_e.html)
 * Sketchfab 3D models, repository, [Musée de Cluny](https://sketchfab.com/francecollections/collections/musee-de-cluny) \(Museum of the Middle Ages\).
@@ -229,10 +229,10 @@ Case studies:
 
 How to capture medieval manuscripts? This class asks students to consider how people go about imaging, reproducing and creating facsimiles \(both physical and digital\) of medieval manuscripts.
 
-The Department of Canadian Heritage has developed a [number tutorials and sets of guidelines](https://www.canada.ca/en/heritage-information-network/services/digitization.html) to help Canadian heritage institutions with the process of digitization. 
+The Department of Canadian Heritage has developed a [number tutorials and sets of guidelines](https://www.canada.ca/en/heritage-information-network/services/digitization.html) to help Canadian heritage institutions with the process of digitization.
 
-- Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp_2.0.pdf) to understand imaging terminology.
-- but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html).
+* Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp_2.0.pdf) to understand imaging terminology.
+* but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html).
 
 For more narrative/visual depictions of the digitization process, please see the following:
 
@@ -245,6 +245,10 @@ For more narrative/visual depictions of the digitization process, please see the
 * Photos of Digitization rig at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
 * A short "un-digitization" video at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
 * Photos of digitizing Big Items at the [British Library](https://twitter.com/BL_Digitisation/status/1070709407904923653)
+
+
+
+* \(Optional\) The debate about image standards continues. Here is one detailed study evaluating using RAW image files as an archival standard. Michael Bennett and Barry Wheeler, "Raw as Archival Still Image Format: A Consideration"
 
 ## 16. Using IIIF and Mirador
 
@@ -271,8 +275,7 @@ Examples of IIIF Implementation
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
 
 * Using IIIF Annotations and Crowdsourcing. [British Library Digital Scholarship Blog](https://blogs.bl.uk/digital-scholarship/2017/11/crowdsourcing-using-iiif-and-web-annotations.html)
-* 
-## 18. Online Exhibitions
+* **18. Online Exhibitions**
 
 What are the best practices for creating online exhibitions of archival/ medieval material? How does the digital environment offer new ways of exhibiting material? What are the strengths and weaknesses of online exhibits?
 
@@ -292,9 +295,6 @@ In this class, we will consider how to foreground accessibility in developing on
 * Dene Grigar and Stuart Moulthrop, "TRAVERSALS: A Method of Preservation for Born-Digital Texts," in _Routledge Companion to Media Studies and the Digital Humanities_, 351-361.
 * Elizabeth Ellcessor, "A Glitch in the Tower: Academia, Disability, and Digital Humanities" in  _Routledge Companion to Media Studies and the Digital Humanities_
 * Creative Commons vs. GNU Information Licence: Read selection from _Free Software, Free Society: Selected Essays of Richard M. Stallman,_ Second Edition: [http://www.gnu.org/doc/fsfs-ii-2.pdf](http://www.gnu.org/doc/fsfs-ii-2.pdf)
-
-
-
 * Last ditch conservation strategy: [for physical items](https://twitter.com/FelbriggHallNT/status/1075351120212570112) 
 
 ## 21. One-on-one work with the professor I
