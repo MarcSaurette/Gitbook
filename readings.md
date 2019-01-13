@@ -231,8 +231,10 @@ How to capture medieval manuscripts? This class asks students to consider how pe
 
 The Department of Canadian Heritage has developed a [number tutorials and sets of guidelines](https://www.canada.ca/en/heritage-information-network/services/digitization.html) to help Canadian heritage institutions with the process of digitization. 
 
-* Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp_2.0.pdf) to understand imaging terminology.
-* but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html).
+- Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp_2.0.pdf) to understand imaging terminology.
+- but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html).
+
+For more narrative/visual depictions of the digitization process, please see the following:
 
 * Read about the National Library of Scotland's ongoing digitization effort. Their team has put together this description of all the tasks they must complete in this process: [pdf](https://www.nls.uk/media/1624630/project-digitise-leaflet.pdf) or [web](https://www.nls.uk/about-us/publications/project-digitise).
 * [Short article](https://penntoday.upenn.edu/news/penn-brings-philadelphias-rare-manuscripts-world) on digitization at UPenn \(video not available in Canada! ARGHHH!\)
