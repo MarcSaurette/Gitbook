@@ -81,6 +81,8 @@ Generally for a good introduction to manuscripts, read the themed articles of th
 
 Paleography is the study of “old” ways of writing. Scripts go in and out of fashion, and thus how something is written allows us to date it with some certainty and often identify its origin. In this class, we will briefly explore the history of medieval Western European writing to get you thinking about distinctive features that help identify scripts of the folios we have in our collection.
 
+Your starting point should be a blog post by Yvonne Seale \(follow her on Twitter\) entitled, "[A Beginner’s Guide to Digital Palaeography of Medieval Manuscripts](https://yvonneseale.org/blog/2016/03/26/dh-palaeography/)". It lists loads of good resources, including [Enigma](http://enigma.huma-num.fr/), self-described as intended for "Unpuzzling difficult Latin readings in medieval manuscripts" \(i.e. gives you most likely potential readings from the letters you can read\).
+
 * _IMS_, chp. 2-3, p. 18-48, chp. 10, 135-178.
 * Erik Kwakkel, "Biting, Kissing and the Treatment of Feet: The Transitional Script of the Long Twelfth Century," in [_Turning over a New Leaf_](http://www.oapen.org/search?identifier=606213) \_\_\(Open Access book\).
 * And codicologists in action: see how to collaborate in Lisa Fagin Davis blog post: [https://manuscriptroadtrip.wordpress.com/2018/10/09/manuscript-road-trip-ege-and-phillipps-in-saskatchewan/](https://manuscriptroadtrip.wordpress.com/2018/10/09/manuscript-road-trip-ege-and-phillipps-in-saskatchewan/) and accompanying twitter thread: [https://twitter.com/lisafdavis/status/1045884565611515904](https://twitter.com/lisafdavis/status/1045884565611515904)

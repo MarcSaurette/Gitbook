@@ -2,6 +2,8 @@
 
 At Carleton we have a number of late medieval folios and manuscripts - all dating from the thirteenth-century to the sixteenth century. You goal is to identify key criteria to discern the characteristics of the script of your folio so that you can begin to understand its time and place of origin.
 
+Your starting point should be a blog post by Yvonne Seale \(follow her on Twitter\) entitled, "[A Beginner’s Guide to Digital Palaeography of Medieval Manuscripts](https://yvonneseale.org/blog/2016/03/26/dh-palaeography/)". It lists loads of good resources, including [Enigma](http://enigma.huma-num.fr/), self-described as intended for "Unpuzzling difficult Latin readings in medieval manuscripts" \(i.e. gives you most likely potential readings from the letters you can read\).
+
 ## Checklist for identifying late medieval scripts
 
 Instead of putting together something here, I will point you to the excellent work done elsewhere online:
