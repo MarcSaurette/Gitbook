@@ -65,6 +65,8 @@ This week marks a transition in the class away from our brief introduction to so
 
 There are lots of videos online about paper and parchment making. Check out this one about [Japanese paper making](http://www.openculture.com/2016/05/the-making-of-japanese-handmade-paper.html). The British Library's _Medieval England and France, 700-1200_ online exhibition has a number of[ high quality videos](https://www.bl.uk/medieval-english-french-manuscripts/videos) about the making of quills, ink, pigments, vellum and more.
 
+Generally for a good introduction to manuscripts, read the themed articles of the _Medieval England and France_ exhibit on "making [manuscripts](https://www.bl.uk/medieval-english-french-manuscripts/themes/making-manuscripts)".
+
 **Digitized Examples**:
 
 * St. Cuthbert's Gospel: [http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=add\_ms\_89000](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=add_ms_89000)
