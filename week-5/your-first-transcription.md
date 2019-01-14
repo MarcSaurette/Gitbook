@@ -29,7 +29,9 @@ If you are having problem making out all the letters in a word \(this can be har
 | \[ / \] | square brackets and slash | substitution of a new letter or word over an erasure; if original reading is legible, it is placed to the left of slash | \[/d\]omini _or_ \[h/d\]omini |
 | `[[ ]]` | double square brackets | portion of text lost through damage \(trimming of the margin, rodent activity, etc.\) | domin`[[*]]` with asterisks indicating the estimated number of letters lost |
 
-Strategies for transcription \(condensed from [BYU Script tutorial](https://script.byu.edu/Pages/Spanish/en/basics.aspx)\)
+## Strategies for transcription 
+
+\(Condensed from [BYU Script tutorial](https://script.byu.edu/Pages/Spanish/en/basics.aspx)\)
 
 1. STUDY A NEW HANDWRITING CAREFULLY. It is important to work carefully and slowly when beginning to read a new handwriting style, so as to develop a familiarity with the personal writing style of the priest or recorder, and the type of writing he is using. Also, notice any particular idiosyncrasies such as unique forms of particular letters, the use of certain abbreviations, or peculiar syntactical approaches.
 2. BEGIN WITH THOSE PORTIONS OF THE RECORD THAT ARE FAMILIAR.  Repeated phrases, dates, and names of which you are already sure can help to familiarize you with a new handwriting style. 
