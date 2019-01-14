@@ -6,9 +6,9 @@ At Carleton we have a number of late medieval folios and manuscripts - all datin
 
 Instead of putting together something here, I will point you to the excellent work done elsewhere online:
 
-* \*\*\*\*[CLASSIFICATION OF MEDIEVAL HANDWRITINGS IN LATIN SCRIPT](https://clamm.irht.cnrs.fr/2016/09/28/home/)
+* [Classification of Medieval Handwritings in Latin Script](https://clamm.irht.cnrs.fr/2016/09/28/home/) 
 * [Late Medieval English Scribes](https://www.medievalscribes.com/)
-* \*\*\*\*[Digital Pal](http://www.digipal.eu/)\(aeography\)
+* \*\*\*\*[Digital Pal](http://www.digipal.eu/)\(aeography\): [Digital Resource and Database of Palaeography, Manuscripts and Diplomatic](http://digipal.eu/).
 * [Oriflamms](http://oriflamms.teklia.com/) \(but haven't figured out what to do with this yet\)
 
 General tutorials on scripts key characteristics can be accessed at these sites:
