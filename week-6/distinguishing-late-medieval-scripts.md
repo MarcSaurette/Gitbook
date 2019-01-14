@@ -19,3 +19,5 @@ General tutorials on scripts key characteristics can be accessed at these sites:
 
 The standard for palaeographical analysis is found in the _Catalogue des manuscrits datée,_ an international association for palaeographical analysis based on manuscripts \(which can be precisely dated. Hardly interested in the modern world, their 1990s era website offers a [list](http://www.palaeographia.org/cipl/cmd.htm) of current publications that would be useful to consult for various national hands. The linked [Oriflamms](http://oriflamms.teklia.com/) and [Classification of Medieval Handwritings in Latin Script](https://clamm.irht.cnrs.fr/2016/09/28/home/) are attempting to help move the CMD into the 21st century. 
 
+A [page](http://www.menestrel.fr/?-Paleographie-&lang=fr) of helpful links compiled by Dominique Stutzman on palaeography \(in French\)
+
