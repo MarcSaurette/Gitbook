@@ -10,3 +10,5 @@ Instead of putting together something here, I will point you to the excellent wo
 * a series of transcription exercises are available on an Interactive Album of Mediaeval Palaeography. This [site](http://paleographie.huma-num.fr/index.php?l=en) allows students to read and examine examples of scripts from the seventh to the seventeenth century. The site was originally developed in French, but now \(for the most part\) available in English. 
 * And this French language [dossier](http://theleme.enc.sorbonne.fr/dossiers/index.php) \(album of palaeographical examples\) used for teaching students at the _École des chartes_ is very useful in that it provides images, transcriptions, translations and then a palaeographical commentary \(albeit all in French\). 
 
+The standard for palaeographical analysis is found in the _Catalogue des manuscrits datée,_ an international association for palaeographical analysis based on manuscripts \(which can be precisely dated. Hardly interested in the modern world, their 1990s era website offers a [list](http://www.palaeographia.org/cipl/cmd.htm) of current publications that would be useful to consult for various national hands. 
+
