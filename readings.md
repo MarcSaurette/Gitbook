@@ -165,6 +165,7 @@ For reference:
 
 ## 10. Cataloguing & Provenience
 
+* A key reference work is the [_Descriptive Cataloging of Ancient, Medieval, Renaissance, and Early Modern Manuscripts_](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/AMREMM_full.pdf), by Gregory A. Pass put together for the Bibliographic Standards Committee: Rare Books and Manuscripts Section.
 * IMS, chps 8 and 9; pp. 117-134.
 * Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18 \(on slack\)
 * Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts \(on slack\)
@@ -217,6 +218,7 @@ Think pieces:
 * Evyn C. Kropf, "[Will that Surrogate Do?: Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1003&context=mss_sims)" In Manuscript Studies 1.1
 * Andrew Prescott, Lorna Hughes, "Why do we Digitize?" [http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/)
 * Appleford, Simon, and Jennifer Guiliano. “Best Practice Principles Of Designing Your First Project.” DevDH.org, 2013. \(recorded talk with powerpoint\) [http://devdh.org/lectures/design/bestpractice/](http://devdh.org/lectures/design/bestpractice/)
+* Study the NISO \(National Information Standards Organization\) recommendations for developing digital projects: [https://www.niso.org/sites/default/files/2017-08/framework3.pdf](https://www.niso.org/sites/default/files/2017-08/framework3.pdf)
 
 Databases
 
