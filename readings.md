@@ -238,7 +238,7 @@ How to capture medieval manuscripts? This class asks students to consider how pe
 The Department of Canadian Heritage has developed a [number tutorials and sets of guidelines](https://www.canada.ca/en/heritage-information-network/services/digitization.html) to help Canadian heritage institutions with the process of digitization.
 
 * Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp_2.0.pdf) to understand imaging terminology.
-* but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html).
+* but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html). Keep in mind that images of all the folios have been photographed, and are already available through a IIIF server online. The exercises are useful tools for your to reflect on the process outlined, but not necessary to complete for our purpose.
 
 For more narrative/visual depictions of the digitization process, please see the following:
 
