@@ -282,11 +282,12 @@ Examples of IIIF Implementation
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
 
 * Using IIIF Annotations and Crowdsourcing. [British Library Digital Scholarship Blog](https://blogs.bl.uk/digital-scholarship/2017/11/crowdsourcing-using-iiif-and-web-annotations.html)
-* **18. Online Exhibitions**
+
+## **18. Online Exhibitions**
 
 What are the best practices for creating online exhibitions of archival/ medieval material? How does the digital environment offer new ways of exhibiting material? What are the strengths and weaknesses of online exhibits?
 
-* sss
+* \_\_[_Crowdsourcing the Arcane: Utilizing Flickr \(and Google\) to Describe Medieval Manuscript Fragments_](https://micahcapstone.wordpress.com/category/uncategorized/)\_\_
 
 ## 19. Encoding Medieval Texts
 
