@@ -55,6 +55,8 @@ Last minute addition for future reading \(completely optional\): [https://www.ch
 
 This week marks a transition in the class away from our brief introduction to some digital tools, towards a more in-depth understanding of medieval manuscripts and how they are put together. “Writing Supports” is the term used to describe the material on which text is written. Our discussion, therefore, is to understand what people write on \(paper, parchment, stone, wax, banana leaves etc.\) and how that affects how texts are constructed.
 
+* Darnton, Robert. ‘“What Is the History of Books?” Revisited’. _Modern Intellectual History_ 4, no. 3 \(November 2007\): 495–508. 
+* * [https://doi.org/10.1017/S1479244307001370](https://doi.org/10.1017/S1479244307001370); open-access, [https://nrs.harvard.edu/urn-3:HUL.InstRepos:3403039](https://nrs.harvard.edu/urn-3:HUL.InstRepos:3403039). \[A reflection on a classic essay: ‘What Is the History of Books?’ _Dædalus_ 111, no. 3 \(1982\): 65–83. [https://nrs.harvard.edu/urn-3:HUL.InstRepos:3403038](https://nrs.harvard.edu/urn-3:HUL.InstRepos:3403038).\]
 * [Introduction to Manuscript Studies, chp. 1](https://digitalarchiving.slack.com/files/UB732TGP8/FD0HUTQ2F/clemens_r.__graham_t._introduction_to_manuscript_studies._2007.djvu).
 * "Parchment," from [the Book and Paper Group Wiki](http://www.conservation-wiki.com/wiki/Parchment_%28PCC%29), authored by the Book and Paper Group of the American Institute for Conservation of Historic and Artistic Works.
 * Saenger, "Silent Reading and its impact on Late Medieval Reading" \(on slack\)
