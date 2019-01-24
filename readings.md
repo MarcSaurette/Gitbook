@@ -168,6 +168,10 @@ For reference:
 ## 10. Cataloguing & Provenience
 
 * A key reference work is the [_Descriptive Cataloging of Ancient, Medieval, Renaissance, and Early Modern Manuscripts_](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/AMREMM_full.pdf), by Gregory A. Pass put together for the Bibliographic Standards Committee: Rare Books and Manuscripts Section.
+* Suarez, Michael F. ‘Book History from Descriptive Bibliographies’. In _The Cambridge Companion to the History of the Book,_ edited by Leslie Howsam, 199–218. Cambridge: Cambridge University Press, 2014. [https://doi.org/10.1017/CCO9781139152242.015](https://doi.org/10.1017/CCO9781139152242.015).
+
+
+
 * IMS, chps 8 and 9; pp. 117-134.
 * Jeffrey Pomerantz, "Introduction," _Metadata_ \(Cambridge, MA: MIT Press, 2015\): p. 1-18 \(on slack\)
 * Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts \(on slack\)
