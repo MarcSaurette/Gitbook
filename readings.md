@@ -251,9 +251,6 @@ For more narrative/visual depictions of the digitization process, please see the
 * Photos of Digitization rig at [Uni Heidelberg](https://twitter.com/suz_paul/status/1075343688644132864)
 * A short "un-digitization" video at the [Walters Art Museum](https://twitter.com/i/status/1075882653310742528). 
 * Photos of digitizing Big Items at the [British Library](https://twitter.com/BL_Digitisation/status/1070709407904923653)
-
-
-
 * Quick overview of image file types [here](http://users.wfu.edu/matthews/misc/graphics/formats/formats.html).
 * \(Optional\) The debate about image standards continues. Here is one detailed [study](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1027&context=libr_pubs) evaluating using RAW image files as an archival standard. Michael Bennett and Barry Wheeler, "Raw as Archival Still Image Format: A Consideration"
 
@@ -261,8 +258,9 @@ For more narrative/visual depictions of the digitization process, please see the
 
 On Omeka, we’ve already been using IIIF Images. This class we will look at how we can use IIIF to present images, but also how IIIF and its linked software allows scholars to productively study/ interact with medieval manuscripts.
 
-What is IIIF and how uses it?
+What is IIIF and who uses it?
 
+* Try this video [introduction to Project Mirador](https://youtu.be/SnhlTk9CsNQ) \(a IIIF compliant viewer\)
 * Check out their [github](https://github.com/IIIF-Commons) \(also [here](https://github.com/IIIF)\) and see participating institutional members of the [IIIF Community](https://iiif.io/community/#community-groups-committees) \(i.e. what libraries and museums use IIIF\)
 * For an introduction to IIIF, see their training manual. Read this [introductory section](https://iiif.github.io/training/iiif-5-day-workshop/day-one/iiif-introduction.html). Reads parts 2.2-2.4, so that you understand the difference between an Image API and a Presentation API. This is a 5-day training session - feel free to make your way through the, at times, very detailed exercises, but know we will only be asking you to interact with images, not figure out how to present and serve them...
 * Poster: Lisa McAuley, “Benefits of the International Image Interoperability Framework \(IIIF\) Featuring Medieval Palimpsest Manuscripts,” Digital Initiatives Symposium, May 2, 2017, [https://digital.sandiego.edu/symposium/2017/2017/34](https://digital.sandiego.edu/symposium/2017/2017/34) which draws on work being done for [http://www.sinaipalimpsests.org/](http://www.sinaipalimpsests.org/)
@@ -282,18 +280,20 @@ Examples of IIIF Implementation
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
 
 * Using IIIF Annotations and Crowdsourcing. [British Library Digital Scholarship Blog](https://blogs.bl.uk/digital-scholarship/2017/11/crowdsourcing-using-iiif-and-web-annotations.html)
-
+* [Transkribus How-to-Guide](https://transkribus.eu/wiki/index.php/How_to_Guides)
+* 
 ## **18. Online Exhibitions**
 
 What are the best practices for creating online exhibitions of archival/ medieval material? How does the digital environment offer new ways of exhibiting material? What are the strengths and weaknesses of online exhibits?
 
 * \_\_[_Crowdsourcing the Arcane: Utilizing Flickr \(and Google\) to Describe Medieval Manuscript Fragments_](https://micahcapstone.wordpress.com/category/uncategorized/)\_\_
+* [Andrew Dunning review](https://ride.i-d-e.de/issues/issue-3/petrus_plaoul/)'s Jeffrey deWitt's _Petrus Plaoul. Commentarius in libros Sententiarum: Editiones electronicas._ To see what this original work evolved into after growing and [integrating IIIF](http://mirador.scta.info/?resourceid=plaoulreportatio), peruse his [Sentences Commentaries](http://scta.lombardpress.org/plaoulreportatio) site.
 
 ## 19. Encoding Medieval Texts
 
 In this class we will be looking at the guidelines for encoding medieval manuscripts developed by the TEI \(Text Encoding Initiative\). Shawn Hawkins \(College of the Humanities\) will be coming to talk to us about his ongoing collaboration to develop a digital edition of a fifteenth-century commentary on the Roman poet Catullus.
 
-* Andrew Dunning \(UofToronto\) has put together a brief post about how to author digital critical editions, including LaTex, Classical Text Editor and TEI. 
+* Andrew Dunning \(UofToronto\) has put together a brief post about how to author [digital critical editions](https://andrewdunning.ca/critical-edition-software), including LaTex, Classical Text Editor and TEI. 
 * To work with TEI, [h](https://andrewdunning.ca/getting-started-editing-tei-xml-atom)e also has written out a useful starting guide, including who to install Atom on your computer \(which you have already\). 
 * For a sense of what TEI is about take a look at Lou Burnard's short Open Edition [_What is the Text Encoding Initiative: How to add intelligent markup to digital resources_ ](https://books.openedition.org/oep/426?format=toc)_._ All in, this text runs to 114 pages, so read from the "Introduction" until the end of "Varieties of textual structure". Please read the whole thing if you get intrigued.
 *  For a medieval specific TEI guidelines, please take a look at the Digital Latin Library's [Guidelines Webpage](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) or as a repository on [Github](https://github.com/DigitalLatin/guidelines).
