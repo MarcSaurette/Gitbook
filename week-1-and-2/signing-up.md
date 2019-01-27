@@ -16,6 +16,14 @@ To help with communication in this class, I want to try to avoid email or cuLear
 2. Register yourself and sign in to our slack group – following the link I will send out after our first class.
 3. Click on the header "Channels" in the sidebar \(on desktop or browser versions\). It should say "Browse all channels" if you hover your cursor over it. Add yourself to all the public channels you can, by clicking on a channel and then pressing the "Join" button. These channels will now remain in your sidebar, updating you on contributions people make.
 
+### Trello
+
+We will be using Trello in conjunction with Slack to communicate and keep track of tasks. Trello is an organizational/ project management app/ site which we will use for brainstorming your final project, but we will also use to keep track of small exercises I will expect students do to each week. 
+
+1. Follow this link \[add here\] to join our Medieval Book team.
+2. Sign up, and look at the various boards. 
+3. Create a card in this list \[provide link\], with your name to show you logged in and successfully navigated to this \[add link here\] board.
+
 ### Humanities Commons
 
 Humanities Commons will be a hub for much of our initial activity, your profiles acting as a repository for much of the information about each student as well as the place where students will be blogging about their work and ideas.

@@ -35,6 +35,8 @@ Additional bonus points \(up to 5% of final grade\) may be awarded for organizat
 
 **Practical exercises.** Most weeks we will spend some time in class showing students how to complete some practical exercises \(such as transcription\) and using select digital tools. Usually, this work will be required to be finished on your own time afterwards. In the first term, this practical work will be digital \(e.g. signing up for accounts, exploring twitter etc.\) and codicological \(you will be working each week with the same medieval folio. At the end of each week \(Sunday evenings\), your work needs to be recorded in a markdown file on the medieval book [Github](https://github.com/MedievalBook/HIST4006/tree/master/Classwork). This weekly work will contribute key information and text for your final work each term. So long as you complete the work each week, your final projects will be easy to complete. You can imagine this as weekly “homework” needing to be done each week in addition to reading and thinking about the readings.
 
+In future iterations of this class, we should use Trello to keep track of work getting done and not getting done. 
+
 **Project Updates.** This is a catch-all term to describe blog posts \(4\) and burst of tweets \(minimum of 4 tweets x 4 times\) students must complete to reflect on the class readings or describe the ongoing process of digitizing manuscripts. Tweets/ blog posts can:
 
 * deal critically \(i.e. thoughtfully\) with the readings, note important points you took away from them, how they relate to other readings/ your other blog posts
