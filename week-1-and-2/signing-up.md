@@ -18,6 +18,8 @@ To help with communication in this class, I want to try to avoid email or cuLear
 
 ### Trello
 
+\[I need to complete this entry for the next time I teach the course\]
+
 We will be using Trello in conjunction with Slack to communicate and keep track of tasks. Trello is an organizational/ project management app/ site which we will use for brainstorming your final project, but we will also use to keep track of small exercises I will expect students do to each week. 
 
 1. Follow this link \[add here\] to join our Medieval Book team.
