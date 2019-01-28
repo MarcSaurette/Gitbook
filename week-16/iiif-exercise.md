@@ -75,7 +75,7 @@ Without changing the pixels locations specified above, we might only want to see
 
 * [https://iiif.library.carleton.ca/iiif/2/2018-07-07-hist4006-manuscriptimages%2FCUAG\_1995.62.13b.tif/1200,2050,1040,250/pct:50/0/default.jpg](https://iiif.library.carleton.ca/iiif/2/2018-07-07-hist4006-manuscriptimages%2FCUAG_1995.62.13b.tif/1200,2050,1040,250/pct:50/0/default.jpg)
 
-Looks like this \(not the smaller scale\): 
+Looks like this \(it should be smaller than the other one unless your browser window is narrow and has auto-adjusted the size of the images\): 
 
 ![/1200,2050,1040,250/pct:50/0/default.jpg](../.gitbook/assets/2018-07-07-hist4006-manuscriptimages_cuag_1995.62.13b.tif-1.jpg)
 
@@ -91,5 +91,5 @@ You can rotate, by supplying the third value with a number between 0 and 360 deg
 
 ### Quality
 
-Ideally, you can substitute "bitonal" or "gray" of "colour" for default.jpg, but this doesn't seem to be working in our case. So, well, trust me that it _can_ work. 
+Ideally, you can substitute "bitonal" or "gray" of "color"  \(note American spellings\) for default.jpg, but this doesn't seem to be working in our case. So, well, trust me that it _can_ work. 
 
