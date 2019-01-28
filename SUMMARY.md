@@ -46,6 +46,8 @@
   * [Image File Formats](week-15/image-file-formats.md)
 * [Week 16 - IIIF](week-16/README.md)
   * [Our IIIF Images](week-16/our-iiif-images.md)
+  * [Understanding IIIF Image Presentation](week-16/iiif-exercise.md)
+  * [Using IIIF Manifests](week-16/using-iiif-manifests.md)
 * [Week 17 - IIIF Annotations](week-17/README.md)
   * [Annotations in Mirador](week-17/annotations-in-mirador.md)
   * [Annotations with Transkribus](week-17/annotations-with-transkribus.md)
