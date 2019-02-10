@@ -305,7 +305,12 @@ What are the best practices for creating online exhibitions of archival/ medieva
 
 * \_\_[_Crowdsourcing the Arcane: Utilizing Flickr \(and Google\) to Describe Medieval Manuscript Fragments_](https://micahcapstone.wordpress.com/category/uncategorized/)\_\_
 * [Andrew Dunning review](https://ride.i-d-e.de/issues/issue-3/petrus_plaoul/)'s Jeffrey deWitt's _Petrus Plaoul. Commentarius in libros Sententiarum: Editiones electronicas._ To see what this original work evolved into after growing and [integrating IIIF](http://mirador.scta.info/?resourceid=plaoulreportatio), peruse his [Sentences Commentaries](http://scta.lombardpress.org/plaoulreportatio) site.
-* 
+
+Why Create an Exhibit? Understanding what you learn by working together:
+
+* Barbara Rockenbach, "Archives, Undergraduates, and Inquiry-Based Learning: Case Studies from Yale University Library" [_American Archivist_](https://americanarchivist.org/doi/pdf/10.17723/aarc.74.1.mml4871x2365j265)_._
+* Elizabeth Belanger, "Public History and Liberal Learning: Making the Case for the Undergraduate Practicum Experience," [The Public Historian](http://tph.ucpress.edu/content/34/4/3.full.pdf+html), Vol. 34 No. 4, Fall 2012; \(pp. 30-51\).
+
 ## 19. Encoding Medieval Texts
 
 In this class we will be looking at the guidelines for encoding medieval manuscripts developed by the TEI \(Text Encoding Initiative\). Shawn Hawkins \(College of the Humanities\) will be coming to talk to us about his ongoing collaboration to develop a digital edition of a fifteenth-century commentary on the Roman poet Catullus.
