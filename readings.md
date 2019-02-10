@@ -21,6 +21,7 @@ In recent years, there have arisen so many platforms for hosting DH projects tha
 
 * David R. Brake, "Are We All Online Content Creators Now? Web 2.0 and Digital Divides," _Journal of Computer-Mediated Communication_, Volume 19, Issue 3, 1 April 2014, Pages 591– 609, [https://doi.org/10.1111/jcc4.12042](https://doi.org/10.1111/jcc4.12042)
 * Terras, M.M and Boyle E.A, "Digital media production and identity: Insights from a psychological perspective," _E-Learning and Digital Media_. Vol 12, Issue 2, pp. 128 – 146, [https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179](https://doi-org.proxy.library.carleton.ca/10.1177/2042753014568179)
+* Esther Liberman Cuenca , Maryanne Kowaleski, "Omeka and Other Digital Platforms for Undergraduate Research Projects on the Middle Ages Authors" [_Digital Medievalist_.](https://journal.digitalmedievalist.org/articles/10.16995/dm.69/) 
 * Miriam Posner, [Up and Running with Omeka.ne](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)t
 
 {% embed url="https://staceyrdevlin.wordpress.com/2013/09/14/creating-an-online-presence-as-a-dh-professional/" caption="" %}
@@ -267,9 +268,11 @@ On Omeka, we’ve already been using IIIF Images. This class we will look at how
 What is IIIF and who uses it?
 
 * Try this video [introduction to Project Mirador](https://youtu.be/SnhlTk9CsNQ) \(a IIIF compliant viewer\)
+* Or this [powerpoint](http://www.doria.fi/bitstream/handle/10024/144097/2017-10_helsinki_iiif_tutorial.pdf?sequence=1). 
 * Check out their [github](https://github.com/IIIF-Commons) \(also [here](https://github.com/IIIF)\) and see participating institutional members of the [IIIF Community](https://iiif.io/community/#community-groups-committees) \(i.e. what libraries and museums use IIIF\)
 * For an introduction to IIIF, see their training manual. Read this [introductory section](https://iiif.github.io/training/iiif-5-day-workshop/day-one/iiif-introduction.html). Reads parts 2.2-2.4, so that you understand the difference between an Image API and a Presentation API. This is a 5-day training session - feel free to make your way through the, at times, very detailed exercises, but know we will only be asking you to interact with images, not figure out how to present and serve them...
 * Poster: Lisa McAuley, “Benefits of the International Image Interoperability Framework \(IIIF\) Featuring Medieval Palimpsest Manuscripts,” Digital Initiatives Symposium, May 2, 2017, [https://digital.sandiego.edu/symposium/2017/2017/34](https://digital.sandiego.edu/symposium/2017/2017/34) which draws on work being done for [http://www.sinaipalimpsests.org/](http://www.sinaipalimpsests.org/)
+* William Ying and James Shulman, " 'Bottled or Tap?' [A Map for Integrating International Image Interoperability Framework](http://mirror.dlib.org/dlib/july15/ying/07ying.html) \(IIIF\) into Shared Shelf and Artstor" 
 
 Reviews
 
@@ -285,16 +288,24 @@ Examples of IIIF Implementation
 
 The development of annotations offered by Hypothes.is and Mirador allows an intellectual engagement/ process not usually visible, but very helpful in the creation of knowledge. Too many annotations or unhelpful annotations, however, have the potential to negatively impact a project. We will explore the questions of how to encourage productive collaboration and how much access you want to make to the general public for your online material.
 
+* [Web Annotation Architecture](https://www.w3.org/annotation/diagrams/annotation-architecture.svg). This schematic should help you understand how web annotations work. Progress through the steps by clicking on the blue arrow in the top right corner. 
 * Using IIIF Annotations and Crowdsourcing. [British Library Digital Scholarship Blog](https://blogs.bl.uk/digital-scholarship/2017/11/crowdsourcing-using-iiif-and-web-annotations.html)
+* Joris van Zundert, "On Not Writing a Review about Mirador: Mirador, IIIF, and the Epistemological Gains of Distributed Digital Scholarly Resources." [Digital Medievalist](https://journal.digitalmedievalist.org/articles/10.16995/dm.78/). 
+* A helpful tutorial on Mirador has been [put together here](http://darthcrimson.org/hacking-mirador/). Halfway through is a detailed description of how to annotate, export and save annotations. 
+
+For Reference:
+
+* [Web Annotation Working Group](https://www.w3.org/annotation/). This site contains detailed technical documents on how to implement annotations online.
+* [Configuring Annotations in Mirador](https://github.com/ProjectMirador/mirador/wiki/Configuring-Annotations-in-Mirador). Project Mirador Github. How to set up your Project Mirador-enabled site to store annotations.
 * [Transkribus How-to-Guide](https://transkribus.eu/wiki/index.php/How_to_Guides)
-* 
+
 ## **18. Online Exhibitions**
 
 What are the best practices for creating online exhibitions of archival/ medieval material? How does the digital environment offer new ways of exhibiting material? What are the strengths and weaknesses of online exhibits?
 
 * \_\_[_Crowdsourcing the Arcane: Utilizing Flickr \(and Google\) to Describe Medieval Manuscript Fragments_](https://micahcapstone.wordpress.com/category/uncategorized/)\_\_
 * [Andrew Dunning review](https://ride.i-d-e.de/issues/issue-3/petrus_plaoul/)'s Jeffrey deWitt's _Petrus Plaoul. Commentarius in libros Sententiarum: Editiones electronicas._ To see what this original work evolved into after growing and [integrating IIIF](http://mirador.scta.info/?resourceid=plaoulreportatio), peruse his [Sentences Commentaries](http://scta.lombardpress.org/plaoulreportatio) site.
-
+* 
 ## 19. Encoding Medieval Texts
 
 In this class we will be looking at the guidelines for encoding medieval manuscripts developed by the TEI \(Text Encoding Initiative\). Shawn Hawkins \(College of the Humanities\) will be coming to talk to us about his ongoing collaboration to develop a digital edition of a fifteenth-century commentary on the Roman poet Catullus.
