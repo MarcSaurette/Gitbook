@@ -303,6 +303,7 @@ For Reference:
 
 What are the best practices for creating online exhibitions of archival/ medieval material? How does the digital environment offer new ways of exhibiting material? What are the strengths and weaknesses of online exhibits?
 
+* Kathy Fox, [_The design brief : setting a project up for success_](https://mavic.asn.au/assets/Kathy_Fox_MV_Design_Brief_Pres.pdf).
 * \_\_[_Crowdsourcing the Arcane: Utilizing Flickr \(and Google\) to Describe Medieval Manuscript Fragments_](https://micahcapstone.wordpress.com/category/uncategorized/)\_\_
 * [Andrew Dunning review](https://ride.i-d-e.de/issues/issue-3/petrus_plaoul/)'s Jeffrey deWitt's _Petrus Plaoul. Commentarius in libros Sententiarum: Editiones electronicas._ To see what this original work evolved into after growing and [integrating IIIF](http://mirador.scta.info/?resourceid=plaoulreportatio), peruse his [Sentences Commentaries](http://scta.lombardpress.org/plaoulreportatio) site.
 
