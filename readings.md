@@ -320,6 +320,11 @@ In this class we will be looking at the guidelines for encoding medieval manuscr
 
 * For a sense of what TEI is about take a look at Lou Burnard's short Open Edition [_What is the Text Encoding Initiative: How to add intelligent markup to digital resources_ ](https://books.openedition.org/oep/426?format=toc)_._ All in, this text runs to 114 pages, so read from the "Introduction" until the end of "Varieties of textual structure". Please read the whole thing if you get intrigued.
 
+#### Examples of TEI encoded Folio
+
+* Antiphonary folio located at the Beinecke Rare Book and Manuscript Library, catalogued on the [Fragmentarium website](https://fragmentarium.ms/description/F-5xax/383). 
+* [TEI xml](https://fragmentarium.ms/description/export/383/F-5xax-383.xml) sheet for the above Antiphonary folio. 
+
 #### Tools:
 
 * Andrew Dunning \(UToronto\) has put together [an introduction to tools](https://andrewdunning.ca/critical-edition-software) for authoring digital critical editions, including LaTex, Classical Text Editor and TEI. 

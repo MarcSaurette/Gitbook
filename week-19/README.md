@@ -1,8 +1,6 @@
 # Week 19 - TEI
 
-
-
-In this class we will be looking at the guidelines for encoding medieval manuscripts developed by the TEI \(Text Encoding Initiative\). Shawn Hawkins \(College of the Humanities\) will be coming to talk to us about his ongoing collaboration to develop a digital edition of a fifteenth-century commentary on the Roman poet Catullus.
+In this class we will be looking at the guidelines for encoding medieval manuscripts developed by the TEI \(Text Encoding Initiative\). Shawn Hawkins \(College of the Humanities\) likely be coming to talk to us about his ongoing collaboration to develop a digital edition of a fifteenth-century commentary on the Roman poet Catullus.
 
 Read to Understand What TEI is:
 
