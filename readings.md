@@ -334,10 +334,11 @@ In this class we will be looking at the guidelines for encoding medieval manuscr
 #### Reference:
 
 * For a medieval specific TEI guidelines, please take a look at the Digital Latin Library's [Guidelines Webpage](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) or as a repository on [Github](https://github.com/DigitalLatin/guidelines).
+* To learn how to take your first independent steps into the world of TEI encoding, take a look at [https://tei-c.org/support/learn/teach-yourself-tei/](https://tei-c.org/support/learn/teach-yourself-tei/)
 
 #### Work:
 
-* In class and for homework, you will begin your first TEI edition by following this [DLL training session](https://github.com/DigitalLatin/training).
+* In class and for homework, you can begin your first TEI edition by following this [DLL training session](https://github.com/DigitalLatin/training).
 
 ## 20. Accessibility and Durability for DH Projects
 
