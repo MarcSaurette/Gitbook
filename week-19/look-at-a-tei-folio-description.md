@@ -60,5 +60,5 @@ Rubricated initials. <persName/></decoNote>
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-As you can see if you compare this to the image, the description here is minimal - no discussion of music notation, palaeography etc. There is a lot that could be added, but the idea of _Fragmentarium_ in this case is to offer a limited description that has already been established \(in the reference book noted in line 68, "Hebbard, 2017"\). 
+As you can see if you compare this to the [image](https://fragmentarium.ms/view/page/F-5xax), the description here is minimal - no discussion of music notation, palaeography etc. There is a lot that could be added, but the idea of _Fragmentarium_ in this case is to offer a limited description that has already been established \(taken largely from the reference book noted in line 68, "Hebbard, 2017"\). 
 
