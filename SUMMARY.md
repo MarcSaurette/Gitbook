@@ -55,6 +55,7 @@
 * [Week 19 - TEI](week-19/README.md)
   * [Look at a TEI folio description](week-19/look-at-a-tei-folio-description.md)
   * [Digital Latin Library](week-19/digital-latin-library.md)
+  * [TEI export from Transkribus](week-19/tei-export-from-transkribus.md)
 * [Week 20 - Accessibility and Longevity](week-20.md)
 * [Week 21 - Work](week-21.md)
 * [Week 22 - Work](week-22.md)
