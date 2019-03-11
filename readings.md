@@ -344,11 +344,19 @@ In this class we will be looking at the guidelines for encoding medieval manuscr
 
 In this class, we will consider how to foreground accessibility in developing online exhibitions. Also we will be considering the issue of dead sites – what happens to your site after you stop maintaining it and how to ensure the information you have work so hard on does not disappear into the ether…
 
+* Last ditch conservation strategy: [for physical items](https://twitter.com/FelbriggHallNT/status/1075351120212570112) 
 * [https://kristamurchison.com/medieval-guide-dogs/](https://kristamurchison.com/medieval-guide-dogs/)
 * Dene Grigar and Stuart Moulthrop, "TRAVERSALS: A Method of Preservation for Born-Digital Texts," in _Routledge Companion to Media Studies and the Digital Humanities_, 351-361.
 * Elizabeth Ellcessor, "A Glitch in the Tower: Academia, Disability, and Digital Humanities" in  _Routledge Companion to Media Studies and the Digital Humanities_
 * Creative Commons vs. GNU Information Licence: Read selection from _Free Software, Free Society: Selected Essays of Richard M. Stallman,_ Second Edition: [http://www.gnu.org/doc/fsfs-ii-2.pdf](http://www.gnu.org/doc/fsfs-ii-2.pdf)
-* Last ditch conservation strategy: [for physical items](https://twitter.com/FelbriggHallNT/status/1075351120212570112) 
+
+**Optional**:
+
+George Williams, "Disability, Universal Design, and the Digital Humanities" [http://dhdebates.gc.cuny.edu/debates/text/44](http://dhdebates.gc.cuny.edu/debates/text/44).
+
+Malinda Thiede, "Preservation In Practice: A Survey Of New York City Digital Humanities Researchers" [http://www.inthelibrarywiththeleadpipe.org/2017/preservation-in-practice-a-survey-of-new-york-city-digital-humanities-researchers/](http://www.inthelibrarywiththeleadpipe.org/2017/preservation-in-practice-a-survey-of-new-york-city-digital-humanities-researchers/)
+
+Government of Ontario, _How to make new or significantly updated websites accessible for people with disabilities._ [https://www.ontario.ca/page/how-make-websites-accessible](https://www.ontario.ca/page/how-make-websites-accessible)
 
 ## 21. One-on-one work with the professor I
 
