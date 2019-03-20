@@ -267,7 +267,8 @@ On Omeka, we’ve already been using IIIF Images. This class we will look at how
 
 What is IIIF and who uses it?
 
-* Try this video [introduction to Project Mirador](https://youtu.be/SnhlTk9CsNQ) \(a IIIF compliant viewer\)
+* Watch this [video introduction](https://youtu.be/bfUoV6_arPA) by Ben Albritton \(Stanford\) about IIIF and medieval manuscripts. 
+* Watch this video [introduction to Project Mirador](https://youtu.be/SnhlTk9CsNQ) \(a IIIF compliant viewer\)
 * Or this [powerpoint](http://www.doria.fi/bitstream/handle/10024/144097/2017-10_helsinki_iiif_tutorial.pdf?sequence=1). 
 * Check out their [github](https://github.com/IIIF-Commons) \(also [here](https://github.com/IIIF)\) and see participating institutional members of the [IIIF Community](https://iiif.io/community/#community-groups-committees) \(i.e. what libraries and museums use IIIF\)
 * For an introduction to IIIF, see their training manual. Read this [introductory section](https://iiif.github.io/training/iiif-5-day-workshop/day-one/iiif-introduction.html). Reads parts 2.2-2.4, so that you understand the difference between an Image API and a Presentation API. This is a 5-day training session - feel free to make your way through the, at times, very detailed exercises, but know we will only be asking you to interact with images, not figure out how to present and serve them...
