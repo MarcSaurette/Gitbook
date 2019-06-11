@@ -242,6 +242,10 @@ Case studies:
 
 How to capture medieval manuscripts? This class asks students to consider how people go about imaging, reproducing and creating facsimiles \(both physical and digital\) of medieval manuscripts.
 
+A useful schematic of the digitization workflow via [Harvard EdX](https://courses.edx.org/asset-v1:HarvardX+DigHum_01+1T2019+type@asset+block@Idealized_Digitization_Workflow.jpg) 
+
+![Ideal Digitization Workflow - Created by Ceilyn Boyd for HarvardX](.gitbook/assets/asset-v1-harvardx+dighum_01+1t2019+type-asset+block-idealized_digitization_workflow.jpg)
+
 The Department of Canadian Heritage has developed a [number tutorials and sets of guidelines](https://www.canada.ca/en/heritage-information-network/services/digitization.html) to help Canadian heritage institutions with the process of digitization.
 
 * Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp_2.0.pdf) to understand imaging terminology.
